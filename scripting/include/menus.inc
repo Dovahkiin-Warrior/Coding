@@ -72,7 +72,7 @@ enum MenuAction
 /** Default menu actions */
 #define MENU_ACTIONS_DEFAULT	MenuAction_Select|MenuAction_Cancel|MenuAction_End
 /** All menu actions */
-#define MENU_ACTIONS_ALL		MenuAction:0xFFFFFFFF
+#define MENU_ACTIONS_ALL		view_as<MenuAction>(0xFFFFFFFF)
 
 #define MENU_NO_PAGINATION		0		/**< Menu should not be paginated (10 items max) */
 #define MENU_TIME_FOREVER		0		/**< Menu should be displayed as long as possible */
@@ -379,7 +379,7 @@ methodmap Menu < Handle
 
 	// Get or set the menu's pagination.
 	//  
-	// If pgination is MENU_NO_PAGINATION, and the exit button flag is set, 
+	// If pagination is MENU_NO_PAGINATION, and the exit button flag is set, 
 	// then the exit button flag is removed. It can be re-applied if desired.
 	property int Pagination {
 		public native get();

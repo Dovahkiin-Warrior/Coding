@@ -67,9 +67,6 @@ enum AuthIdType
 /**
  * MAXPLAYERS is not the same as MaxClients.
  * MAXPLAYERS is a hardcoded value as an upper limit.  MaxClients changes based on the server.
- *
- * Both GetMaxClients() and MaxClients are only available once the map is loaded, and should 
- * not be used in OnPluginStart().
  */
 
 #define MAXPLAYERS		65	/**< Maximum number of players SourceMod supports */
@@ -141,9 +138,33 @@ forward void OnClientDisconnect_Post(client);
  *
  * @param client		Client index.
  * @param args			Number of arguments.
- * @noreturn
+ * @return				Plugin_Handled blocks the command from being sent,
+ *						and Plugin_Continue resumes normal functionality.
  */
 forward Action:OnClientCommand(client, args);
+
+/**
+ * Called when a client is sending a KeyValues command.
+ *
+ * @param client		Client index.
+ * @param kv			Editable KeyValues data to be sent as the command.
+ *						(This handle should not be stored and will be closed
+ *						after this forward completes.)
+ * @return				Plugin_Handled blocks the command from being sent,
+ *						and Plugin_Continue resumes normal functionality.
+ */
+forward Action OnClientCommandKeyValues(int client, KeyValues kv);
+
+/**
+ * Called after a client has sent a KeyValues command.
+ *
+ * @param client		Client index.
+ * @param kv			KeyValues data sent as the command.
+ *						(This handle should not be stored and will be closed
+ *						after this forward completes.)
+ * @noreturn
+ */
+forward void OnClientCommandKeyValues_Post(int client, KeyValues kv);
 
 /**
  * Called whenever the client's settings are changed.
@@ -176,7 +197,7 @@ forward void OnClientAuthorized(client, const String:auth[]);
  * Note: If handled/blocked, PostAdminCheck must be signalled 
  * manually via NotifyPostAdminCheck().
  *
- * This callback is gauranteed to occur on all clients, and always 
+ * This callback is guaranteed to occur on all clients, and always 
  * after each OnClientPutInServer() call.
  *
  * @param client		Client index.
@@ -205,7 +226,7 @@ forward void OnClientPostAdminFilter(client);
  * Called once a client is authorized and fully in-game, and 
  * after all post-connection authorizations have been performed.  
  *
- * This callback is gauranteed to occur on all clients, and always 
+ * This callback is guaranteed to occur on all clients, and always 
  * after each OnClientPutInServer() call.
  *
  * @param client		Client index.
@@ -399,7 +420,7 @@ native bool:IsClientReplay(client);
  * Returns if a certain player is an observer/spectator.
  *
  * @param client		Player index.
- * @return				True if player is an obverser, false otherwise.
+ * @return				True if player is an observer, false otherwise.
  */
 native bool:IsClientObserver(client);
 

@@ -146,8 +146,7 @@ forward void OnPluginPauseChange(bool:pause);
 
 /**
  * Called before every server frame.  Note that you should avoid
- * doing expensive computations here, and you should declare large
- * local arrays using 'decl' instead of 'new'.
+ * doing expensive computations or declaring large local arrays.
  */
 forward void OnGameFrame();
 
@@ -477,7 +476,7 @@ forward void OnLibraryRemoved(const String:name[]);
  *
  * Serial change numbers are used to identify if a map list has changed.  Thus, if 
  * you pass a serial change number and it's equal to what SourceMod currently knows 
- * about the map list, then SourceMod won't reparse the file.
+ * about the map list, then SourceMod won't re-parse the file.
  *
  * If the maps end up being read from the maps folder (MAPLIST_FLAG_MAPSFOLDER), they 
  * are automatically sorted in alphabetical, ascending order.
@@ -643,8 +642,7 @@ enum NumberType
 
 enum Address
 {
-    Address_Null = 0,              //a typical invalid result when an address lookup fails
-    Address_MinimumValid = 0x10000 //addresses below this value are considered invalid to use for Load/Store
+    Address_Null = 0,              // a typical invalid result when an address lookup fails
 };
 
 /**
