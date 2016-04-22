@@ -1,0 +1,28 @@
+L 03/29/2016 - 03:46:57: SourceMod log file session started (file "L20160329.log") (Version "1.7.3-dev+5275")
+L 03/29/2016 - 03:46:57: -------- Mapchange to ctf_2fort --------
+L 03/29/2016 - 03:46:58: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 03/29/2016 - 03:46:58: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 03/29/2016 - 03:47:08: [deathrun.smx] Current map is not a deathrun map. Disabling Deathrun Gamemode.
+L 03/29/2016 - 03:47:09: [UPDATER] Successfully updated gamedata file "sm-cstrike.games/game.csgo.txt"
+L 03/29/2016 - 03:47:09: [UPDATER] Successfully updated gamedata file "core.games/common.games.txt"
+L 03/29/2016 - 03:47:09: [UPDATER] Successfully updated gamedata file "sdkhooks.games/game.neotokyo.txt"
+L 03/29/2016 - 03:47:09: [UPDATER] Successfully updated gamedata file "sdkhooks.games/game.empires.txt"
+L 03/29/2016 - 03:47:09: [UPDATER] Successfully updated gamedata file "sdkhooks.games/game.pvkii.txt"
+L 03/29/2016 - 03:47:09: [UPDATER] Successfully updated gamedata file "sdkhooks.games/engine.ep2v.txt"
+L 03/29/2016 - 03:47:09: [UPDATER] Successfully updated gamedata file "sdkhooks.games/game.nmrih.txt"
+L 03/29/2016 - 03:47:09: [UPDATER] Successfully updated gamedata file "sm-tf2.games.txt"
+L 03/29/2016 - 03:47:09: [UPDATER] Successfully updated gamedata file "sdktools.games/game.neotokyo.txt"
+L 03/29/2016 - 03:47:09: [UPDATER] Successfully updated gamedata file "sdktools.games/game.tf.txt"
+L 03/29/2016 - 03:47:09: [UPDATER] Successfully updated gamedata file "sdktools.games/engine.csgo.txt"
+L 03/29/2016 - 03:47:09: [UPDATER] Successfully updated gamedata file "sdktools.games/game.empires.txt"
+L 03/29/2016 - 03:47:09: [UPDATER] Successfully updated gamedata file "sdktools.games/game.pvkii.txt"
+L 03/29/2016 - 03:47:09: [UPDATER] Successfully updated gamedata file "sdktools.games/game.nmrih.txt"
+L 03/29/2016 - 03:47:09: [UPDATER] SourceMod has been updated, please reload it or restart your server.
+L 03/29/2016 - 03:47:10: [custom-chatcolors-menu.smx] Loaded 156 colors from configuration file addons/sourcemod/configs/custom-chatcolors-menu.cfg.
+L 03/29/2016 - 03:47:12: [custom-chatcolors-menu.smx] MySQL server configured. Variable saving enabled.
+L 03/29/2016 - 04:14:39: [basecommands.smx] "Console<0><Console><Console>" changed map to "dr_supermario64_v6b"
+L 03/29/2016 - 04:14:42: [SM] Changed map to "dr_supermario64_v6b"
+L 03/29/2016 - 04:14:43: -------- Mapchange to dr_supermario64_v6b --------
+L 03/29/2016 - 04:14:47: [deathrun.smx] Deathrun map detected. Enabling Deathrun Gamemode.
+L 03/29/2016 - 04:14:47: [custom-chatcolors-menu.smx] Loaded 156 colors from configuration file addons/sourcemod/configs/custom-chatcolors-menu.cfg.
+L 03/29/2016 - 12:59:14: Log file closed.

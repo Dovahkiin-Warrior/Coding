@@ -1,0 +1,15 @@
+L 04/12/2016 - 19:23:20: SourceMod log file session started (file "L20160412.log") (Version "1.7.3-dev+5275")
+L 04/12/2016 - 19:23:20: -------- Mapchange to tf_tornadohighway_final2 --------
+L 04/12/2016 - 19:23:20: [TF2ITEMS] "GiveNamedItem" offset = 479
+L 04/12/2016 - 19:23:21: [GEOIP] GeoIP database info: GEO-106FREE 20151103 Build 1 Copyright (c) 2015 MaxMind Inc All Rights Reserved
+L 04/12/2016 - 19:23:21: [freak_fortress_2.smx] ===Freak Fortress 2 Initializing-v1.10.8===
+L 04/12/2016 - 19:23:22: [rtd.smx] File test for rtd.phrases.txt: PASSED!
+L 04/12/2016 - 19:23:22: [rtd.smx] File test for rtd_effects.cfg: PASSED!
+L 04/12/2016 - 19:23:22: [rtd.smx] Loaded 35 effects: (19 good) (16 bad).
+L 04/12/2016 - 19:23:22: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 04/12/2016 - 19:23:22: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 04/12/2016 - 19:23:58: [deathrun.smx] Current map is not a deathrun map. Disabling Deathrun Gamemode.
+L 04/12/2016 - 19:24:00: [rtd.smx] Added chat trigger: rollthedice
+L 04/12/2016 - 19:24:00: [rtd.smx] Added chat trigger: roll
+L 04/12/2016 - 19:24:00: [custom-chatcolors-menu.smx] Loaded 156 colors from configuration file addons/sourcemod/configs/custom-chatcolors-menu.cfg.
+L 04/12/2016 - 19:24:00: [buildinghats.smx] [Building Hats] Executing configuration file addons/sourcemod/configs/buildinghats.cfg

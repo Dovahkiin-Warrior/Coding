@@ -1,0 +1,31 @@
+L 04/19/2016 - 01:19:07: SourceMod log file session started (file "L20160419.log") (Version "1.7.3-dev+5275")
+L 04/19/2016 - 01:19:07: -------- Mapchange to tf_tornadohighway_final2 --------
+L 04/19/2016 - 01:19:07: [TF2ITEMS] "GiveNamedItem" offset = 479
+L 04/19/2016 - 01:19:07: [GEOIP] GeoIP database info: GEO-106FREE 20151103 Build 1 Copyright (c) 2015 MaxMind Inc All Rights Reserved
+L 04/19/2016 - 01:20:06: SourceMod log file session started (file "L20160419.log") (Version "1.7.3-dev+5275")
+L 04/19/2016 - 01:20:06: -------- Mapchange to tf_tornadohighway_final2 --------
+L 04/19/2016 - 01:20:06: [TF2ITEMS] "GiveNamedItem" offset = 479
+L 04/19/2016 - 01:20:06: [GEOIP] GeoIP database info: GEO-106FREE 20151103 Build 1 Copyright (c) 2015 MaxMind Inc All Rights Reserved
+L 04/19/2016 - 01:20:06: [freak_fortress_2.smx] ===Freak Fortress 2 Initializing-v1.10.8===
+L 04/19/2016 - 01:20:06: [rtd.smx] File test for rtd.phrases.txt: PASSED!
+L 04/19/2016 - 01:20:06: [rtd.smx] File test for rtd_effects.cfg: PASSED!
+L 04/19/2016 - 01:20:06: [rtd.smx] Loaded 35 effects: (19 good) (16 bad).
+L 04/19/2016 - 01:20:06: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 04/19/2016 - 01:20:06: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 04/19/2016 - 01:20:23: SourceMod log file session started (file "L20160419.log") (Version "1.7.3-dev+5275")
+L 04/19/2016 - 01:20:23: -------- Mapchange to tf_tornadohighway_final2 --------
+L 04/19/2016 - 01:20:23: [TF2ITEMS] "GiveNamedItem" offset = 479
+L 04/19/2016 - 01:20:23: [GEOIP] GeoIP database info: GEO-106FREE 20151103 Build 1 Copyright (c) 2015 MaxMind Inc All Rights Reserved
+L 04/19/2016 - 01:20:30: [deathrun.smx] Current map is not a deathrun map. Disabling Deathrun Gamemode.
+L 04/19/2016 - 01:20:31: [rtd.smx] Added chat trigger: rollthedice
+L 04/19/2016 - 01:20:31: [rtd.smx] Added chat trigger: roll
+L 04/19/2016 - 01:20:31: [custom-chatcolors-menu.smx] Loaded 156 colors from configuration file addons/sourcemod/configs/custom-chatcolors-menu.cfg.
+L 04/19/2016 - 01:20:31: [buildinghats.smx] [Building Hats] Executing configuration file addons/sourcemod/configs/buildinghats.cfg
+L 04/19/2016 - 01:21:40: SourceMod log file session started (file "L20160419.log") (Version "1.7.3-dev+5275")
+L 04/19/2016 - 01:21:40: -------- Mapchange to tf_tornadohighway_final2 --------
+L 04/19/2016 - 01:21:40: [TF2ITEMS] "GiveNamedItem" offset = 479
+L 04/19/2016 - 01:21:40: [GEOIP] GeoIP database info: GEO-106FREE 20151103 Build 1 Copyright (c) 2015 MaxMind Inc All Rights Reserved
+L 04/19/2016 - 01:22:39: SourceMod log file session started (file "L20160419.log") (Version "1.7.3-dev+5275")
+L 04/19/2016 - 01:22:39: -------- Mapchange to tf_tornadohighway_final2 --------
+L 04/19/2016 - 01:22:39: [TF2ITEMS] "GiveNamedItem" offset = 479
+L 04/19/2016 - 01:22:40: [GEOIP] GeoIP database info: GEO-106FREE 20151103 Build 1 Copyright (c) 2015 MaxMind Inc All Rights Reserved

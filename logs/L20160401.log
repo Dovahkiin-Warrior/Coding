@@ -1,0 +1,332 @@
+L 04/01/2016 - 00:00:24: SourceMod log file session started (file "L20160401.log") (Version "1.7.3-dev+5275")
+L 04/01/2016 - 00:00:24: [respawn.smx] "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" respawned "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>"
+L 04/01/2016 - 00:00:53: [TF2 Set Class.smx] "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" set class of  "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" to (class Scout)
+L 04/01/2016 - 00:02:27: [basecommands.smx] "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" console command (cmdline ""sv_downloadurl http://snowdovah.tk/fastdl/"")
+L 04/01/2016 - 00:03:41: [playercommands.smx] "Haus The Plague Doctor<6><[U:1:152306824]><>" slayed "Haus The Plague Doctor<6><[U:1:152306824]><>"
+L 04/01/2016 - 00:30:18: [basecommands.smx] "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" changed map to "dr_safety_first_final"
+L 04/01/2016 - 00:30:21: [SM] Changed map to "dr_safety_first_final"
+L 04/01/2016 - 00:30:25: -------- Mapchange to dr_safety_first_final --------
+L 04/01/2016 - 00:30:29: [deathrun.smx] Deathrun map detected. Enabling Deathrun Gamemode.
+L 04/01/2016 - 00:30:29: [custom-chatcolors-menu.smx] Loaded 156 colors from configuration file addons/sourcemod/configs/custom-chatcolors-menu.cfg.
+L 04/01/2016 - 00:31:45: [respawn.smx] "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" respawned "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>"
+L 04/01/2016 - 00:31:59: [TF2 Set Class.smx] "Haus The Plague Doctor<15><[U:1:152306824]><>" set class of  "Haus The Plague Doctor<15><[U:1:152306824]><>" to (class Engineer)
+L 04/01/2016 - 00:32:04: [selfnoclip.smx] Enabled noclip
+L 04/01/2016 - 00:32:05: [selfnoclip.smx] Disabled noclip
+L 04/01/2016 - 00:32:53: [TF2 Set Class.smx] "Haus The Plague Doctor<15><[U:1:152306824]><>" set class of  "Haus The Plague Doctor<15><[U:1:152306824]><>" to (class Engineer)
+L 04/01/2016 - 01:05:37: [sounds.smx] "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" played sound on "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" (file "dovahyt/wot.mp3")
+L 04/01/2016 - 01:05:37: [sounds.smx] "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" played sound on "SCOUT<3><[U:1:169831487]><>" (file "dovahyt/wot.mp3")
+L 04/01/2016 - 01:05:37: [sounds.smx] "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" played sound on "☆SFSP☆Justified<4><[U:1:211656058]><>" (file "dovahyt/wot.mp3")
+L 04/01/2016 - 01:05:37: [sounds.smx] "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" played sound on "❤Juan❤<7><[U:1:140118391]><>" (file "dovahyt/wot.mp3")
+L 04/01/2016 - 01:05:37: [sounds.smx] "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" played sound on "Lucario<9><[U:1:127599042]><>" (file "dovahyt/wot.mp3")
+L 04/01/2016 - 01:05:37: [sounds.smx] "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" played sound on "JimmyJimJim<16><[U:1:197596002]><>" (file "dovahyt/wot.mp3")
+L 04/01/2016 - 01:07:16: [respawn.smx] "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" respawned "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>"
+L 04/01/2016 - 01:11:55: [respawn.smx] "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" respawned "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>"
+L 04/01/2016 - 01:13:09: [TF2 Set Class.smx] "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" set class of  "☆SFSP☆Justified<4><[U:1:211656058]><>" to (class Pyro)
+L 04/01/2016 - 01:35:58: [playercommands.smx] "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" renamed "SCOUT<3><[U:1:169831487]><>" to "MEDIC")
+L 04/01/2016 - 01:49:12: [selfnoclip.smx] Enabled noclip
+L 04/01/2016 - 01:49:16: [selfnoclip.smx] Disabled noclip
+L 04/01/2016 - 01:51:28: [respawn.smx] "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" respawned "TCLG6x6<24><[U:1:82685988]><>"
+L 04/01/2016 - 01:54:12: [playercommands.smx] "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" slayed "❤Juan❤<21><[U:1:140118391]><>"
+L 04/01/2016 - 01:54:43: [respawn.smx] "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" respawned "TCLG6x6<24><[U:1:82685988]><>"
+L 04/01/2016 - 01:55:45: [selfnoclip.smx] Enabled noclip
+L 04/01/2016 - 02:02:04: [TF2 Set Class.smx] "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" set class of  "[GOLD ENGIE]DeathDragon25<23><[U:1:180579520]><>" to (class Demoman)
+L 04/01/2016 - 02:02:20: [respawn.smx] "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" respawned "[GOLD ENGIE]DeathDragon25<23><[U:1:180579520]><>"
+L 04/01/2016 - 02:05:08: [TF2 Set Class.smx] "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" set class of  "God hates normies<28><[U:1:209929777]><>" to (class Demoman)
+L 04/01/2016 - 02:05:11: [respawn.smx] "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" respawned "God hates normies<28><[U:1:209929777]><>"
+L 04/01/2016 - 02:05:16: [TF2 Set Class.smx] "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" set class of  "☠ Masgrew ☠<34><[U:1:99197914]><>" to (class Demoman)
+L 04/01/2016 - 02:05:19: [respawn.smx] "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" respawned "☠ Masgrew ☠<34><[U:1:99197914]><>"
+L 04/01/2016 - 02:05:25: [TF2 Set Class.smx] "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" set class of  "(P.P.P)verbi the magician<30><[U:1:251451357]><>" to (class Demoman)
+L 04/01/2016 - 02:05:28: [respawn.smx] "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" respawned "(P.P.P)verbi the magician<30><[U:1:251451357]><>"
+L 04/01/2016 - 02:06:01: [TF2 Set Class.smx] "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" set class of  "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" to (class Demoman)
+L 04/01/2016 - 02:06:01: [TF2 Set Class.smx] "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" set class of  "☠ Masgrew ☠<34><[U:1:99197914]><>" to (class Demoman)
+L 04/01/2016 - 02:06:01: [TF2 Set Class.smx] "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" set class of  "SCOUT<26><[U:1:169831487]><>" to (class Demoman)
+L 04/01/2016 - 02:06:01: [TF2 Set Class.smx] "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" set class of  "[GOLD ENGIE]DeathDragon25<23><[U:1:180579520]><>" to (class Demoman)
+L 04/01/2016 - 02:06:01: [TF2 Set Class.smx] "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" set class of  "God hates normies<28><[U:1:209929777]><>" to (class Demoman)
+L 04/01/2016 - 02:06:01: [TF2 Set Class.smx] "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" set class of  "«♫♠♪JΦΣN♪♠♫»<29><[U:1:173185269]><>" to (class Demoman)
+L 04/01/2016 - 02:06:01: [TF2 Set Class.smx] "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" set class of  "(P.P.P)verbi the magician<30><[U:1:251451357]><>" to (class Demoman)
+L 04/01/2016 - 02:06:03: [respawn.smx] "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" respawned "«♫♠♪JΦΣN♪♠♫»<29><[U:1:173185269]><>"
+L 04/01/2016 - 02:06:08: [respawn.smx] "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" respawned "crayfish gaming<32><[U:1:145254287]><>"
+L 04/01/2016 - 02:06:13: [respawn.smx] "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" respawned "[GOLD ENGIE]DeathDragon25<23><[U:1:180579520]><>"
+L 04/01/2016 - 02:07:10: [respawn.smx] "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" respawned "๖ۣKenzii-ℜagØn{ƞsjt}<41><[U:1:217286037]><>"
+L 04/01/2016 - 02:07:15: [respawn.smx] "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" respawned "crayfish gaming<32><[U:1:145254287]><>"
+L 04/01/2016 - 02:07:24: [respawn.smx] "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" respawned "POSTITNOTE HEALER<36><[U:1:183883546]><>"
+L 04/01/2016 - 02:07:27: [TF2 Set Class.smx] "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" set class of  "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" to (class Demoman)
+L 04/01/2016 - 02:07:27: [TF2 Set Class.smx] "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" set class of  "☠ Masgrew ☠<34><[U:1:99197914]><>" to (class Demoman)
+L 04/01/2016 - 02:07:27: [TF2 Set Class.smx] "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" set class of  "SCOUT<26><[U:1:169831487]><>" to (class Demoman)
+L 04/01/2016 - 02:07:27: [TF2 Set Class.smx] "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" set class of  "[GOLD ENGIE]DeathDragon25<23><[U:1:180579520]><>" to (class Demoman)
+L 04/01/2016 - 02:07:27: [TF2 Set Class.smx] "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" set class of  "God hates normies<28><[U:1:209929777]><>" to (class Demoman)
+L 04/01/2016 - 02:07:27: [TF2 Set Class.smx] "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" set class of  "«♫♠♪JΦΣN♪♠♫»<29><[U:1:173185269]><>" to (class Demoman)
+L 04/01/2016 - 02:07:27: [TF2 Set Class.smx] "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" set class of  "(P.P.P)verbi the magician<30><[U:1:251451357]><>" to (class Demoman)
+L 04/01/2016 - 02:07:27: [TF2 Set Class.smx] "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" set class of  "crayfish gaming<32><[U:1:145254287]><>" to (class Demoman)
+L 04/01/2016 - 02:07:27: [TF2 Set Class.smx] "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" set class of  "Fangonic<33><[U:1:154955420]><>" to (class Demoman)
+L 04/01/2016 - 02:07:27: [TF2 Set Class.smx] "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" set class of  "POSTITNOTE HEALER<36><[U:1:183883546]><>" to (class Demoman)
+L 04/01/2016 - 02:07:27: [TF2 Set Class.smx] "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" set class of  "๖ۣKenzii-ℜagØn{ƞsjt}<41><[U:1:217286037]><>" to (class Demoman)
+L 04/01/2016 - 02:07:36: [TF2 Set Class.smx] "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" set class of  "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" to (class Demoman)
+L 04/01/2016 - 02:07:36: [TF2 Set Class.smx] "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" set class of  "☠ Masgrew ☠<34><[U:1:99197914]><>" to (class Demoman)
+L 04/01/2016 - 02:07:36: [TF2 Set Class.smx] "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" set class of  "SCOUT<26><[U:1:169831487]><>" to (class Demoman)
+L 04/01/2016 - 02:07:36: [TF2 Set Class.smx] "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" set class of  "[GOLD ENGIE]DeathDragon25<23><[U:1:180579520]><>" to (class Demoman)
+L 04/01/2016 - 02:07:36: [TF2 Set Class.smx] "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" set class of  "God hates normies<28><[U:1:209929777]><>" to (class Demoman)
+L 04/01/2016 - 02:07:36: [TF2 Set Class.smx] "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" set class of  "«♫♠♪JΦΣN♪♠♫»<29><[U:1:173185269]><>" to (class Demoman)
+L 04/01/2016 - 02:07:36: [TF2 Set Class.smx] "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" set class of  "(P.P.P)verbi the magician<30><[U:1:251451357]><>" to (class Demoman)
+L 04/01/2016 - 02:07:36: [TF2 Set Class.smx] "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" set class of  "pandawassup11<35><[U:1:203354296]><>" to (class Demoman)
+L 04/01/2016 - 02:07:36: [TF2 Set Class.smx] "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" set class of  "crayfish gaming<32><[U:1:145254287]><>" to (class Demoman)
+L 04/01/2016 - 02:07:36: [TF2 Set Class.smx] "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" set class of  "Fangonic<33><[U:1:154955420]><>" to (class Demoman)
+L 04/01/2016 - 02:07:36: [TF2 Set Class.smx] "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" set class of  "POSTITNOTE HEALER<36><[U:1:183883546]><>" to (class Demoman)
+L 04/01/2016 - 02:07:36: [TF2 Set Class.smx] "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" set class of  "๖ۣKenzii-ℜagØn{ƞsjt}<41><[U:1:217286037]><>" to (class Demoman)
+L 04/01/2016 - 02:07:38: [respawn.smx] "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" respawned "☠ Masgrew ☠<34><[U:1:99197914]><>"
+L 04/01/2016 - 02:07:38: [respawn.smx] "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" respawned "pandawassup11<35><[U:1:203354296]><>"
+L 04/01/2016 - 02:07:38: [respawn.smx] "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" respawned "Fangonic<33><[U:1:154955420]><>"
+L 04/01/2016 - 02:07:49: [respawn.smx] "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" respawned "Zevo<42><[U:1:268151928]><>"
+L 04/01/2016 - 02:08:08: [basechat.smx] "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" triggered sm_csay (text LETS DO THIS)
+L 04/01/2016 - 02:08:13: [basechat.smx] "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" triggered sm_csay (text shhh)
+L 04/01/2016 - 02:08:19: [respawn.smx] "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" respawned "pandawassup11<35><[U:1:203354296]><>"
+L 04/01/2016 - 02:09:00: [respawn.smx] "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" respawned "SCOUT<26><[U:1:169831487]><>"
+L 04/01/2016 - 02:09:00: [respawn.smx] "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" respawned "[GOLD ENGIE]DeathDragon25<23><[U:1:180579520]><>"
+L 04/01/2016 - 02:09:00: [respawn.smx] "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" respawned "«♫♠♪JΦΣN♪♠♫»<29><[U:1:173185269]><>"
+L 04/01/2016 - 02:09:00: [respawn.smx] "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" respawned "crayfish gaming<32><[U:1:145254287]><>"
+L 04/01/2016 - 02:09:00: [respawn.smx] "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" respawned "Fangonic<33><[U:1:154955420]><>"
+L 04/01/2016 - 02:09:00: [respawn.smx] "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" respawned "POSTITNOTE HEALER<36><[U:1:183883546]><>"
+L 04/01/2016 - 02:09:10: [respawn.smx] "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" respawned "pandawassup11<35><[U:1:203354296]><>"
+L 04/01/2016 - 02:09:10: [respawn.smx] "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" respawned "Zevo<42><[U:1:268151928]><>"
+L 04/01/2016 - 02:09:21: [basechat.smx] "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" triggered sm_csay (text gold shhh)
+L 04/01/2016 - 02:09:44: [basechat.smx] "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" triggered sm_csay (text guys shush)
+L 04/01/2016 - 02:09:55: [basechat.smx] "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" triggered sm_csay (text thanks)
+L 04/01/2016 - 02:09:58: [sourcecomms.smx] "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" muted "crayfish gaming<32><[U:1:145254287]><>" (minutes "30") (reason "")
+L 04/01/2016 - 02:10:37: [selfnoclip.smx] Enabled noclip
+L 04/01/2016 - 02:10:37: [selfnoclip.smx] Disabled noclip
+L 04/01/2016 - 02:10:39: [selfnoclip.smx] Enabled noclip
+L 04/01/2016 - 02:10:40: [selfnoclip.smx] Disabled noclip
+L 04/01/2016 - 02:11:00: [respawn.smx] "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" respawned "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>"
+L 04/01/2016 - 02:11:00: [respawn.smx] "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" respawned "☠ Masgrew ☠<34><[U:1:99197914]><>"
+L 04/01/2016 - 02:11:00: [respawn.smx] "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" respawned "[GOLD ENGIE]DeathDragon25<23><[U:1:180579520]><>"
+L 04/01/2016 - 02:11:00: [respawn.smx] "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" respawned "«♫♠♪JΦΣN♪♠♫»<29><[U:1:173185269]><>"
+L 04/01/2016 - 02:11:00: [respawn.smx] "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" respawned "POSTITNOTE HEALER<36><[U:1:183883546]><>"
+L 04/01/2016 - 02:11:00: [respawn.smx] "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" respawned "Mr.Dr.Professor.Bananas<44><[U:1:89644640]><>"
+L 04/01/2016 - 02:11:15: [respawn.smx] "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" respawned "[GOLD ENGIE]DeathDragon25<23><[U:1:180579520]><>"
+L 04/01/2016 - 02:11:15: [respawn.smx] "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" respawned "POSTITNOTE HEALER<36><[U:1:183883546]><>"
+L 04/01/2016 - 02:11:29: [respawn.smx] "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" respawned "SCOUT<26><[U:1:169831487]><>"
+L 04/01/2016 - 02:11:29: [respawn.smx] "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" respawned "pandawassup11<35><[U:1:203354296]><>"
+L 04/01/2016 - 02:11:29: [respawn.smx] "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" respawned "POSTITNOTE HEALER<36><[U:1:183883546]><>"
+L 04/01/2016 - 02:11:50: [respawn.smx] "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" respawned "TCLG6x6<24><[U:1:82685988]><>"
+L 04/01/2016 - 02:11:50: [respawn.smx] "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" respawned "crayfish gaming<32><[U:1:145254287]><>"
+L 04/01/2016 - 02:11:50: [respawn.smx] "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" respawned "Fat_Pikachu<43><[U:1:194916965]><>"
+L 04/01/2016 - 02:11:50: [respawn.smx] "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" respawned "Zevo<42><[U:1:268151928]><>"
+L 04/01/2016 - 02:12:48: [respawn.smx] "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" respawned "Kitty<47><[U:1:230387019]><>"
+L 04/01/2016 - 02:13:06: [respawn.smx] "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" respawned "TCLG6x6<24><[U:1:82685988]><>"
+L 04/01/2016 - 02:13:06: [respawn.smx] "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" respawned "☠ Masgrew ☠<34><[U:1:99197914]><>"
+L 04/01/2016 - 02:13:06: [respawn.smx] "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" respawned "SCOUT<26><[U:1:169831487]><>"
+L 04/01/2016 - 02:13:06: [respawn.smx] "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" respawned "[GOLD ENGIE]DeathDragon25<23><[U:1:180579520]><>"
+L 04/01/2016 - 02:13:06: [respawn.smx] "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" respawned "(P.P.P)verbi the magician<30><[U:1:251451357]><>"
+L 04/01/2016 - 02:13:06: [respawn.smx] "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" respawned "pandawassup11<35><[U:1:203354296]><>"
+L 04/01/2016 - 02:13:06: [respawn.smx] "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" respawned "POSTITNOTE HEALER<36><[U:1:183883546]><>"
+L 04/01/2016 - 02:13:06: [respawn.smx] "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" respawned "Fat_Pikachu<43><[U:1:194916965]><>"
+L 04/01/2016 - 02:13:06: [respawn.smx] "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" respawned "Ghost-Nappa<39><[U:1:252535728]><>"
+L 04/01/2016 - 02:14:29: [respawn.smx] "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" respawned "TCLG6x6<24><[U:1:82685988]><>"
+L 04/01/2016 - 02:14:29: [respawn.smx] "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" respawned "☠ Masgrew ☠<34><[U:1:99197914]><>"
+L 04/01/2016 - 02:14:29: [respawn.smx] "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" respawned "[GOLD ENGIE]DeathDragon25<23><[U:1:180579520]><>"
+L 04/01/2016 - 02:14:29: [respawn.smx] "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" respawned "«♫♠♪JΦΣN♪♠♫»<29><[U:1:173185269]><>"
+L 04/01/2016 - 02:14:29: [respawn.smx] "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" respawned "(P.P.P)verbi the magician<30><[U:1:251451357]><>"
+L 04/01/2016 - 02:14:29: [respawn.smx] "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" respawned "pandawassup11<35><[U:1:203354296]><>"
+L 04/01/2016 - 02:14:29: [respawn.smx] "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" respawned "crayfish gaming<32><[U:1:145254287]><>"
+L 04/01/2016 - 02:14:29: [respawn.smx] "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" respawned "POSTITNOTE HEALER<36><[U:1:183883546]><>"
+L 04/01/2016 - 02:14:29: [respawn.smx] "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" respawned "Fat_Pikachu<43><[U:1:194916965]><>"
+L 04/01/2016 - 02:14:29: [respawn.smx] "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" respawned "Mr.Dr.Professor.Bananas<44><[U:1:89644640]><>"
+L 04/01/2016 - 02:14:29: [respawn.smx] "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" respawned "Zevo<42><[U:1:268151928]><>"
+L 04/01/2016 - 02:14:29: [respawn.smx] "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" respawned "Kitty<47><[U:1:230387019]><>"
+L 04/01/2016 - 02:14:55: [respawn.smx] "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" respawned "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>"
+L 04/01/2016 - 02:14:55: [respawn.smx] "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" respawned "SCOUT<26><[U:1:169831487]><>"
+L 04/01/2016 - 02:14:55: [respawn.smx] "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" respawned "Fangonic<33><[U:1:154955420]><>"
+L 04/01/2016 - 02:14:55: [respawn.smx] "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" respawned "ЯΣƆOIL {Λ}<45><[U:1:199218937]><>"
+L 04/01/2016 - 02:14:55: [respawn.smx] "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" respawned "Fat_Pikachu<43><[U:1:194916965]><>"
+L 04/01/2016 - 02:14:55: [respawn.smx] "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" respawned "∑Venom Snake∑<48><[U:1:84009627]><>"
+L 04/01/2016 - 02:15:31: [respawn.smx] "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" respawned "TCLG6x6<24><[U:1:82685988]><>"
+L 04/01/2016 - 02:15:31: [respawn.smx] "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" respawned "☠ Masgrew ☠<34><[U:1:99197914]><>"
+L 04/01/2016 - 02:15:31: [respawn.smx] "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" respawned "[GOLD ENGIE]DeathDragon25<23><[U:1:180579520]><>"
+L 04/01/2016 - 02:15:31: [respawn.smx] "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" respawned "«♫♠♪JΦΣN♪♠♫»<29><[U:1:173185269]><>"
+L 04/01/2016 - 02:15:32: [respawn.smx] "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" respawned "pandawassup11<35><[U:1:203354296]><>"
+L 04/01/2016 - 02:15:32: [respawn.smx] "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" respawned "crayfish gaming<32><[U:1:145254287]><>"
+L 04/01/2016 - 02:15:32: [respawn.smx] "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" respawned "POSTITNOTE HEALER<36><[U:1:183883546]><>"
+L 04/01/2016 - 02:15:32: [respawn.smx] "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" respawned "Ghost-Nappa<39><[U:1:252535728]><>"
+L 04/01/2016 - 02:15:32: [respawn.smx] "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" respawned "Zevo<42><[U:1:268151928]><>"
+L 04/01/2016 - 02:15:32: [respawn.smx] "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" respawned "Kitty<47><[U:1:230387019]><>"
+L 04/01/2016 - 02:15:39: [respawn.smx] "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" respawned "Mr.Dr.Professor.Bananas<44><[U:1:89644640]><>"
+L 04/01/2016 - 02:15:51: [sourcecomms.smx] "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" muted "Zevo<42><[U:1:268151928]><>" (minutes "30") (reason "")
+L 04/01/2016 - 02:17:22: [respawn.smx] "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" respawned "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>"
+L 04/01/2016 - 02:17:22: [respawn.smx] "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" respawned "SCOUT<26><[U:1:169831487]><>"
+L 04/01/2016 - 02:17:22: [respawn.smx] "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" respawned "Kitty<47><[U:1:230387019]><>"
+L 04/01/2016 - 02:17:34: [respawn.smx] "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" respawned "God hates normies<28><[U:1:209929777]><>"
+L 04/01/2016 - 02:17:34: [respawn.smx] "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" respawned "«♫♠♪JΦΣN♪♠♫»<29><[U:1:173185269]><>"
+L 04/01/2016 - 02:17:34: [respawn.smx] "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" respawned "crayfish gaming<32><[U:1:145254287]><>"
+L 04/01/2016 - 02:17:34: [respawn.smx] "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" respawned "ЯΣƆOIL {Λ}<45><[U:1:199218937]><>"
+L 04/01/2016 - 02:17:34: [respawn.smx] "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" respawned "Hawktor321ftw<46><[U:1:164097275]><>"
+L 04/01/2016 - 02:17:40: [respawn.smx] "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" respawned "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>"
+L 04/01/2016 - 02:17:40: [respawn.smx] "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" respawned "SCOUT<26><[U:1:169831487]><>"
+L 04/01/2016 - 02:17:40: [respawn.smx] "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" respawned "God hates normies<28><[U:1:209929777]><>"
+L 04/01/2016 - 02:17:40: [respawn.smx] "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" respawned "«♫♠♪JΦΣN♪♠♫»<29><[U:1:173185269]><>"
+L 04/01/2016 - 02:17:40: [respawn.smx] "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" respawned "pandawassup11<35><[U:1:203354296]><>"
+L 04/01/2016 - 02:17:40: [respawn.smx] "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" respawned "crayfish gaming<32><[U:1:145254287]><>"
+L 04/01/2016 - 02:17:40: [respawn.smx] "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" respawned "Fangonic<33><[U:1:154955420]><>"
+L 04/01/2016 - 02:17:40: [respawn.smx] "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" respawned "POSTITNOTE HEALER<36><[U:1:183883546]><>"
+L 04/01/2016 - 02:17:40: [respawn.smx] "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" respawned "ЯΣƆOIL {Λ}<45><[U:1:199218937]><>"
+L 04/01/2016 - 02:17:40: [respawn.smx] "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" respawned "Hawktor321ftw<46><[U:1:164097275]><>"
+L 04/01/2016 - 02:17:54: [respawn.smx] "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" respawned "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>"
+L 04/01/2016 - 02:17:58: [respawn.smx] "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" respawned "«♫♠♪JΦΣN♪♠♫»<29><[U:1:173185269]><>"
+L 04/01/2016 - 02:17:58: [respawn.smx] "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" respawned "POSTITNOTE HEALER<36><[U:1:183883546]><>"
+L 04/01/2016 - 02:17:58: [respawn.smx] "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" respawned "ЯΣƆOIL {Λ}<45><[U:1:199218937]><>"
+L 04/01/2016 - 02:17:58: [respawn.smx] "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" respawned "Fat_Pikachu<43><[U:1:194916965]><>"
+L 04/01/2016 - 02:21:31: [respawn.smx] "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" respawned "[115]-Medic<49><[U:1:191742369]><>"
+L 04/01/2016 - 02:21:34: [respawn.smx] "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" respawned "☠ Masgrew ☠<34><[U:1:99197914]><>"
+L 04/01/2016 - 02:21:34: [respawn.smx] "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" respawned "God hates normies<28><[U:1:209929777]><>"
+L 04/01/2016 - 02:21:34: [respawn.smx] "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" respawned "(P.P.P)verbi the magician<30><[U:1:251451357]><>"
+L 04/01/2016 - 02:21:34: [respawn.smx] "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" respawned "crayfish gaming<32><[U:1:145254287]><>"
+L 04/01/2016 - 02:21:34: [respawn.smx] "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" respawned "ЯΣƆOIL {Λ}<45><[U:1:199218937]><>"
+L 04/01/2016 - 02:21:34: [respawn.smx] "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" respawned "Fat_Pikachu<43><[U:1:194916965]><>"
+L 04/01/2016 - 02:21:34: [respawn.smx] "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" respawned "Ghost-Nappa<39><[U:1:252535728]><>"
+L 04/01/2016 - 02:21:34: [respawn.smx] "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" respawned "Lucario<50><[U:1:127599042]><>"
+L 04/01/2016 - 02:21:34: [respawn.smx] "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" respawned "Zevo<42><[U:1:268151928]><>"
+L 04/01/2016 - 02:21:34: [respawn.smx] "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" respawned "Kitty<47><[U:1:230387019]><>"
+L 04/01/2016 - 02:22:13: [respawn.smx] "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" respawned "Fangonic<33><[U:1:154955420]><>"
+L 04/01/2016 - 02:22:27: [respawn.smx] "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" respawned "TCLG6x6<24><[U:1:82685988]><>"
+L 04/01/2016 - 02:22:27: [respawn.smx] "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" respawned "«♫♠♪JΦΣN♪♠♫»<29><[U:1:173185269]><>"
+L 04/01/2016 - 02:22:27: [respawn.smx] "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" respawned "ЯΣƆOIL {Λ}<45><[U:1:199218937]><>"
+L 04/01/2016 - 02:22:27: [respawn.smx] "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" respawned "Lucario<50><[U:1:127599042]><>"
+L 04/01/2016 - 02:22:47: [respawn.smx] "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" respawned "God hates normies<28><[U:1:209929777]><>"
+L 04/01/2016 - 02:22:47: [respawn.smx] "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" respawned "crayfish gaming<32><[U:1:145254287]><>"
+L 04/01/2016 - 02:22:47: [respawn.smx] "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" respawned "Zevo<42><[U:1:268151928]><>"
+L 04/01/2016 - 02:22:47: [respawn.smx] "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" respawned "Kitty<47><[U:1:230387019]><>"
+L 04/01/2016 - 02:22:50: [sourcecomms.smx] "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" unmuted "crayfish gaming<32><[U:1:145254287]><>" (reason "")
+L 04/01/2016 - 02:22:51: [sourcecomms.smx] "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" removed mute for STEAM_0:1:72627143 from DB
+L 04/01/2016 - 02:23:11: [respawn.smx] "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" respawned "[115]-Medic<49><[U:1:191742369]><>"
+L 04/01/2016 - 02:23:11: [respawn.smx] "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" respawned "Fat_Pikachu<43><[U:1:194916965]><>"
+L 04/01/2016 - 02:23:11: [respawn.smx] "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" respawned "Ghost-Nappa<39><[U:1:252535728]><>"
+L 04/01/2016 - 02:23:11: [respawn.smx] "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" respawned "Infernape99843<53><[U:1:192604858]><>"
+L 04/01/2016 - 02:23:26: [respawn.smx] "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" respawned "SCOUT<26><[U:1:169831487]><>"
+L 04/01/2016 - 02:23:26: [respawn.smx] "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" respawned "pandawassup11<35><[U:1:203354296]><>"
+L 04/01/2016 - 02:23:26: [respawn.smx] "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" respawned "Fangonic<33><[U:1:154955420]><>"
+L 04/01/2016 - 02:23:26: [respawn.smx] "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" respawned "Hawktor321ftw<46><[U:1:164097275]><>"
+L 04/01/2016 - 02:23:49: [respawn.smx] "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" respawned "(P.P.P)verbi the magician<30><[U:1:251451357]><>"
+L 04/01/2016 - 02:23:49: [respawn.smx] "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" respawned "ЯΣƆOIL {Λ}<45><[U:1:199218937]><>"
+L 04/01/2016 - 02:23:49: [respawn.smx] "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" respawned "Fat_Pikachu<43><[U:1:194916965]><>"
+L 04/01/2016 - 02:23:49: [respawn.smx] "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" respawned "∑Venom Snake∑<48><[U:1:84009627]><>"
+L 04/01/2016 - 02:23:49: [respawn.smx] "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" respawned "Lucario<50><[U:1:127599042]><>"
+L 04/01/2016 - 02:23:49: [respawn.smx] "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" respawned "Zevo<42><[U:1:268151928]><>"
+L 04/01/2016 - 02:23:49: [respawn.smx] "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" respawned "Kitty<47><[U:1:230387019]><>"
+L 04/01/2016 - 02:25:11: [respawn.smx] "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" respawned "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>"
+L 04/01/2016 - 02:25:11: [respawn.smx] "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" respawned "SCOUT<26><[U:1:169831487]><>"
+L 04/01/2016 - 02:25:11: [respawn.smx] "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" respawned "[115]-Medic<49><[U:1:191742369]><>"
+L 04/01/2016 - 02:25:11: [respawn.smx] "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" respawned "God hates normies<28><[U:1:209929777]><>"
+L 04/01/2016 - 02:25:11: [respawn.smx] "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" respawned "pandawassup11<35><[U:1:203354296]><>"
+L 04/01/2016 - 02:25:11: [respawn.smx] "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" respawned "Fangonic<33><[U:1:154955420]><>"
+L 04/01/2016 - 02:25:11: [respawn.smx] "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" respawned "Fat_Pikachu<43><[U:1:194916965]><>"
+L 04/01/2016 - 02:25:11: [respawn.smx] "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" respawned "Ghost-Nappa<39><[U:1:252535728]><>"
+L 04/01/2016 - 02:25:11: [respawn.smx] "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" respawned "∑Venom Snake∑<48><[U:1:84009627]><>"
+L 04/01/2016 - 02:25:11: [respawn.smx] "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" respawned "Kitty<47><[U:1:230387019]><>"
+L 04/01/2016 - 02:25:11: [respawn.smx] "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" respawned "Infernape99843<53><[U:1:192604858]><>"
+L 04/01/2016 - 02:26:20: [respawn.smx] "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" respawned "Vertitius | ᴾᴮ ᴬ<54><[U:1:170788577]><>"
+L 04/01/2016 - 02:27:01: [respawn.smx] "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" respawned "☠ Masgrew ☠<34><[U:1:99197914]><>"
+L 04/01/2016 - 02:27:01: [respawn.smx] "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" respawned "SCOUT<26><[U:1:169831487]><>"
+L 04/01/2016 - 02:27:01: [respawn.smx] "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" respawned "[115]-Medic<49><[U:1:191742369]><>"
+L 04/01/2016 - 02:27:01: [respawn.smx] "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" respawned "God hates normies<28><[U:1:209929777]><>"
+L 04/01/2016 - 02:27:01: [respawn.smx] "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" respawned "(P.P.P)verbi the magician<30><[U:1:251451357]><>"
+L 04/01/2016 - 02:27:01: [respawn.smx] "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" respawned "Fangonic<33><[U:1:154955420]><>"
+L 04/01/2016 - 02:27:01: [respawn.smx] "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" respawned "Ghost-Nappa<39><[U:1:252535728]><>"
+L 04/01/2016 - 02:27:01: [respawn.smx] "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" respawned "Lucario<50><[U:1:127599042]><>"
+L 04/01/2016 - 02:27:01: [respawn.smx] "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" respawned "Hawktor321ftw<46><[U:1:164097275]><>"
+L 04/01/2016 - 02:27:01: [respawn.smx] "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" respawned "Kitty<47><[U:1:230387019]><>"
+L 04/01/2016 - 02:27:01: [respawn.smx] "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" respawned "Infernape99843<53><[U:1:192604858]><>"
+L 04/01/2016 - 02:28:35: [respawn.smx] "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" respawned "Fangonic<33><[U:1:154955420]><>"
+L 04/01/2016 - 02:33:08: [respawn.smx] "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" respawned "TCLG6x6<24><[U:1:82685988]><>"
+L 04/01/2016 - 02:33:08: [respawn.smx] "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" respawned "SCOUT<26><[U:1:169831487]><>"
+L 04/01/2016 - 02:33:08: [respawn.smx] "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" respawned "[115]-Medic<49><[U:1:191742369]><>"
+L 04/01/2016 - 02:33:08: [respawn.smx] "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" respawned "Panda Brave Heart<55><[U:1:122043870]><>"
+L 04/01/2016 - 02:33:08: [respawn.smx] "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" respawned "pandawassup11<35><[U:1:203354296]><>"
+L 04/01/2016 - 02:33:08: [respawn.smx] "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" respawned "Infernape99843<53><[U:1:192604858]><>"
+L 04/01/2016 - 02:34:24: [sounds.smx] "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" played sound on "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" (file "dovahyt/kobe.mp3")
+L 04/01/2016 - 02:34:24: [sounds.smx] "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" played sound on "TCLG6x6<24><[U:1:82685988]><>" (file "dovahyt/kobe.mp3")
+L 04/01/2016 - 02:34:24: [sounds.smx] "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" played sound on "☠ Masgrew ☠<34><[U:1:99197914]><>" (file "dovahyt/kobe.mp3")
+L 04/01/2016 - 02:34:24: [sounds.smx] "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" played sound on "SCOUT<26><[U:1:169831487]><>" (file "dovahyt/kobe.mp3")
+L 04/01/2016 - 02:34:24: [sounds.smx] "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" played sound on "[115]-Medic<49><[U:1:191742369]><>" (file "dovahyt/kobe.mp3")
+L 04/01/2016 - 02:34:24: [sounds.smx] "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" played sound on "God hates normies<28><[U:1:209929777]><>" (file "dovahyt/kobe.mp3")
+L 04/01/2016 - 02:34:24: [sounds.smx] "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" played sound on "Panda Brave Heart<55><[U:1:122043870]><>" (file "dovahyt/kobe.mp3")
+L 04/01/2016 - 02:34:24: [sounds.smx] "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" played sound on "Zombiecowninja<57><[U:1:160708978]><>" (file "dovahyt/kobe.mp3")
+L 04/01/2016 - 02:34:24: [sounds.smx] "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" played sound on "pandawassup11<35><[U:1:203354296]><>" (file "dovahyt/kobe.mp3")
+L 04/01/2016 - 02:34:24: [sounds.smx] "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" played sound on "Vertitius | ᴾᴮ ᴬ<59><[U:1:170788577]><>" (file "dovahyt/kobe.mp3")
+L 04/01/2016 - 02:34:24: [sounds.smx] "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" played sound on "Fangonic<33><[U:1:154955420]><>" (file "dovahyt/kobe.mp3")
+L 04/01/2016 - 02:34:24: [sounds.smx] "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" played sound on "POSTITNOTE HEALER<36><[U:1:183883546]><>" (file "dovahyt/kobe.mp3")
+L 04/01/2016 - 02:34:24: [sounds.smx] "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" played sound on "ЯΣƆOIL {Λ}<45><[U:1:199218937]><>" (file "dovahyt/kobe.mp3")
+L 04/01/2016 - 02:34:24: [sounds.smx] "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" played sound on "Fat_Pikachu<43><[U:1:194916965]><>" (file "dovahyt/kobe.mp3")
+L 04/01/2016 - 02:34:24: [sounds.smx] "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" played sound on "Ghost-Nappa<39><[U:1:252535728]><>" (file "dovahyt/kobe.mp3")
+L 04/01/2016 - 02:34:24: [sounds.smx] "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" played sound on "∑Venom Snake∑<48><[U:1:84009627]><>" (file "dovahyt/kobe.mp3")
+L 04/01/2016 - 02:34:24: [sounds.smx] "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" played sound on "Lucario<50><[U:1:127599042]><>" (file "dovahyt/kobe.mp3")
+L 04/01/2016 - 02:34:24: [sounds.smx] "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" played sound on "Zevo<42><[U:1:268151928]><>" (file "dovahyt/kobe.mp3")
+L 04/01/2016 - 02:34:24: [sounds.smx] "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" played sound on "Kitty<47><[U:1:230387019]><>" (file "dovahyt/kobe.mp3")
+L 04/01/2016 - 02:34:24: [sounds.smx] "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" played sound on "Infernape99843<53><[U:1:192604858]><>" (file "dovahyt/kobe.mp3")
+L 04/01/2016 - 02:38:19: [basevotes.smx] "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" initiated a generic vote.
+L 04/01/2016 - 02:40:46: [respawn.smx] "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" respawned "[115]-Medic<49><[U:1:191742369]><>"
+L 04/01/2016 - 02:40:55: [respawn.smx] "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" respawned "Fangonic<33><[U:1:154955420]><>"
+L 04/01/2016 - 02:41:18: [respawn.smx] "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" respawned "Panda Brave Heart<55><[U:1:122043870]><>"
+L 04/01/2016 - 02:41:36: [respawn.smx] "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" respawned "Vertitius | ᴾᴮ ᴬ<59><[U:1:170788577]><>"
+L 04/01/2016 - 02:43:04: [sourcecomms.smx] "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" muted "KAPPAKAPPAKAPPAKAPPAKAPPA<50><[U:1:127599042]><>" (minutes "30") (reason "")
+L 04/01/2016 - 02:48:16: [basecommands.smx] "🔥FHR🔥DovahkiinYT<2><[U:1:138265817]><>" kicked "Lucario<50><[U:1:127599042]><>" (reason "Trade Spamming")
+L 04/01/2016 - 02:51:27: SourceMod log file session started (file "L20160401.log") (Version "1.7.3-dev+5275")
+L 04/01/2016 - 02:51:27: -------- Mapchange to ctf_2fort --------
+L 04/01/2016 - 02:51:27: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 04/01/2016 - 02:51:27: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 04/01/2016 - 02:51:33: [deathrun.smx] Current map is not a deathrun map. Disabling Deathrun Gamemode.
+L 04/01/2016 - 02:51:33: [custom-chatcolors-menu.smx] Loaded 156 colors from configuration file addons/sourcemod/configs/custom-chatcolors-menu.cfg.
+L 04/01/2016 - 02:51:33: [custom-chatcolors-menu.smx] MySQL server configured. Variable saving enabled.
+L 04/01/2016 - 02:52:50: [basecommands.smx] "Console<0><Console><Console>" changed map to "tf_tornadohighway_final2"
+L 04/01/2016 - 02:52:53: [SM] Changed map to "tf_tornadohighway_final2"
+L 04/01/2016 - 03:01:01: SourceMod log file session started (file "L20160401.log") (Version "1.7.3-dev+5275")
+L 04/01/2016 - 03:01:01: -------- Mapchange to ctf_2fort --------
+L 04/01/2016 - 03:01:01: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 04/01/2016 - 03:01:01: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 04/01/2016 - 03:01:06: [deathrun.smx] Current map is not a deathrun map. Disabling Deathrun Gamemode.
+L 04/01/2016 - 03:01:06: [custom-chatcolors-menu.smx] Loaded 156 colors from configuration file addons/sourcemod/configs/custom-chatcolors-menu.cfg.
+L 04/01/2016 - 03:01:06: [basecommands.smx] "Console<0><Console><Console>" changed map to "dr_safety_first_final"
+L 04/01/2016 - 03:01:06: [custom-chatcolors-menu.smx] MySQL server configured. Variable saving enabled.
+L 04/01/2016 - 03:01:09: [SM] Changed map to "dr_safety_first_final"
+L 04/01/2016 - 03:01:12: -------- Mapchange to dr_safety_first_final --------
+L 04/01/2016 - 03:01:17: [deathrun.smx] Deathrun map detected. Enabling Deathrun Gamemode.
+L 04/01/2016 - 03:01:17: [custom-chatcolors-menu.smx] Loaded 156 colors from configuration file addons/sourcemod/configs/custom-chatcolors-menu.cfg.
+L 04/01/2016 - 03:45:30: [basechat.smx] "Console<0><Console><Console>" triggered sm_csay (text MUHAHAHAHA)
+L 04/01/2016 - 03:46:23: [basechat.smx] "Console<0><Console><Console>" triggered sm_say (text test)
+L 04/01/2016 - 08:15:31: SourceMod log file session started (file "L20160401.log") (Version "1.7.3-dev+5275")
+L 04/01/2016 - 08:15:31: -------- Mapchange to ctf_2fort --------
+L 04/01/2016 - 08:15:32: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 04/01/2016 - 08:15:32: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 04/01/2016 - 08:15:37: [deathrun.smx] Current map is not a deathrun map. Disabling Deathrun Gamemode.
+L 04/01/2016 - 08:15:38: [custom-chatcolors-menu.smx] Loaded 156 colors from configuration file addons/sourcemod/configs/custom-chatcolors-menu.cfg.
+L 04/01/2016 - 08:15:38: [custom-chatcolors-menu.smx] MySQL server configured. Variable saving enabled.
+L 04/01/2016 - 08:16:21: [basecommands.smx] "Console<0><Console><Console>" changed map to "dr_supermario64_v6b"
+L 04/01/2016 - 08:16:24: [SM] Changed map to "dr_supermario64_v6b"
+L 04/01/2016 - 08:16:26: -------- Mapchange to dr_supermario64_v6b --------
+L 04/01/2016 - 08:16:31: [deathrun.smx] Deathrun map detected. Enabling Deathrun Gamemode.
+L 04/01/2016 - 08:16:31: [custom-chatcolors-menu.smx] Loaded 156 colors from configuration file addons/sourcemod/configs/custom-chatcolors-menu.cfg.
+L 04/01/2016 - 12:45:15: SourceMod log file session started (file "L20160401.log") (Version "1.7.3-dev+5275")
+L 04/01/2016 - 12:45:15: -------- Mapchange to ctf_2fort --------
+L 04/01/2016 - 12:45:15: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 04/01/2016 - 12:45:15: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 04/01/2016 - 12:45:20: [deathrun.smx] Current map is not a deathrun map. Disabling Deathrun Gamemode.
+L 04/01/2016 - 12:45:21: [custom-chatcolors-menu.smx] Loaded 156 colors from configuration file addons/sourcemod/configs/custom-chatcolors-menu.cfg.
+L 04/01/2016 - 12:45:21: [custom-chatcolors-menu.smx] MySQL server configured. Variable saving enabled.
+L 04/01/2016 - 12:45:56: Log file closed.
+L 04/01/2016 - 12:49:53: SourceMod log file session started (file "L20160401.log") (Version "1.7.3-dev+5275")
+L 04/01/2016 - 12:49:53: -------- Mapchange to ctf_2fort --------
+L 04/01/2016 - 12:49:53: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 04/01/2016 - 12:49:53: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 04/01/2016 - 12:49:58: [deathrun.smx] Current map is not a deathrun map. Disabling Deathrun Gamemode.
+L 04/01/2016 - 12:49:58: [custom-chatcolors-menu.smx] Loaded 156 colors from configuration file addons/sourcemod/configs/custom-chatcolors-menu.cfg.
+L 04/01/2016 - 12:49:58: [custom-chatcolors-menu.smx] MySQL server configured. Variable saving enabled.
+L 04/01/2016 - 20:09:22: [basecommands.smx] "Console<0><Console><Console>" changed map to "dr_safety_first_final"
+L 04/01/2016 - 20:09:25: [SM] Changed map to "dr_safety_first_final"
+L 04/01/2016 - 20:09:27: -------- Mapchange to dr_safety_first_final --------
+L 04/01/2016 - 20:09:32: [deathrun.smx] Deathrun map detected. Enabling Deathrun Gamemode.
+L 04/01/2016 - 20:09:32: [custom-chatcolors-menu.smx] Loaded 156 colors from configuration file addons/sourcemod/configs/custom-chatcolors-menu.cfg.
+L 04/01/2016 - 22:44:48: SourceMod log file session started (file "L20160401.log") (Version "1.7.3-dev+5275")
+L 04/01/2016 - 22:44:48: -------- Mapchange to ctf_2fort --------
+L 04/01/2016 - 22:44:48: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 04/01/2016 - 22:44:48: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 04/01/2016 - 22:44:53: [deathrun.smx] Current map is not a deathrun map. Disabling Deathrun Gamemode.
+L 04/01/2016 - 22:44:54: [custom-chatcolors-menu.smx] Loaded 156 colors from configuration file addons/sourcemod/configs/custom-chatcolors-menu.cfg.
+L 04/01/2016 - 22:44:54: [custom-chatcolors-menu.smx] MySQL server configured. Variable saving enabled.

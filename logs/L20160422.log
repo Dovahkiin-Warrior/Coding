@@ -1,0 +1,35 @@
+L 04/22/2016 - 02:33:13: SourceMod log file session started (file "L20160422.log") (Version "1.7.3-dev+5275")
+L 04/22/2016 - 02:33:13: -------- Mapchange to tf_tornadohighway_final2 --------
+L 04/22/2016 - 02:33:13: [TF2ITEMS] "GiveNamedItem" offset = 479
+L 04/22/2016 - 02:33:13: [GEOIP] GeoIP database info: GEO-106FREE 20151103 Build 1 Copyright (c) 2015 MaxMind Inc All Rights Reserved
+L 04/22/2016 - 02:33:13: [freak_fortress_2.smx] ===Freak Fortress 2 Initializing-v1.10.8===
+L 04/22/2016 - 02:33:13: [rtd.smx] File test for rtd.phrases.txt: PASSED!
+L 04/22/2016 - 02:33:13: [rtd.smx] File test for rtd_effects.cfg: PASSED!
+L 04/22/2016 - 02:33:13: [rtd.smx] Loaded 35 effects: (19 good) (16 bad).
+L 04/22/2016 - 02:33:13: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 04/22/2016 - 02:33:13: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 04/22/2016 - 02:33:13: [ff2_boss_prefs.smx] Freak Fortress 2: Boss Preferences v1.03 Loading
+L 04/22/2016 - 02:33:19: [deathrun.smx] Current map is not a deathrun map. Disabling Deathrun Gamemode.
+L 04/22/2016 - 02:33:19: [rtd.smx] Added chat trigger: rollthedice
+L 04/22/2016 - 02:33:19: [rtd.smx] Added chat trigger: roll
+L 04/22/2016 - 02:33:19: [custom-chatcolors-menu.smx] Loaded 156 colors from configuration file addons/sourcemod/configs/custom-chatcolors-menu.cfg.
+L 04/22/2016 - 02:33:19: [buildinghats.smx] [Building Hats] Executing configuration file addons/sourcemod/configs/buildinghats.cfg
+L 04/22/2016 - 02:33:19: [custom-chatcolors-menu.smx] MySQL server configured. Variable saving enabled.
+L 04/22/2016 - 02:33:46: Log file closed.
+L 04/22/2016 - 02:38:18: SourceMod log file session started (file "L20160422.log") (Version "1.7.3-dev+5275")
+L 04/22/2016 - 02:38:18: -------- Mapchange to tf_tornadohighway_final2 --------
+L 04/22/2016 - 02:38:18: [TF2ITEMS] "GiveNamedItem" offset = 479
+L 04/22/2016 - 02:38:18: [GEOIP] GeoIP database info: GEO-106FREE 20151103 Build 1 Copyright (c) 2015 MaxMind Inc All Rights Reserved
+L 04/22/2016 - 02:38:18: [freak_fortress_2.smx] ===Freak Fortress 2 Initializing-v1.10.8===
+L 04/22/2016 - 02:38:18: [rtd.smx] File test for rtd.phrases.txt: PASSED!
+L 04/22/2016 - 02:38:18: [rtd.smx] File test for rtd_effects.cfg: PASSED!
+L 04/22/2016 - 02:38:18: [rtd.smx] Loaded 35 effects: (19 good) (16 bad).
+L 04/22/2016 - 02:38:19: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 04/22/2016 - 02:38:19: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 04/22/2016 - 02:38:19: [ff2_boss_prefs.smx] Freak Fortress 2: Boss Preferences v1.03 Loading
+L 04/22/2016 - 02:38:24: [deathrun.smx] Current map is not a deathrun map. Disabling Deathrun Gamemode.
+L 04/22/2016 - 02:38:25: [rtd.smx] Added chat trigger: rollthedice
+L 04/22/2016 - 02:38:25: [rtd.smx] Added chat trigger: roll
+L 04/22/2016 - 02:38:25: [custom-chatcolors-menu.smx] Loaded 156 colors from configuration file addons/sourcemod/configs/custom-chatcolors-menu.cfg.
+L 04/22/2016 - 02:38:25: [buildinghats.smx] [Building Hats] Executing configuration file addons/sourcemod/configs/buildinghats.cfg
+L 04/22/2016 - 02:38:25: [custom-chatcolors-menu.smx] MySQL server configured. Variable saving enabled.

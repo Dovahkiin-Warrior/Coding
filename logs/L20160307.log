@@ -1,0 +1,29 @@
+L 03/07/2016 - 22:17:46: SourceMod log file session started (file "L20160307.log") (Version "1.7.3-dev+5290")
+L 03/07/2016 - 22:17:46: -------- Mapchange to sb_finaldestination_vg --------
+L 03/07/2016 - 22:17:47: [TF2ITEMS] "GiveNamedItem" offset = 472
+L 03/07/2016 - 22:17:57: [rtd.smx] File test for rtd.phrases.txt: PASSED!
+L 03/07/2016 - 22:17:57: [rtd.smx] File test for rtd_effects.cfg: PASSED!
+L 03/07/2016 - 22:17:57: [rtd.smx] Loaded 35 effects: (19 good) (16 bad).
+L 03/07/2016 - 22:17:57: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 03/07/2016 - 22:17:57: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 03/07/2016 - 22:18:19: [UPDATER] Successfully updated gamedata file "sm-cstrike.games/game.csgo.txt"
+L 03/07/2016 - 22:18:19: [UPDATER] Successfully updated gamedata file "core.games/common.games.txt"
+L 03/07/2016 - 22:18:19: [UPDATER] Successfully updated gamedata file "sdkhooks.games/game.empires.txt"
+L 03/07/2016 - 22:18:19: [UPDATER] Successfully updated gamedata file "sdktools.games/game.empires.txt"
+L 03/07/2016 - 22:18:19: [UPDATER] SourceMod has been updated, please reload it or restart your server.
+L 03/07/2016 - 22:18:21: [custom-chatcolors-menu.smx] Loaded 156 colors from configuration file addons\sourcemod\configs\custom-chatcolors-menu.cfg.
+L 03/07/2016 - 22:18:21: [rtd.smx] Added chat trigger: rollthedice
+L 03/07/2016 - 22:18:21: [rtd.smx] Added chat trigger: roll
+L 03/07/2016 - 22:18:25: [custom-chatcolors-menu.smx] MySQL server configured. Variable saving enabled.
+L 03/07/2016 - 22:29:41: SourceMod log file session started (file "L20160307.log") (Version "1.7.3-dev+5290")
+L 03/07/2016 - 22:29:41: -------- Mapchange to sb_finaldestination_vg --------
+L 03/07/2016 - 22:29:41: [TF2ITEMS] "GiveNamedItem" offset = 472
+L 03/07/2016 - 22:29:42: [rtd.smx] File test for rtd.phrases.txt: PASSED!
+L 03/07/2016 - 22:29:42: [rtd.smx] File test for rtd_effects.cfg: PASSED!
+L 03/07/2016 - 22:29:42: [rtd.smx] Loaded 35 effects: (19 good) (16 bad).
+L 03/07/2016 - 22:29:42: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 03/07/2016 - 22:29:42: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 03/07/2016 - 22:30:00: [custom-chatcolors-menu.smx] Loaded 156 colors from configuration file addons\sourcemod\configs\custom-chatcolors-menu.cfg.
+L 03/07/2016 - 22:30:00: [rtd.smx] Added chat trigger: rollthedice
+L 03/07/2016 - 22:30:00: [rtd.smx] Added chat trigger: roll
+L 03/07/2016 - 22:30:00: [custom-chatcolors-menu.smx] MySQL server configured. Variable saving enabled.

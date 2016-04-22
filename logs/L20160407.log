@@ -1,0 +1,27 @@
+L 04/07/2016 - 04:20:42: SourceMod log file session started (file "L20160407.log") (Version "1.7.3-dev+5275")
+L 04/07/2016 - 04:20:42: [selfnoclip.smx] Enabled noclip
+L 04/07/2016 - 04:20:44: [selfnoclip.smx] Disabled noclip
+L 04/07/2016 - 04:20:45: [selfnoclip.smx] Enabled noclip
+L 04/07/2016 - 04:20:48: [selfnoclip.smx] Disabled noclip
+L 04/07/2016 - 04:21:03: [selfnoclip.smx] Enabled noclip
+L 04/07/2016 - 04:21:14: [respawn.smx] "Chara<52><[U:1:75569009]><>" respawned "Chara<52><[U:1:75569009]><>"
+L 04/07/2016 - 04:21:17: [Godmode.smx] Chara<52><[U:1:75569009]><> enabled godmode on Chara<52><[U:1:75569009]><>
+L 04/07/2016 - 04:21:19: [selfnoclip.smx] Enabled noclip
+L 04/07/2016 - 04:22:18: [selfnoclip.smx] Enabled noclip
+L 04/07/2016 - 04:22:40: [basecommands.smx] "Chara<52><[U:1:75569009]><>" console command (cmdline "sm plugins unload stamm/stamm_no_reload")
+L 04/07/2016 - 04:23:06: [selfnoclip.smx] Enabled noclip
+L 04/07/2016 - 04:23:10: [Godmode.smx] Chara<52><[U:1:75569009]><> enabled godmode on Chara<52><[U:1:75569009]><>
+L 04/07/2016 - 04:23:12: [selfnoclip.smx] Disabled noclip
+L 04/07/2016 - 04:23:13: [selfnoclip.smx] Enabled noclip
+L 04/07/2016 - 04:24:27: [selfnoclip.smx] Disabled noclip
+L 04/07/2016 - 04:24:27: [selfnoclip.smx] Enabled noclip
+L 04/07/2016 - 04:24:36: [selfnoclip.smx] Disabled noclip
+L 04/07/2016 - 20:10:18: SourceMod log file session started (file "L20160407.log") (Version "1.7.3-dev+5275")
+L 04/07/2016 - 20:10:18: -------- Mapchange to tf_tornadohighway_final2 --------
+L 04/07/2016 - 20:10:20: [GEOIP] GeoIP database info: GEO-106FREE 20151103 Build 1 Copyright (c) 2015 MaxMind Inc All Rights Reserved
+L 04/07/2016 - 20:10:21: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 04/07/2016 - 20:10:21: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 04/07/2016 - 20:10:56: [deathrun.smx] Current map is not a deathrun map. Disabling Deathrun Gamemode.
+L 04/07/2016 - 20:10:56: [custom-chatcolors-menu.smx] MySQL server configured. Variable saving enabled.
+L 04/07/2016 - 20:10:58: [custom-chatcolors-menu.smx] Loaded 156 colors from configuration file addons/sourcemod/configs/custom-chatcolors-menu.cfg.
+L 04/07/2016 - 20:10:58: [buildinghats.smx] [Building Hats] Executing configuration file addons/sourcemod/configs/buildinghats.cfg

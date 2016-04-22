@@ -1,0 +1,11 @@
+L 02/21/2016 - 00:03:53: SourceMod log file session started (file "L20160221.log") (Version "1.7.3-dev+5275")
+L 02/21/2016 - 00:03:53: -------- Mapchange to ctf_2fort --------
+L 02/21/2016 - 00:03:53: [rtd.smx] File test for rtd.phrases.txt: PASSED!
+L 02/21/2016 - 00:03:53: [rtd.smx] File test for rtd_effects.cfg: PASSED!
+L 02/21/2016 - 00:03:53: [rtd.smx] Loaded 35 effects: (19 good) (16 bad).
+L 02/21/2016 - 00:03:58: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "tf_birthday") (value "0")
+L 02/21/2016 - 00:03:58: [UPDATER] Successfully updated gamedata file "sm-cstrike.games/game.csgo.txt"
+L 02/21/2016 - 00:03:58: [UPDATER] Successfully updated gamedata file "core.games/common.games.txt"
+L 02/21/2016 - 00:03:58: [UPDATER] SourceMod has been updated, please reload it or restart your server.
+L 02/21/2016 - 00:03:58: [rtd.smx] Added chat trigger: rollthedice
+L 02/21/2016 - 00:03:58: [rtd.smx] Added chat trigger: roll

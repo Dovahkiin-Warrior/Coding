@@ -1,0 +1,145 @@
+L 04/22/2016 - 02:33:13: SourceMod error session started
+L 04/22/2016 - 02:33:13: Info (map "tf_tornadohighway_final2") (file "errors_20160422.log")
+L 04/22/2016 - 02:33:13: [SM] Error parsing gameconfig file "/home/Access0009/27042/tf2/tf/addons/sourcemod/gamedata/huntsman.plugin.txt":
+L 04/22/2016 - 02:33:13: [SM] Error 1 on line 0, col 0: Stream failed to open
+L 04/22/2016 - 02:33:13: [SM] Native "LoadGameConfigFile" reported: Unable to open huntsman.plugin: File could not be opened: No such file or directory
+L 04/22/2016 - 02:33:13: [SM] Displaying call stack trace for plugin "huntsman.smx":
+L 04/22/2016 - 02:33:13: [SM]   [0]  Line 70, /home/forums/content/files/3/8/8/2/9/135436.attach::Patch_Init()
+L 04/22/2016 - 02:33:13: [SM]   [1]  Line 24, /home/forums/content/files/3/8/8/2/9/135436.attach::OnPluginStart()
+L 04/22/2016 - 02:33:13: [SM] Native "HookEvent" reported: Game event "player_jump" does not exist
+L 04/22/2016 - 02:33:13: [SM] Displaying call stack trace for plugin "stamm/stamm_longjump.smx":
+L 04/22/2016 - 02:33:13: [SM]   [0]  Line 61, C:\Users\David\Documents\Github\Stamm\stamm_longjump.sp::OnPluginStart()
+L 04/22/2016 - 02:33:19: [freak_fortress_2.smx] [FF2 Bosses] Character danmedic is missing file 'sound/freak_fortress_2/s93dm/dm_playerdeath.mp3'!
+L 04/22/2016 - 02:33:19: [freak_fortress_2.smx] [FF2 Bosses] Character waluigi is missing file 'models\freak_fortress_2\wario\wario.mdl'!
+L 04/22/2016 - 02:33:19: [freak_fortress_2.smx] [FF2 Bosses] Character waluigi is missing file 'models\freak_fortress_2\wario\wario.dx80.vtx'!
+L 04/22/2016 - 02:33:19: [freak_fortress_2.smx] [FF2 Bosses] Character waluigi is missing file 'models\freak_fortress_2\wario\wario.dx90.vtx'!
+L 04/22/2016 - 02:33:19: [freak_fortress_2.smx] [FF2 Bosses] Character waluigi is missing file 'models\freak_fortress_2\wario\wario.sw.vtx'!
+L 04/22/2016 - 02:33:19: [freak_fortress_2.smx] [FF2 Bosses] Character waluigi is missing file 'models\freak_fortress_2\wario\wario.vvd'!
+L 04/22/2016 - 02:33:19: [freak_fortress_2.smx] [FF2 Bosses] Character waluigi is missing file 'models\freak_fortress_2\wario\wario.phy'!
+L 04/22/2016 - 02:33:19: [nextmap.smx] FATAL: Cannot load map cycle. Nextmap not loaded.
+L 04/22/2016 - 02:33:19: [SM] Plugin encountered error 25: Call was aborted
+L 04/22/2016 - 02:33:19: [SM] Native "SetFailState" reported: Mapcycle Not Found
+L 04/22/2016 - 02:33:19: [SM] Displaying call stack trace for plugin "nextmap.smx":
+L 04/22/2016 - 02:33:19: [SM]   [0]  Line 139, /home/builds/sourcemod/linux-1.7/build/plugins/nextmap.sp::FindAndSetNextMap()
+L 04/22/2016 - 02:33:19: [SM]   [1]  Line 109, /home/builds/sourcemod/linux-1.7/build/plugins/nextmap.sp::OnConfigsExecuted()
+L 04/22/2016 - 02:33:25: [SM] Native "GetEntPropVector" reported: Entity 632 (632) is invalid
+L 04/22/2016 - 02:33:25: [SM] Displaying call stack trace for plugin "SourceBot.smx":
+L 04/22/2016 - 02:33:25: [SM]   [0]  Line 2067, F:\TF\vg-trade\tf\addons\sourcemod\scripting\SourceBot.sp::LifeTick()
+L 04/22/2016 - 02:33:29: [serverhop.smx] Server 67.186.53.114:27016 is down: no timely reply received
+L 04/22/2016 - 02:33:29: [serverhop.smx] Server 5.9.25.6:27031 is down: no timely reply received
+L 04/22/2016 - 02:33:29: [serverhop.smx] Server 5.9.25.6:27027 is down: no timely reply received
+L 04/22/2016 - 02:33:29: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/22/2016 - 02:33:46: Error log file session closed.
+L 04/22/2016 - 02:38:18: SourceMod error session started
+L 04/22/2016 - 02:38:18: Info (map "tf_tornadohighway_final2") (file "errors_20160422.log")
+L 04/22/2016 - 02:38:18: [SM] Error parsing gameconfig file "/home/Access0009/27042/tf2/tf/addons/sourcemod/gamedata/huntsman.plugin.txt":
+L 04/22/2016 - 02:38:18: [SM] Error 1 on line 0, col 0: Stream failed to open
+L 04/22/2016 - 02:38:18: [SM] Native "LoadGameConfigFile" reported: Unable to open huntsman.plugin: File could not be opened: No such file or directory
+L 04/22/2016 - 02:38:18: [SM] Displaying call stack trace for plugin "huntsman.smx":
+L 04/22/2016 - 02:38:18: [SM]   [0]  Line 70, /home/forums/content/files/3/8/8/2/9/135436.attach::Patch_Init()
+L 04/22/2016 - 02:38:18: [SM]   [1]  Line 24, /home/forums/content/files/3/8/8/2/9/135436.attach::OnPluginStart()
+L 04/22/2016 - 02:38:19: [SM] Native "HookEvent" reported: Game event "player_jump" does not exist
+L 04/22/2016 - 02:38:19: [SM] Displaying call stack trace for plugin "stamm/stamm_longjump.smx":
+L 04/22/2016 - 02:38:19: [SM]   [0]  Line 61, C:\Users\David\Documents\Github\Stamm\stamm_longjump.sp::OnPluginStart()
+L 04/22/2016 - 02:38:24: [freak_fortress_2.smx] [FF2 Bosses] Character danmedic is missing file 'sound/freak_fortress_2/s93dm/dm_playerdeath.mp3'!
+L 04/22/2016 - 02:38:24: [freak_fortress_2.smx] [FF2 Bosses] Character waluigi is missing file 'models\freak_fortress_2\wario\wario.mdl'!
+L 04/22/2016 - 02:38:24: [freak_fortress_2.smx] [FF2 Bosses] Character waluigi is missing file 'models\freak_fortress_2\wario\wario.dx80.vtx'!
+L 04/22/2016 - 02:38:24: [freak_fortress_2.smx] [FF2 Bosses] Character waluigi is missing file 'models\freak_fortress_2\wario\wario.dx90.vtx'!
+L 04/22/2016 - 02:38:24: [freak_fortress_2.smx] [FF2 Bosses] Character waluigi is missing file 'models\freak_fortress_2\wario\wario.sw.vtx'!
+L 04/22/2016 - 02:38:24: [freak_fortress_2.smx] [FF2 Bosses] Character waluigi is missing file 'models\freak_fortress_2\wario\wario.vvd'!
+L 04/22/2016 - 02:38:25: [freak_fortress_2.smx] [FF2 Bosses] Character waluigi is missing file 'models\freak_fortress_2\wario\wario.phy'!
+L 04/22/2016 - 02:38:25: [nextmap.smx] FATAL: Cannot load map cycle. Nextmap not loaded.
+L 04/22/2016 - 02:38:25: [SM] Plugin encountered error 25: Call was aborted
+L 04/22/2016 - 02:38:25: [SM] Native "SetFailState" reported: Mapcycle Not Found
+L 04/22/2016 - 02:38:25: [SM] Displaying call stack trace for plugin "nextmap.smx":
+L 04/22/2016 - 02:38:25: [SM]   [0]  Line 139, /home/builds/sourcemod/linux-1.7/build/plugins/nextmap.sp::FindAndSetNextMap()
+L 04/22/2016 - 02:38:25: [SM]   [1]  Line 109, /home/builds/sourcemod/linux-1.7/build/plugins/nextmap.sp::OnConfigsExecuted()
+L 04/22/2016 - 02:38:25: [serverhop.smx] Server 5.9.25.6:27027 is down: socket error 6 (errno 111)
+L 04/22/2016 - 02:38:31: [SM] Native "GetEntPropVector" reported: Entity 632 (632) is invalid
+L 04/22/2016 - 02:38:31: [SM] Displaying call stack trace for plugin "SourceBot.smx":
+L 04/22/2016 - 02:38:31: [SM]   [0]  Line 2067, F:\TF\vg-trade\tf\addons\sourcemod\scripting\SourceBot.sp::LifeTick()
+L 04/22/2016 - 02:38:34: [serverhop.smx] Server 67.186.53.114:27016 is down: no timely reply received
+L 04/22/2016 - 02:38:34: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/22/2016 - 02:39:35: [serverhop.smx] Server 67.186.53.114:27016 is down: no timely reply received
+L 04/22/2016 - 02:39:35: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/22/2016 - 02:40:35: [serverhop.smx] Server 67.186.53.114:27016 is down: no timely reply received
+L 04/22/2016 - 02:40:35: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/22/2016 - 02:41:35: [serverhop.smx] Server 67.186.53.114:27016 is down: no timely reply received
+L 04/22/2016 - 02:41:35: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/22/2016 - 02:42:35: [serverhop.smx] Server 67.186.53.114:27016 is down: no timely reply received
+L 04/22/2016 - 02:42:35: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/22/2016 - 02:43:35: [serverhop.smx] Server 67.186.53.114:27016 is down: no timely reply received
+L 04/22/2016 - 02:43:35: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/22/2016 - 02:44:35: [serverhop.smx] Server 67.186.53.114:27016 is down: no timely reply received
+L 04/22/2016 - 02:44:35: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/22/2016 - 02:45:35: [serverhop.smx] Server 67.186.53.114:27016 is down: no timely reply received
+L 04/22/2016 - 02:45:35: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/22/2016 - 02:46:35: [serverhop.smx] Server 67.186.53.114:27016 is down: no timely reply received
+L 04/22/2016 - 02:46:35: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/22/2016 - 02:47:35: [serverhop.smx] Server 67.186.53.114:27016 is down: no timely reply received
+L 04/22/2016 - 02:47:35: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/22/2016 - 02:48:35: [serverhop.smx] Server 67.186.53.114:27016 is down: no timely reply received
+L 04/22/2016 - 02:48:35: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/22/2016 - 02:49:35: [serverhop.smx] Server 67.186.53.114:27016 is down: no timely reply received
+L 04/22/2016 - 02:49:35: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/22/2016 - 02:50:35: [serverhop.smx] Server 67.186.53.114:27016 is down: no timely reply received
+L 04/22/2016 - 02:50:35: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/22/2016 - 02:51:35: [serverhop.smx] Server 67.186.53.114:27016 is down: no timely reply received
+L 04/22/2016 - 02:51:35: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/22/2016 - 02:52:35: [serverhop.smx] Server 67.186.53.114:27016 is down: no timely reply received
+L 04/22/2016 - 02:52:35: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/22/2016 - 02:53:35: [serverhop.smx] Server 67.186.53.114:27016 is down: no timely reply received
+L 04/22/2016 - 02:53:35: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/22/2016 - 02:54:35: [serverhop.smx] Server 67.186.53.114:27016 is down: no timely reply received
+L 04/22/2016 - 02:55:35: [serverhop.smx] Server 67.186.53.114:27016 is down: no timely reply received
+L 04/22/2016 - 02:56:35: [serverhop.smx] Server 67.186.53.114:27016 is down: no timely reply received
+L 04/22/2016 - 02:57:35: [serverhop.smx] Server 67.186.53.114:27016 is down: no timely reply received
+L 04/22/2016 - 02:58:35: [serverhop.smx] Server 67.186.53.114:27016 is down: no timely reply received
+L 04/22/2016 - 02:59:35: [serverhop.smx] Server 67.186.53.114:27016 is down: no timely reply received
+L 04/22/2016 - 03:00:35: [serverhop.smx] Server 67.186.53.114:27016 is down: no timely reply received
+L 04/22/2016 - 03:01:35: [serverhop.smx] Server 67.186.53.114:27016 is down: no timely reply received
+L 04/22/2016 - 03:02:35: [serverhop.smx] Server 67.186.53.114:27016 is down: no timely reply received
+L 04/22/2016 - 03:03:35: [serverhop.smx] Server 67.186.53.114:27016 is down: no timely reply received
+L 04/22/2016 - 03:04:35: [serverhop.smx] Server 67.186.53.114:27016 is down: no timely reply received
+L 04/22/2016 - 03:05:35: [serverhop.smx] Server 67.186.53.114:27016 is down: no timely reply received
+L 04/22/2016 - 03:06:35: [serverhop.smx] Server 67.186.53.114:27016 is down: no timely reply received
+L 04/22/2016 - 03:07:35: [serverhop.smx] Server 67.186.53.114:27016 is down: no timely reply received
+L 04/22/2016 - 03:08:35: [serverhop.smx] Server 67.186.53.114:27016 is down: no timely reply received
+L 04/22/2016 - 03:09:35: [serverhop.smx] Server 67.186.53.114:27016 is down: no timely reply received
+L 04/22/2016 - 03:10:35: [serverhop.smx] Server 67.186.53.114:27016 is down: no timely reply received
+L 04/22/2016 - 03:11:35: [serverhop.smx] Server 67.186.53.114:27016 is down: no timely reply received
+L 04/22/2016 - 03:12:35: [serverhop.smx] Server 67.186.53.114:27016 is down: no timely reply received
+L 04/22/2016 - 03:13:35: [serverhop.smx] Server 67.186.53.114:27016 is down: no timely reply received
+L 04/22/2016 - 03:14:35: [serverhop.smx] Server 67.186.53.114:27016 is down: no timely reply received
+L 04/22/2016 - 03:15:35: [serverhop.smx] Server 67.186.53.114:27016 is down: no timely reply received
+L 04/22/2016 - 03:16:35: [serverhop.smx] Server 67.186.53.114:27016 is down: no timely reply received
+L 04/22/2016 - 03:17:35: [serverhop.smx] Server 67.186.53.114:27016 is down: no timely reply received
+L 04/22/2016 - 03:18:35: [serverhop.smx] Server 67.186.53.114:27016 is down: no timely reply received
+L 04/22/2016 - 03:19:35: [serverhop.smx] Server 67.186.53.114:27016 is down: no timely reply received
+L 04/22/2016 - 03:20:35: [serverhop.smx] Server 67.186.53.114:27016 is down: no timely reply received
+L 04/22/2016 - 03:21:35: [serverhop.smx] Server 67.186.53.114:27016 is down: no timely reply received
+L 04/22/2016 - 03:22:35: [serverhop.smx] Server 67.186.53.114:27016 is down: no timely reply received
+L 04/22/2016 - 03:23:35: [serverhop.smx] Server 67.186.53.114:27016 is down: no timely reply received
+L 04/22/2016 - 03:24:35: [serverhop.smx] Server 67.186.53.114:27016 is down: no timely reply received
+L 04/22/2016 - 03:25:35: [serverhop.smx] Server 67.186.53.114:27016 is down: no timely reply received
+L 04/22/2016 - 03:26:35: [serverhop.smx] Server 67.186.53.114:27016 is down: no timely reply received
+L 04/22/2016 - 03:27:35: [serverhop.smx] Server 67.186.53.114:27016 is down: no timely reply received
+L 04/22/2016 - 03:28:35: [serverhop.smx] Server 67.186.53.114:27016 is down: no timely reply received
+L 04/22/2016 - 03:29:35: [serverhop.smx] Server 67.186.53.114:27016 is down: no timely reply received
+L 04/22/2016 - 03:30:35: [serverhop.smx] Server 67.186.53.114:27016 is down: no timely reply received
+L 04/22/2016 - 03:31:35: [serverhop.smx] Server 67.186.53.114:27016 is down: no timely reply received
+L 04/22/2016 - 03:32:35: [serverhop.smx] Server 67.186.53.114:27016 is down: no timely reply received
+L 04/22/2016 - 03:33:35: [serverhop.smx] Server 67.186.53.114:27016 is down: no timely reply received
+L 04/22/2016 - 03:34:35: [serverhop.smx] Server 67.186.53.114:27016 is down: no timely reply received
+L 04/22/2016 - 03:35:35: [serverhop.smx] Server 67.186.53.114:27016 is down: no timely reply received
+L 04/22/2016 - 03:36:35: [serverhop.smx] Server 67.186.53.114:27016 is down: no timely reply received
+L 04/22/2016 - 03:37:35: [serverhop.smx] Server 67.186.53.114:27016 is down: no timely reply received
+L 04/22/2016 - 03:38:35: [serverhop.smx] Server 67.186.53.114:27016 is down: no timely reply received
+L 04/22/2016 - 03:39:35: [serverhop.smx] Server 67.186.53.114:27016 is down: no timely reply received
+L 04/22/2016 - 03:40:35: [serverhop.smx] Server 67.186.53.114:27016 is down: no timely reply received
+L 04/22/2016 - 03:41:35: [serverhop.smx] Server 67.186.53.114:27016 is down: no timely reply received
+L 04/22/2016 - 03:42:35: [serverhop.smx] Server 67.186.53.114:27016 is down: no timely reply received
+L 04/22/2016 - 03:43:35: [serverhop.smx] Server 67.186.53.114:27016 is down: no timely reply received
+L 04/22/2016 - 03:44:35: [serverhop.smx] Server 67.186.53.114:27016 is down: no timely reply received
+L 04/22/2016 - 03:45:35: [serverhop.smx] Server 67.186.53.114:27016 is down: no timely reply received
+L 04/22/2016 - 03:46:35: [serverhop.smx] Server 67.186.53.114:27016 is down: no timely reply received

@@ -1,0 +1,83 @@
+L 01/01/2016 - 00:29:39: SourceMod error session started
+L 01/01/2016 - 00:29:39: Info (map "ctf_2fort") (file "errors_20160101.log")
+L 01/01/2016 - 00:29:39: Error log file session closed.
+L 01/01/2016 - 00:29:44: SourceMod error session started
+L 01/01/2016 - 00:29:44: Info (map "ctf_2fort") (file "errors_20160101.log")
+L 01/01/2016 - 00:29:44: [nextmap.smx] FATAL: Cannot load map cycle. Nextmap not loaded.
+L 01/01/2016 - 00:29:44: [SM] Plugin encountered error 25: Call was aborted
+L 01/01/2016 - 00:29:44: [SM] Native "SetFailState" reported: Mapcycle Not Found
+L 01/01/2016 - 00:29:44: [SM] Displaying call stack trace for plugin "nextmap.smx":
+L 01/01/2016 - 00:29:44: [SM]   [0]  Line 139, /home/builds/sourcemod/linux-1.7/build/plugins/nextmap.sp::FindAndSetNextMap()
+L 01/01/2016 - 00:29:44: [SM]   [1]  Line 109, /home/builds/sourcemod/linux-1.7/build/plugins/nextmap.sp::OnConfigsExecuted()
+L 01/01/2016 - 01:14:43: Error log file session closed.
+L 01/01/2016 - 01:14:47: SourceMod error session started
+L 01/01/2016 - 01:14:47: Info (map "ctf_2fort") (file "errors_20160101.log")
+L 01/01/2016 - 01:14:47: [nextmap.smx] FATAL: Cannot load map cycle. Nextmap not loaded.
+L 01/01/2016 - 01:14:47: [SM] Plugin encountered error 25: Call was aborted
+L 01/01/2016 - 01:14:47: [SM] Native "SetFailState" reported: Mapcycle Not Found
+L 01/01/2016 - 01:14:47: [SM] Displaying call stack trace for plugin "nextmap.smx":
+L 01/01/2016 - 01:14:47: [SM]   [0]  Line 139, /home/builds/sourcemod/linux-1.7/build/plugins/nextmap.sp::FindAndSetNextMap()
+L 01/01/2016 - 01:14:47: [SM]   [1]  Line 109, /home/builds/sourcemod/linux-1.7/build/plugins/nextmap.sp::OnConfigsExecuted()
+L 01/01/2016 - 14:22:28: Error log file session closed.
+L 01/01/2016 - 14:22:32: SourceMod error session started
+L 01/01/2016 - 14:22:32: Info (map "ctf_2fort") (file "errors_20160101.log")
+L 01/01/2016 - 14:22:32: [nextmap.smx] FATAL: Cannot load map cycle. Nextmap not loaded.
+L 01/01/2016 - 14:22:32: [SM] Plugin encountered error 25: Call was aborted
+L 01/01/2016 - 14:22:32: [SM] Native "SetFailState" reported: Mapcycle Not Found
+L 01/01/2016 - 14:22:32: [SM] Displaying call stack trace for plugin "nextmap.smx":
+L 01/01/2016 - 14:22:32: [SM]   [0]  Line 139, /home/builds/sourcemod/linux-1.7/build/plugins/nextmap.sp::FindAndSetNextMap()
+L 01/01/2016 - 14:22:32: [SM]   [1]  Line 109, /home/builds/sourcemod/linux-1.7/build/plugins/nextmap.sp::OnConfigsExecuted()
+L 01/01/2016 - 14:54:04: Error log file session closed.
+L 01/01/2016 - 14:54:08: SourceMod error session started
+L 01/01/2016 - 14:54:08: Info (map "ctf_2fort") (file "errors_20160101.log")
+L 01/01/2016 - 14:54:08: [nextmap.smx] FATAL: Cannot load map cycle. Nextmap not loaded.
+L 01/01/2016 - 14:54:08: [SM] Plugin encountered error 25: Call was aborted
+L 01/01/2016 - 14:54:08: [SM] Native "SetFailState" reported: Mapcycle Not Found
+L 01/01/2016 - 14:54:08: [SM] Displaying call stack trace for plugin "nextmap.smx":
+L 01/01/2016 - 14:54:08: [SM]   [0]  Line 139, /home/builds/sourcemod/linux-1.7/build/plugins/nextmap.sp::FindAndSetNextMap()
+L 01/01/2016 - 14:54:08: [SM]   [1]  Line 109, /home/builds/sourcemod/linux-1.7/build/plugins/nextmap.sp::OnConfigsExecuted()
+L 01/01/2016 - 16:39:10: Error log file session closed.
+L 01/01/2016 - 16:39:14: SourceMod error session started
+L 01/01/2016 - 16:39:14: Info (map "ctf_2fort") (file "errors_20160101.log")
+L 01/01/2016 - 16:39:14: [nextmap.smx] FATAL: Cannot load map cycle. Nextmap not loaded.
+L 01/01/2016 - 16:39:14: [SM] Plugin encountered error 25: Call was aborted
+L 01/01/2016 - 16:39:14: [SM] Native "SetFailState" reported: Mapcycle Not Found
+L 01/01/2016 - 16:39:14: [SM] Displaying call stack trace for plugin "nextmap.smx":
+L 01/01/2016 - 16:39:14: [SM]   [0]  Line 139, /home/builds/sourcemod/linux-1.7/build/plugins/nextmap.sp::FindAndSetNextMap()
+L 01/01/2016 - 16:39:14: [SM]   [1]  Line 109, /home/builds/sourcemod/linux-1.7/build/plugins/nextmap.sp::OnConfigsExecuted()
+L 01/01/2016 - 17:23:49: Error log file session closed.
+L 01/01/2016 - 17:23:53: SourceMod error session started
+L 01/01/2016 - 17:23:53: Info (map "ctf_2fort") (file "errors_20160101.log")
+L 01/01/2016 - 17:23:53: [nextmap.smx] FATAL: Cannot load map cycle. Nextmap not loaded.
+L 01/01/2016 - 17:23:53: [SM] Plugin encountered error 25: Call was aborted
+L 01/01/2016 - 17:23:53: [SM] Native "SetFailState" reported: Mapcycle Not Found
+L 01/01/2016 - 17:23:53: [SM] Displaying call stack trace for plugin "nextmap.smx":
+L 01/01/2016 - 17:23:53: [SM]   [0]  Line 139, /home/builds/sourcemod/linux-1.7/build/plugins/nextmap.sp::FindAndSetNextMap()
+L 01/01/2016 - 17:23:53: [SM]   [1]  Line 109, /home/builds/sourcemod/linux-1.7/build/plugins/nextmap.sp::OnConfigsExecuted()
+L 01/01/2016 - 18:37:28: Error log file session closed.
+L 01/01/2016 - 18:37:33: SourceMod error session started
+L 01/01/2016 - 18:37:33: Info (map "ctf_2fort") (file "errors_20160101.log")
+L 01/01/2016 - 18:37:33: [nextmap.smx] FATAL: Cannot load map cycle. Nextmap not loaded.
+L 01/01/2016 - 18:37:33: [SM] Plugin encountered error 25: Call was aborted
+L 01/01/2016 - 18:37:33: [SM] Native "SetFailState" reported: Mapcycle Not Found
+L 01/01/2016 - 18:37:33: [SM] Displaying call stack trace for plugin "nextmap.smx":
+L 01/01/2016 - 18:37:33: [SM]   [0]  Line 139, /home/builds/sourcemod/linux-1.7/build/plugins/nextmap.sp::FindAndSetNextMap()
+L 01/01/2016 - 18:37:33: [SM]   [1]  Line 109, /home/builds/sourcemod/linux-1.7/build/plugins/nextmap.sp::OnConfigsExecuted()
+L 01/01/2016 - 22:05:12: Error log file session closed.
+L 01/01/2016 - 22:05:16: SourceMod error session started
+L 01/01/2016 - 22:05:16: Info (map "ctf_2fort") (file "errors_20160101.log")
+L 01/01/2016 - 22:05:16: [nextmap.smx] FATAL: Cannot load map cycle. Nextmap not loaded.
+L 01/01/2016 - 22:05:16: [SM] Plugin encountered error 25: Call was aborted
+L 01/01/2016 - 22:05:16: [SM] Native "SetFailState" reported: Mapcycle Not Found
+L 01/01/2016 - 22:05:16: [SM] Displaying call stack trace for plugin "nextmap.smx":
+L 01/01/2016 - 22:05:16: [SM]   [0]  Line 139, /home/builds/sourcemod/linux-1.7/build/plugins/nextmap.sp::FindAndSetNextMap()
+L 01/01/2016 - 22:05:16: [SM]   [1]  Line 109, /home/builds/sourcemod/linux-1.7/build/plugins/nextmap.sp::OnConfigsExecuted()
+L 01/01/2016 - 23:05:13: Error log file session closed.
+L 01/01/2016 - 23:05:18: SourceMod error session started
+L 01/01/2016 - 23:05:18: Info (map "ctf_2fort") (file "errors_20160101.log")
+L 01/01/2016 - 23:05:18: [nextmap.smx] FATAL: Cannot load map cycle. Nextmap not loaded.
+L 01/01/2016 - 23:05:18: [SM] Plugin encountered error 25: Call was aborted
+L 01/01/2016 - 23:05:18: [SM] Native "SetFailState" reported: Mapcycle Not Found
+L 01/01/2016 - 23:05:18: [SM] Displaying call stack trace for plugin "nextmap.smx":
+L 01/01/2016 - 23:05:18: [SM]   [0]  Line 139, /home/builds/sourcemod/linux-1.7/build/plugins/nextmap.sp::FindAndSetNextMap()
+L 01/01/2016 - 23:05:18: [SM]   [1]  Line 109, /home/builds/sourcemod/linux-1.7/build/plugins/nextmap.sp::OnConfigsExecuted()

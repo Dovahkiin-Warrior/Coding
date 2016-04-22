@@ -1,0 +1,39 @@
+L 03/07/2016 - 22:17:56: SourceMod error session started
+L 03/07/2016 - 22:17:56: Info (map "sb_finaldestination_vg") (file "errors_20160307.log")
+L 03/07/2016 - 22:17:56: [SM] Fatal error encountered parsing translation file "ghostmode.phrases.txt"
+L 03/07/2016 - 22:17:56: [SM] Error (line 0, column 0): Stream failed to open
+L 03/07/2016 - 22:17:56: [SM] Error parsing gameconfig file "G:\tf\vg-smash\tf\addons\sourcemod\gamedata\huntsman.plugin.txt":
+L 03/07/2016 - 22:17:56: [SM] Error 1 on line 0, col 0: Stream failed to open
+L 03/07/2016 - 22:17:56: [SM] Native "LoadGameConfigFile" reported: Unable to open huntsman.plugin: File could not be opened: The system cannot find the file specified.
+
+L 03/07/2016 - 22:17:56: [SM] Displaying call stack trace for plugin "huntsman.smx":
+L 03/07/2016 - 22:17:56: [SM]   [0]  Line 70, /home/forums/content/files/3/8/8/2/9/135436.attach::Patch_Init()
+L 03/07/2016 - 22:17:56: [SM]   [1]  Line 24, /home/forums/content/files/3/8/8/2/9/135436.attach::OnPluginStart()
+L 03/07/2016 - 22:17:58: [SM] Error parsing gameconfig file "G:\tf\vg-smash\tf\addons\sourcemod\gamedata\tf2.attributes.txt":
+L 03/07/2016 - 22:17:58: [SM] Error 1 on line 0, col 0: Stream failed to open
+L 03/07/2016 - 22:17:58: [SM] Native "LoadGameConfigFile" reported: Unable to open tf2.attributes: File could not be opened: The system cannot find the file specified.
+
+L 03/07/2016 - 22:17:58: [SM] Displaying call stack trace for plugin "tf2attributes.smx":
+L 03/07/2016 - 22:17:58: [SM]   [0]  Line 85, /home/forums/content/files/8/4/3/0/4/116848.attach::OnPluginStart()
+L 03/07/2016 - 22:17:58: [SM] Fatal error encountered parsing translation file "thirdperson.phrases.txt"
+L 03/07/2016 - 22:17:58: [SM] Error (line 0, column 0): Stream failed to open
+L 03/07/2016 - 22:29:42: SourceMod error session started
+L 03/07/2016 - 22:29:42: Info (map "sb_finaldestination_vg") (file "errors_20160307.log")
+L 03/07/2016 - 22:29:42: [SM] Fatal error encountered parsing translation file "ghostmode.phrases.txt"
+L 03/07/2016 - 22:29:42: [SM] Error (line 0, column 0): Stream failed to open
+L 03/07/2016 - 22:29:42: [SM] Error parsing gameconfig file "G:\tf\vg-smash\tf\addons\sourcemod\gamedata\huntsman.plugin.txt":
+L 03/07/2016 - 22:29:42: [SM] Error 1 on line 0, col 0: Stream failed to open
+L 03/07/2016 - 22:29:42: [SM] Native "LoadGameConfigFile" reported: Unable to open huntsman.plugin: File could not be opened: The system cannot find the file specified.
+
+L 03/07/2016 - 22:29:42: [SM] Displaying call stack trace for plugin "huntsman.smx":
+L 03/07/2016 - 22:29:42: [SM]   [0]  Line 70, /home/forums/content/files/3/8/8/2/9/135436.attach::Patch_Init()
+L 03/07/2016 - 22:29:42: [SM]   [1]  Line 24, /home/forums/content/files/3/8/8/2/9/135436.attach::OnPluginStart()
+L 03/07/2016 - 22:29:42: [SM] Error parsing gameconfig file "G:\tf\vg-smash\tf\addons\sourcemod\gamedata\tf2.attributes.txt":
+L 03/07/2016 - 22:29:42: [SM] Error 1 on line 0, col 0: Stream failed to open
+L 03/07/2016 - 22:29:42: [SM] Native "LoadGameConfigFile" reported: Unable to open tf2.attributes: File could not be opened: The system cannot find the file specified.
+
+L 03/07/2016 - 22:29:42: [SM] Displaying call stack trace for plugin "tf2attributes.smx":
+L 03/07/2016 - 22:29:42: [SM]   [0]  Line 85, /home/forums/content/files/8/4/3/0/4/116848.attach::OnPluginStart()
+L 03/07/2016 - 22:29:42: [SM] Fatal error encountered parsing translation file "thirdperson.phrases.txt"
+L 03/07/2016 - 22:29:42: [SM] Error (line 0, column 0): Stream failed to open
+L 03/07/2016 - 22:30:00: [STEAMTOOLS] Server Gameplay Stats received with an unexpected eResult. (eResult = 20)

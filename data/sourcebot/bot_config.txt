@@ -1,0 +1,21 @@
+//Edit the values on the right to change things about the bot.
+//You must change the model if you are using a game other than HL2DM.
+"Vault"
+{
+	"Personal"
+	{
+		"Name"		"Cortana"
+		"Age"			"20"
+	}
+	"Setup"
+	{
+		"SpawnOnStart"	"yes"
+		"DefaultSpeed"	"5"
+		"UsePlayerSlot"	"no"
+	}
+	"Debug"
+	{
+		"Model"		""
+		"FloatHeight"	"0"
+	}
+}

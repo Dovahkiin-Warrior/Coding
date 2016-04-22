@@ -1,0 +1,54 @@
+L 04/02/2016 - 03:17:03: SourceMod log file session started (file "L20160402.log") (Version "1.7.3-dev+5275")
+L 04/02/2016 - 03:17:03: [basecommands.smx] "Console<0><Console><Console>" changed map to "dr_safety_first_final"
+L 04/02/2016 - 03:17:06: [SM] Changed map to "dr_safety_first_final"
+L 04/02/2016 - 03:17:07: -------- Mapchange to dr_safety_first_final --------
+L 04/02/2016 - 03:17:12: [deathrun.smx] Deathrun map detected. Enabling Deathrun Gamemode.
+L 04/02/2016 - 03:17:12: [custom-chatcolors-menu.smx] Loaded 156 colors from configuration file addons/sourcemod/configs/custom-chatcolors-menu.cfg.
+L 04/02/2016 - 04:52:48: SourceMod log file session started (file "L20160402.log") (Version "1.7.3-dev+5275")
+L 04/02/2016 - 04:52:48: -------- Mapchange to ctf_2fort --------
+L 04/02/2016 - 04:52:48: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 04/02/2016 - 04:52:48: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 04/02/2016 - 04:52:53: [deathrun.smx] Current map is not a deathrun map. Disabling Deathrun Gamemode.
+L 04/02/2016 - 04:52:53: [custom-chatcolors-menu.smx] Loaded 156 colors from configuration file addons/sourcemod/configs/custom-chatcolors-menu.cfg.
+L 04/02/2016 - 04:52:53: [custom-chatcolors-menu.smx] MySQL server configured. Variable saving enabled.
+L 04/02/2016 - 05:07:10: [basecommands.smx] "Console<0><Console><Console>" changed map to "dr_safety_first_final"
+L 04/02/2016 - 05:07:13: [SM] Changed map to "dr_safety_first_final"
+L 04/02/2016 - 05:07:15: -------- Mapchange to dr_safety_first_final --------
+L 04/02/2016 - 05:07:20: [deathrun.smx] Deathrun map detected. Enabling Deathrun Gamemode.
+L 04/02/2016 - 05:07:20: [custom-chatcolors-menu.smx] Loaded 156 colors from configuration file addons/sourcemod/configs/custom-chatcolors-menu.cfg.
+L 04/02/2016 - 17:55:20: SourceMod log file session started (file "L20160402.log") (Version "1.7.3-dev+5275")
+L 04/02/2016 - 17:55:20: -------- Mapchange to ctf_2fort --------
+L 04/02/2016 - 17:55:20: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 04/02/2016 - 17:55:20: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 04/02/2016 - 17:55:30: [deathrun.smx] Current map is not a deathrun map. Disabling Deathrun Gamemode.
+L 04/02/2016 - 17:55:30: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "tf_birthday") (value "0")
+L 04/02/2016 - 17:55:31: [custom-chatcolors-menu.smx] Loaded 156 colors from configuration file addons/sourcemod/configs/custom-chatcolors-menu.cfg.
+L 04/02/2016 - 18:08:30: SourceMod log file session started (file "L20160402.log") (Version "1.7.3-dev+5275")
+L 04/02/2016 - 18:08:30: -------- Mapchange to tf_tornadohighway_final2 --------
+L 04/02/2016 - 18:08:30: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 04/02/2016 - 18:08:30: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 04/02/2016 - 18:08:41: [deathrun.smx] Current map is not a deathrun map. Disabling Deathrun Gamemode.
+L 04/02/2016 - 18:08:41: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "tf_birthday") (value "0")
+L 04/02/2016 - 18:08:42: [custom-chatcolors-menu.smx] Loaded 156 colors from configuration file addons/sourcemod/configs/custom-chatcolors-menu.cfg.
+L 04/02/2016 - 18:08:42: [buildinghats.smx] [Building Hats] Executing configuration file addons/sourcemod/configs/buildinghats.cfg
+L 04/02/2016 - 18:10:09: SourceMod log file session started (file "L20160402.log") (Version "1.7.3-dev+5275")
+L 04/02/2016 - 18:10:09: -------- Mapchange to tf_tornadohighway_final2 --------
+L 04/02/2016 - 18:10:09: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 04/02/2016 - 18:10:09: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 04/02/2016 - 19:03:17: Log file closed.
+L 04/02/2016 - 23:18:27: SourceMod log file session started (file "L20160402.log") (Version "1.7.3-dev+5275")
+L 04/02/2016 - 23:18:27: -------- Mapchange to tf_tornadohighway_final2 --------
+L 04/02/2016 - 23:18:27: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 04/02/2016 - 23:18:27: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 04/02/2016 - 23:18:33: [deathrun.smx] Current map is not a deathrun map. Disabling Deathrun Gamemode.
+L 04/02/2016 - 23:18:33: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "tf_birthday") (value "0")
+L 04/02/2016 - 23:18:33: [custom-chatcolors-menu.smx] Loaded 156 colors from configuration file addons/sourcemod/configs/custom-chatcolors-menu.cfg.
+L 04/02/2016 - 23:18:33: [buildinghats.smx] [Building Hats] Executing configuration file addons/sourcemod/configs/buildinghats.cfg
+L 04/02/2016 - 23:19:25: [basecommands.smx] "Console<0><Console><Console>" changed map to "koth_wubwubwub_remix_vip"
+L 04/02/2016 - 23:19:28: [SM] Changed map to "koth_wubwubwub_remix_vip"
+L 04/02/2016 - 23:19:30: -------- Mapchange to koth_wubwubwub_remix_vip --------
+L 04/02/2016 - 23:19:35: [deathrun.smx] Current map is not a deathrun map. Disabling Deathrun Gamemode.
+L 04/02/2016 - 23:19:35: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "tf_birthday") (value "0")
+L 04/02/2016 - 23:19:35: [custom-chatcolors-menu.smx] Loaded 156 colors from configuration file addons/sourcemod/configs/custom-chatcolors-menu.cfg.
+L 04/02/2016 - 23:19:35: [buildinghats.smx] [Building Hats] Executing configuration file addons/sourcemod/configs/buildinghats.cfg
+L 04/02/2016 - 23:59:19: [basecommands.smx] "*FHR* ÐJ DovahYT {NSJT} λ³<2><[U:1:138265817]><>" console command (cmdline "mp_disable_autokick 4")

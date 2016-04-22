@@ -1,0 +1,64 @@
+L 03/29/2016 - 03:46:58: SourceMod error session started
+L 03/29/2016 - 03:46:58: Info (map "ctf_2fort") (file "errors_20160329.log")
+L 03/29/2016 - 03:46:58: [sb_admcfg.smx] Error(s) detected parsing addons/sourcemod/configs/sourcebans/sb_admins.cfg
+L 03/29/2016 - 03:46:58: [sb_admcfg.smx]  (line 8) Unknown group "Owner"
+L 03/29/2016 - 03:46:58: [sb_admcfg.smx]  (line 22) Unknown group "Admin"
+L 03/29/2016 - 03:46:58: [sb_admcfg.smx]  (line 36) Unknown group "Admin"
+L 03/29/2016 - 03:46:58: [sb_admcfg.smx]  (line 48) Unknown group "Owner"
+L 03/29/2016 - 03:47:10: [nextmap.smx] FATAL: Cannot load map cycle. Nextmap not loaded.
+L 03/29/2016 - 03:47:10: [SM] Plugin encountered error 25: Call was aborted
+L 03/29/2016 - 03:47:10: [SM] Native "SetFailState" reported: Mapcycle Not Found
+L 03/29/2016 - 03:47:10: [SM] Displaying call stack trace for plugin "nextmap.smx":
+L 03/29/2016 - 03:47:10: [SM]   [0]  Line 139, D:\builds\build-sourcemod-msvc12\windows-1.7\build\plugins\nextmap.sp::FindAndSetNextMap()
+L 03/29/2016 - 03:47:10: [SM]   [1]  Line 109, D:\builds\build-sourcemod-msvc12\windows-1.7\build\plugins\nextmap.sp::OnConfigsExecuted()
+L 03/29/2016 - 03:47:10: [tf2_modelmanager.smx] [TF2] Model Manager: File "models/selena/fempyro.mdl" not found. Excluding from list.
+L 03/29/2016 - 03:47:10: [tf2_modelmanager.smx] [TF2] Model Manager: File "models\selena\scout.mdl" not found. Excluding from list.
+L 03/29/2016 - 03:47:10: [tf2_modelmanager.smx] [TF2] Model Manager: File "models/selena/dashscout.mdl" not found. Excluding from list.
+L 03/29/2016 - 03:47:10: [tf2_modelmanager.smx] [TF2] Model Manager: File "models/freak_fortress_2/hitler/hitler.mdl" not found. Excluding from list.
+L 03/29/2016 - 03:47:10: [tf2_modelmanager.smx] [TF2] Model Manager: File "models/freak_fortress_2/gordon/gordon_classic_crow.mdl" not found. Excluding from list.
+L 03/29/2016 - 03:47:10: [tf2_modelmanager.smx] [TF2] Model Manager: File "models/freak_fortress_2/shadow93/dmedic/d_soldier.mdl" not found. Excluding from list.
+L 03/29/2016 - 03:47:18: [SM] Native "GetEntPropVector" reported: Entity 45 (45) is invalid
+L 03/29/2016 - 03:47:18: [SM] Displaying call stack trace for plugin "SourceBot.smx":
+L 03/29/2016 - 03:47:18: [SM]   [0]  Line 2067, F:\TF\vg-trade\tf\addons\sourcemod\scripting\SourceBot.sp::LifeTick()
+L 03/29/2016 - 04:14:43: Error log file session closed.
+L 03/29/2016 - 04:14:43: SourceMod error session started
+L 03/29/2016 - 04:14:43: Info (map "dr_supermario64_v6b") (file "errors_20160329.log")
+L 03/29/2016 - 04:14:43: [sb_admcfg.smx] Error(s) detected parsing addons/sourcemod/configs/sourcebans/sb_admins.cfg
+L 03/29/2016 - 04:14:43: [sb_admcfg.smx]  (line 8) Unknown group "Owner"
+L 03/29/2016 - 04:14:43: [sb_admcfg.smx]  (line 22) Unknown group "Admin"
+L 03/29/2016 - 04:14:43: [sb_admcfg.smx]  (line 36) Unknown group "Admin"
+L 03/29/2016 - 04:14:43: [sb_admcfg.smx]  (line 48) Unknown group "Owner"
+L 03/29/2016 - 04:14:47: [tf2_modelmanager.smx] [TF2] Model Manager: File "models/selena/fempyro.mdl" not found. Excluding from list.
+L 03/29/2016 - 04:14:47: [tf2_modelmanager.smx] [TF2] Model Manager: File "models\selena\scout.mdl" not found. Excluding from list.
+L 03/29/2016 - 04:14:47: [tf2_modelmanager.smx] [TF2] Model Manager: File "models/selena/dashscout.mdl" not found. Excluding from list.
+L 03/29/2016 - 04:14:47: [tf2_modelmanager.smx] [TF2] Model Manager: File "models/freak_fortress_2/hitler/hitler.mdl" not found. Excluding from list.
+L 03/29/2016 - 04:14:47: [tf2_modelmanager.smx] [TF2] Model Manager: File "models/freak_fortress_2/gordon/gordon_classic_crow.mdl" not found. Excluding from list.
+L 03/29/2016 - 04:14:47: [tf2_modelmanager.smx] [TF2] Model Manager: File "models/freak_fortress_2/shadow93/dmedic/d_soldier.mdl" not found. Excluding from list.
+L 03/29/2016 - 04:14:47: [nextmap.smx] FATAL: Cannot load map cycle. Nextmap not loaded.
+L 03/29/2016 - 04:14:47: [SM] Plugin encountered error 25: Call was aborted
+L 03/29/2016 - 04:14:47: [SM] Native "SetFailState" reported: Mapcycle Not Found
+L 03/29/2016 - 04:14:47: [SM] Displaying call stack trace for plugin "nextmap.smx":
+L 03/29/2016 - 04:14:47: [SM]   [0]  Line 139, D:\builds\build-sourcemod-msvc12\windows-1.7\build\plugins\nextmap.sp::FindAndSetNextMap()
+L 03/29/2016 - 04:14:47: [SM]   [1]  Line 109, D:\builds\build-sourcemod-msvc12\windows-1.7\build\plugins\nextmap.sp::OnConfigsExecuted()
+L 03/29/2016 - 04:14:47: [STEAMTOOLS] Server Gameplay Stats received with an unexpected eResult. (eResult = 20)
+L 03/29/2016 - 04:14:53: [SM] Native "GetEntPropVector" reported: Entity 628 (628) is invalid
+L 03/29/2016 - 04:14:53: [SM] Displaying call stack trace for plugin "SourceBot.smx":
+L 03/29/2016 - 04:14:53: [SM]   [0]  Line 2067, F:\TF\vg-trade\tf\addons\sourcemod\scripting\SourceBot.sp::LifeTick()
+L 03/29/2016 - 04:35:00: [sb_admcfg.smx] Error(s) detected parsing addons/sourcemod/configs/sourcebans/sb_admins.cfg
+L 03/29/2016 - 04:35:00: [sb_admcfg.smx]  (line 8) Unknown group "Owner"
+L 03/29/2016 - 04:35:00: [sb_admcfg.smx]  (line 29) Unknown group "Admin"
+L 03/29/2016 - 04:35:00: [sb_admcfg.smx]  (line 41) Unknown group "Owner"
+L 03/29/2016 - 04:36:50: [sb_admcfg.smx] Error(s) detected parsing addons/sourcemod/configs/sourcebans/sb_admins.cfg
+L 03/29/2016 - 04:36:50: [sb_admcfg.smx]  (line 8) Unknown group "Owner"
+L 03/29/2016 - 04:36:50: [sb_admcfg.smx]  (line 29) Unknown group "Admin"
+L 03/29/2016 - 04:36:50: [sb_admcfg.smx]  (line 41) Unknown group "Owner"
+L 03/29/2016 - 04:41:40: [sb_admcfg.smx] Error(s) detected parsing addons/sourcemod/configs/sourcebans/sb_admins.cfg
+L 03/29/2016 - 04:41:40: [sb_admcfg.smx]  (line 8) Unknown group "Owner"
+L 03/29/2016 - 04:41:40: [sb_admcfg.smx]  (line 29) Unknown group "Admin"
+L 03/29/2016 - 04:41:40: [sb_admcfg.smx]  (line 41) Unknown group "Owner"
+L 03/29/2016 - 06:54:03: [sb_admcfg.smx] Error(s) detected parsing addons/sourcemod/configs/sourcebans/sb_admins.cfg
+L 03/29/2016 - 06:54:03: [sb_admcfg.smx]  (line 8) Unknown group "Owner"
+L 03/29/2016 - 06:54:03: [sb_admcfg.smx]  (line 29) Unknown group "Admin"
+L 03/29/2016 - 06:54:03: [sb_admcfg.smx]  (line 41) Unknown group "Owner"
+L 03/29/2016 - 06:54:03: [sb_admcfg.smx]  (line 53) Unknown group "Admin"
+L 03/29/2016 - 12:59:14: Error log file session closed.

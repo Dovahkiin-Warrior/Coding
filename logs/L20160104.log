@@ -1,0 +1,10 @@
+L 01/04/2016 - 14:08:51: SourceMod log file session started (file "L20160104.log") (Version "1.7.3-dev+5275")
+L 01/04/2016 - 14:08:51: [SM] Changed map to "ctf_2fort"
+L 01/04/2016 - 14:08:52: -------- Mapchange to ctf_2fort --------
+L 01/04/2016 - 14:08:57: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "tf_birthday") (value "0")
+L 01/04/2016 - 16:06:51: [SM] Changed map to "ctf_2fort"
+L 01/04/2016 - 16:06:52: -------- Mapchange to ctf_2fort --------
+L 01/04/2016 - 16:06:56: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "tf_birthday") (value "0")
+L 01/04/2016 - 21:09:33: [SM] Changed map to "ctf_2fort"
+L 01/04/2016 - 21:09:34: -------- Mapchange to ctf_2fort --------
+L 01/04/2016 - 21:09:38: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "tf_birthday") (value "0")

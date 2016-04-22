@@ -1,0 +1,155 @@
+L 04/03/2016 - 00:15:29: SourceMod log file session started (file "L20160403.log") (Version "1.7.3-dev+5275")
+L 04/03/2016 - 00:15:29: [selfnoclip.smx] Enabled noclip
+L 04/03/2016 - 00:15:30: [selfnoclip.smx] Disabled noclip
+L 04/03/2016 - 00:18:09: [basecommands.smx] "*FHR* ÐJ DovahYT {NSJT} λ³<2><[U:1:138265817]><>" console command (cmdline "sm plugins reload serverhop")
+L 04/03/2016 - 00:18:13: [custom-chatcolors.smx] Reloaded Custom Chat Colors config file
+L 04/03/2016 - 00:18:20: [basecommands.smx] "*FHR* ÐJ DovahYT {NSJT} λ³<2><[U:1:138265817]><>" console command (cmdline "sm plugins reload custom-chatcolors-menu")
+L 04/03/2016 - 00:18:20: [custom-chatcolors-menu.smx] Loaded 156 colors from configuration file addons/sourcemod/configs/custom-chatcolors-menu.cfg.
+L 04/03/2016 - 00:18:45: [selfnoclip.smx] Enabled noclip
+L 04/03/2016 - 00:18:48: [selfnoclip.smx] Disabled noclip
+L 04/03/2016 - 00:18:56: [custom-chatcolors.smx] Reloaded Custom Chat Colors config file
+L 04/03/2016 - 00:22:20: [custom-chatcolors.smx] Reloaded Custom Chat Colors config file
+L 04/03/2016 - 00:22:25: [basecommands.smx] "*FHR* ÐJ DovahYT {NSJT} λ³<8><[U:1:138265817]><>" console command (cmdline "sm plugins reload custom-chatcolors-menu")
+L 04/03/2016 - 00:22:25: [custom-chatcolors-menu.smx] Loaded 156 colors from configuration file addons/sourcemod/configs/custom-chatcolors-menu.cfg.
+L 04/03/2016 - 00:25:22: [basecommands.smx] "*FHR* ÐJ DovahYT {NSJT} λ³<8><[U:1:138265817]><>" console command (cmdline "exit")
+L 04/03/2016 - 00:25:23: Log file closed.
+L 04/03/2016 - 00:51:47: SourceMod log file session started (file "L20160403.log") (Version "1.7.3-dev+5275")
+L 04/03/2016 - 00:51:47: -------- Mapchange to tf_tornadohighway_final2 --------
+L 04/03/2016 - 00:51:48: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 04/03/2016 - 00:51:48: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 04/03/2016 - 00:51:53: [deathrun.smx] Current map is not a deathrun map. Disabling Deathrun Gamemode.
+L 04/03/2016 - 00:51:53: [custom-chatcolors-menu.smx] Loaded 156 colors from configuration file addons/sourcemod/configs/custom-chatcolors-menu.cfg.
+L 04/03/2016 - 00:51:53: [buildinghats.smx] [Building Hats] Executing configuration file addons/sourcemod/configs/buildinghats.cfg
+L 04/03/2016 - 00:51:57: [custom-chatcolors-menu.smx] MySQL server configured. Variable saving enabled.
+L 04/03/2016 - 01:45:14: [basecommands.smx] "Console<0><Console><Console>" changed map to "koth_wubwubwub_remix_vip"
+L 04/03/2016 - 01:45:17: [SM] Changed map to "koth_wubwubwub_remix_vip"
+L 04/03/2016 - 01:45:18: -------- Mapchange to koth_wubwubwub_remix_vip --------
+L 04/03/2016 - 01:45:23: [deathrun.smx] Current map is not a deathrun map. Disabling Deathrun Gamemode.
+L 04/03/2016 - 01:45:23: [custom-chatcolors-menu.smx] Loaded 156 colors from configuration file addons/sourcemod/configs/custom-chatcolors-menu.cfg.
+L 04/03/2016 - 01:45:23: [buildinghats.smx] [Building Hats] Executing configuration file addons/sourcemod/configs/buildinghats.cfg
+L 04/03/2016 - 02:51:51: [selfnoclip.smx] Enabled noclip
+L 04/03/2016 - 02:52:09: [selfnoclip.smx] Disabled noclip
+L 04/03/2016 - 02:52:11: [selfnoclip.smx] Enabled noclip
+L 04/03/2016 - 02:52:12: [selfnoclip.smx] Disabled noclip
+L 04/03/2016 - 02:52:15: [selfnoclip.smx] Enabled noclip
+L 04/03/2016 - 02:52:19: [selfnoclip.smx] Disabled noclip
+L 04/03/2016 - 02:52:28: [selfnoclip.smx] Enabled noclip
+L 04/03/2016 - 02:52:29: [selfnoclip.smx] Disabled noclip
+L 04/03/2016 - 02:52:37: [selfnoclip.smx] Enabled noclip
+L 04/03/2016 - 02:52:43: [selfnoclip.smx] Disabled noclip
+L 04/03/2016 - 02:53:33: [buildinghats.smx] [Building Hats] Executing configuration file addons/sourcemod/configs/buildinghats.cfg
+L 04/03/2016 - 02:57:44: [playercommands.smx] "Chara<2><[U:1:75569009]><>" slayed "Chara<2><[U:1:75569009]><>"
+L 04/03/2016 - 02:58:01: [playercommands.smx] "Chara<2><[U:1:75569009]><>" slayed "Chara<2><[U:1:75569009]><>"
+L 04/03/2016 - 03:01:41: [playercommands.smx] "Chara<2><[U:1:75569009]><>" slayed "Chara<2><[U:1:75569009]><>"
+L 04/03/2016 - 03:01:57: [selfnoclip.smx] Enabled noclip
+L 04/03/2016 - 03:02:00: [selfnoclip.smx] Disabled noclip
+L 04/03/2016 - 03:02:33: [selfnoclip.smx] Enabled noclip
+L 04/03/2016 - 03:02:34: [playercommands.smx] "Chara<2><[U:1:75569009]><>" slayed "Chara<2><[U:1:75569009]><>"
+L 04/03/2016 - 03:02:53: [selfnoclip.smx] Enabled noclip
+L 04/03/2016 - 03:02:56: [selfnoclip.smx] Disabled noclip
+L 04/03/2016 - 03:03:20: [playercommands.smx] "Chara<2><[U:1:75569009]><>" slayed "Chara<2><[U:1:75569009]><>"
+L 04/03/2016 - 03:03:31: [selfnoclip.smx] Enabled noclip
+L 04/03/2016 - 03:03:34: [selfnoclip.smx] Disabled noclip
+L 04/03/2016 - 03:04:02: [selfnoclip.smx] Enabled noclip
+L 04/03/2016 - 03:04:02: [selfnoclip.smx] Disabled noclip
+L 04/03/2016 - 03:05:30: [playercommands.smx] "Chara<2><[U:1:75569009]><>" slayed "Chara<2><[U:1:75569009]><>"
+L 04/03/2016 - 03:06:26: [playercommands.smx] "Chara<2><[U:1:75569009]><>" slayed "Chara<2><[U:1:75569009]><>"
+L 04/03/2016 - 03:12:29: [selfnoclip.smx] Enabled noclip
+L 04/03/2016 - 03:12:30: [selfnoclip.smx] Disabled noclip
+L 04/03/2016 - 03:29:30: [funcommands.smx] "Mars Bars ☑<8><[U:1:176699758]><>" toggled noclip on "Mars Bars ☑<8><[U:1:176699758]><>"
+L 04/03/2016 - 03:29:30: [Godmode.smx] Mars Bars ☑<8><[U:1:176699758]><> enabled godmode on Mars Bars ☑<8><[U:1:176699758]><>
+L 04/03/2016 - 03:29:36: [funcommands.smx] "Mars Bars ☑<8><[U:1:176699758]><>" toggled noclip on "Mars Bars ☑<8><[U:1:176699758]><>"
+L 04/03/2016 - 03:29:36: [Godmode.smx] Mars Bars ☑<8><[U:1:176699758]><> disabled godmode on Mars Bars ☑<8><[U:1:176699758]><>
+L 04/03/2016 - 03:30:32: [respawn.smx] "Haus The Plague Doctor<9><[U:1:152306824]><>" respawned "Haus The Plague Doctor<9><[U:1:152306824]><>"
+L 04/03/2016 - 03:32:13: [basechat.smx] "Mars Bars ☑<8><[U:1:176699758]><>" triggered sm_csay (text KILL ME)
+L 04/03/2016 - 03:32:33: [selfnoclip.smx] Enabled noclip
+L 04/03/2016 - 03:32:37: [selfnoclip.smx] Disabled noclip
+L 04/03/2016 - 03:33:27: [respawn.smx] "Haus The Plague Doctor<9><[U:1:152306824]><>" respawned "Haus The Plague Doctor<9><[U:1:152306824]><>"
+L 04/03/2016 - 03:33:28: [basecommands.smx] "Mars Bars ☑<8><[U:1:176699758]><>" kicked "Mars Bars ☑<8><[U:1:176699758]><>" (reason "I Didn't sign up for this...")
+L 04/03/2016 - 03:33:34: [selfnoclip.smx] Enabled noclip
+L 04/03/2016 - 03:33:38: [selfnoclip.smx] Disabled noclip
+L 04/03/2016 - 03:34:12: [selfnoclip.smx] Enabled noclip
+L 04/03/2016 - 03:34:15: [selfnoclip.smx] Disabled noclip
+L 04/03/2016 - 03:36:48: [selfnoclip.smx] Enabled noclip
+L 04/03/2016 - 03:37:00: [selfnoclip.smx] Disabled noclip
+L 04/03/2016 - 03:37:37: [playercommands.smx] "Chara<14><[U:1:75569009]><>" slapped "Chara<14><[U:1:75569009]><>" (damage "99")
+L 04/03/2016 - 03:38:30: [selfnoclip.smx] Enabled noclip
+L 04/03/2016 - 03:38:33: [selfnoclip.smx] Disabled noclip
+L 04/03/2016 - 03:40:07: [selfnoclip.smx] Enabled noclip
+L 04/03/2016 - 03:40:10: [selfnoclip.smx] Disabled noclip
+L 04/03/2016 - 03:40:16: [funcommands.smx] "Chara<16><[U:1:75569009]><>" ignited "Chara<16><[U:1:75569009]><>" (seconds "20.000000")
+L 04/03/2016 - 03:40:32: [funcommands.smx] "Chara<16><[U:1:75569009]><>" set a TimeBomb on "Chara<16><[U:1:75569009]><>"
+L 04/03/2016 - 03:40:39: [selfnoclip.smx] Enabled noclip
+L 04/03/2016 - 03:40:40: [selfnoclip.smx] Disabled noclip
+L 04/03/2016 - 03:40:55: [selfnoclip.smx] Enabled noclip
+L 04/03/2016 - 03:40:58: [selfnoclip.smx] Disabled noclip
+L 04/03/2016 - 03:42:19: [selfnoclip.smx] Enabled noclip
+L 04/03/2016 - 03:42:19: [selfnoclip.smx] Disabled noclip
+L 04/03/2016 - 03:42:38: [selfnoclip.smx] Enabled noclip
+L 04/03/2016 - 03:42:39: [selfnoclip.smx] Disabled noclip
+L 04/03/2016 - 03:43:12: [selfnoclip.smx] Enabled noclip
+L 04/03/2016 - 03:43:19: [selfnoclip.smx] Disabled noclip
+L 04/03/2016 - 03:43:35: [funcommands.smx] "Chara<16><[U:1:75569009]><>" set a FreezeBomb on "Chara<16><[U:1:75569009]><>"
+L 04/03/2016 - 03:43:57: [selfnoclip.smx] Enabled noclip
+L 04/03/2016 - 03:44:00: [playercommands.smx] "Chara<16><[U:1:75569009]><>" slayed "Chara<16><[U:1:75569009]><>"
+L 04/03/2016 - 04:19:32: [basecommands.smx] "Console<0><Console><Console>" changed map to "tf_tornadohighway_final2"
+L 04/03/2016 - 04:19:35: [SM] Changed map to "tf_tornadohighway_final2"
+L 04/03/2016 - 04:19:36: -------- Mapchange to tf_tornadohighway_final2 --------
+L 04/03/2016 - 04:19:41: [deathrun.smx] Current map is not a deathrun map. Disabling Deathrun Gamemode.
+L 04/03/2016 - 04:19:41: [custom-chatcolors-menu.smx] Loaded 156 colors from configuration file addons/sourcemod/configs/custom-chatcolors-menu.cfg.
+L 04/03/2016 - 04:19:41: [buildinghats.smx] [Building Hats] Executing configuration file addons/sourcemod/configs/buildinghats.cfg
+L 04/03/2016 - 04:21:57: [custom-chatcolors.smx] Reloaded Custom Chat Colors config file
+L 04/03/2016 - 04:22:42: [custom-chatcolors.smx] Reloaded Custom Chat Colors config file
+L 04/03/2016 - 04:22:43: [basecommands.smx] "*FHR* ÐJ DovahYT {NSJT} λ³<18><[U:1:138265817]><>" console command (cmdline "sm plugins reload custom-chatcolors-menu")
+L 04/03/2016 - 04:22:43: [custom-chatcolors-menu.smx] Loaded 156 colors from configuration file addons/sourcemod/configs/custom-chatcolors-menu.cfg.
+L 04/03/2016 - 04:22:43: [custom-chatcolors-menu.smx] MySQL server configured. Variable saving enabled.
+L 04/03/2016 - 05:03:05: [GEOIP] GeoIP database info: GEO-106FREE 20151103 Build 1 Copyright (c) 2015 MaxMind Inc All Rights Reserved
+L 04/03/2016 - 08:41:24: [basecommands.smx] "Console<0><Console><Console>" changed map to "koth_wubwubwub_remix_vip"
+L 04/03/2016 - 08:41:27: [SM] Changed map to "koth_wubwubwub_remix_vip"
+L 04/03/2016 - 08:41:28: -------- Mapchange to koth_wubwubwub_remix_vip --------
+L 04/03/2016 - 08:41:32: [deathrun.smx] Current map is not a deathrun map. Disabling Deathrun Gamemode.
+L 04/03/2016 - 08:41:32: [buildinghats.smx] [Building Hats] Executing configuration file addons/sourcemod/configs/buildinghats.cfg
+L 04/03/2016 - 08:41:32: [custom-chatcolors-menu.smx] Loaded 156 colors from configuration file addons/sourcemod/configs/custom-chatcolors-menu.cfg.
+L 04/03/2016 - 08:43:39: [basecommands.smx] "*FHR* ÐJ DovahYT {NSJT} λ³<22><[U:1:138265817]><>" changed cvar (cvar "sv_alltalk") (value "1")
+L 04/03/2016 - 09:02:58: [basechat.smx] "*FHR* ÐJ DovahYT {NSJT} λ³<22><[U:1:138265817]><>" triggered sm_csay (text medic go capture :3)
+L 04/03/2016 - 09:11:43: [sounds.smx] "♥LadyMed♥<23><[U:1:334372429]><>" played sound on "*FHR* ÐJ DovahYT {NSJT} λ³<22><[U:1:138265817]><>" (file "freak_fortress_2/heffe/heffe_bgm.mp3")
+L 04/03/2016 - 09:11:43: [sounds.smx] "♥LadyMed♥<23><[U:1:334372429]><>" played sound on "♥LadyMed♥<23><[U:1:334372429]><>" (file "freak_fortress_2/heffe/heffe_bgm.mp3")
+L 04/03/2016 - 09:11:43: [sounds.smx] "♥LadyMed♥<23><[U:1:334372429]><>" played sound on "[115]-Medic<24><[U:1:191742369]><>" (file "freak_fortress_2/heffe/heffe_bgm.mp3")
+L 04/03/2016 - 09:12:53: [sounds.smx] "♥LadyMed♥<23><[U:1:334372429]><>" played sound on "*FHR* ÐJ DovahYT {NSJT} λ³<22><[U:1:138265817]><>" (file "freak_fortress_2/sny/damu.wav")
+L 04/03/2016 - 09:12:53: [sounds.smx] "♥LadyMed♥<23><[U:1:334372429]><>" played sound on "♥LadyMed♥<23><[U:1:334372429]><>" (file "freak_fortress_2/sny/damu.wav")
+L 04/03/2016 - 09:12:53: [sounds.smx] "♥LadyMed♥<23><[U:1:334372429]><>" played sound on "[115]-Medic<24><[U:1:191742369]><>" (file "freak_fortress_2/sny/damu.wav")
+L 04/03/2016 - 09:12:53: [sounds.smx] "♥LadyMed♥<23><[U:1:334372429]><>" played sound on "*FHR* ÐJ DovahYT {NSJT} λ³<22><[U:1:138265817]><>" (file "vo/halloween_merasmus/sf14_merasmus_minigame_duckhunt_bonusducks_03.mp3")
+L 04/03/2016 - 09:12:53: [sounds.smx] "♥LadyMed♥<23><[U:1:334372429]><>" played sound on "♥LadyMed♥<23><[U:1:334372429]><>" (file "vo/halloween_merasmus/sf14_merasmus_minigame_duckhunt_bonusducks_03.mp3")
+L 04/03/2016 - 09:12:53: [sounds.smx] "♥LadyMed♥<23><[U:1:334372429]><>" played sound on "[115]-Medic<24><[U:1:191742369]><>" (file "vo/halloween_merasmus/sf14_merasmus_minigame_duckhunt_bonusducks_03.mp3")
+L 04/03/2016 - 09:19:19: [funcommands.smx] "*FHR* ÐJ DovahYT {NSJT} λ³<22><[U:1:138265817]><>" drugged "[115]-Medic<24><[U:1:191742369]><>"
+L 04/03/2016 - 09:25:57: [sounds.smx] "♥LadyMed♥<23><[U:1:334372429]><>" played sound on "*FHR* ÐJ DovahYT {NSJT} λ³<22><[U:1:138265817]><>" (file "freak_fortress_2/ragesniper/DONTFUCKINGRUNAWAYFROMME.WAV")
+L 04/03/2016 - 09:25:57: [sounds.smx] "♥LadyMed♥<23><[U:1:334372429]><>" played sound on "♥LadyMed♥<23><[U:1:334372429]><>" (file "freak_fortress_2/ragesniper/DONTFUCKINGRUNAWAYFROMME.WAV")
+L 04/03/2016 - 09:25:57: [sounds.smx] "♥LadyMed♥<23><[U:1:334372429]><>" played sound on "[115]-Medic<24><[U:1:191742369]><>" (file "freak_fortress_2/ragesniper/DONTFUCKINGRUNAWAYFROMME.WAV")
+L 04/03/2016 - 09:26:01: [sounds.smx] "♥LadyMed♥<23><[U:1:334372429]><>" played sound on "*FHR* ÐJ DovahYT {NSJT} λ³<22><[U:1:138265817]><>" (file "freak_fortress_2/ragesniper/GETTHEFUCKDOWNFROMTHERE.wav")
+L 04/03/2016 - 09:26:01: [sounds.smx] "♥LadyMed♥<23><[U:1:334372429]><>" played sound on "♥LadyMed♥<23><[U:1:334372429]><>" (file "freak_fortress_2/ragesniper/GETTHEFUCKDOWNFROMTHERE.wav")
+L 04/03/2016 - 09:26:01: [sounds.smx] "♥LadyMed♥<23><[U:1:334372429]><>" played sound on "[115]-Medic<24><[U:1:191742369]><>" (file "freak_fortress_2/ragesniper/GETTHEFUCKDOWNFROMTHERE.wav")
+L 04/03/2016 - 09:37:10: [funcommands.smx] "Awesome Face!<28><[U:1:117116763]><>" toggled noclip on "Awesome Face!<28><[U:1:117116763]><>"
+L 04/03/2016 - 09:37:16: [funcommands.smx] "Awesome Face!<28><[U:1:117116763]><>" toggled noclip on "Awesome Face!<28><[U:1:117116763]><>"
+L 04/03/2016 - 09:38:21: [basechat.smx] "Awesome Face!<28><[U:1:117116763]><>" triggered sm_csay (text ERICTAIN RIVER (mispelled :P))
+L 04/03/2016 - 09:45:59: [selfnoclip.smx] Enabled noclip
+L 04/03/2016 - 09:46:10: [selfnoclip.smx] Disabled noclip
+L 04/03/2016 - 09:46:35: [selfnoclip.smx] Enabled noclip
+L 04/03/2016 - 09:46:35: [selfnoclip.smx] Disabled noclip
+L 04/03/2016 - 09:47:00: [respawn.smx] "Chara<31><[U:1:75569009]><>" respawned "Chara<31><[U:1:75569009]><>"
+L 04/03/2016 - 09:47:01: [selfnoclip.smx] Enabled noclip
+L 04/03/2016 - 09:47:03: [selfnoclip.smx] Disabled noclip
+L 04/03/2016 - 19:52:30: SourceMod log file session started (file "L20160403.log") (Version "1.7.3-dev+5275")
+L 04/03/2016 - 19:52:30: -------- Mapchange to tf_tornadohighway_final2 --------
+L 04/03/2016 - 19:52:31: [GEOIP] GeoIP database info: GEO-106FREE 20151103 Build 1 Copyright (c) 2015 MaxMind Inc All Rights Reserved
+L 04/03/2016 - 19:52:31: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 04/03/2016 - 19:52:31: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 04/03/2016 - 19:52:44: [deathrun.smx] Current map is not a deathrun map. Disabling Deathrun Gamemode.
+L 04/03/2016 - 19:52:45: [custom-chatcolors-menu.smx] MySQL server configured. Variable saving enabled.
+L 04/03/2016 - 19:52:46: [custom-chatcolors-menu.smx] Loaded 156 colors from configuration file addons/sourcemod/configs/custom-chatcolors-menu.cfg.
+L 04/03/2016 - 19:52:46: [buildinghats.smx] [Building Hats] Executing configuration file addons/sourcemod/configs/buildinghats.cfg
+L 04/03/2016 - 22:31:03: [basecommands.smx] "Console<0><Console><Console>" changed map to "koth_wubwubwub_remix_vip"
+L 04/03/2016 - 22:31:07: [SM] Changed map to "koth_wubwubwub_remix_vip"
+L 04/03/2016 - 22:31:09: -------- Mapchange to koth_wubwubwub_remix_vip --------
+L 04/03/2016 - 22:31:14: [deathrun.smx] Current map is not a deathrun map. Disabling Deathrun Gamemode.
+L 04/03/2016 - 22:31:14: [custom-chatcolors-menu.smx] Loaded 156 colors from configuration file addons/sourcemod/configs/custom-chatcolors-menu.cfg.
+L 04/03/2016 - 22:31:14: [buildinghats.smx] [Building Hats] Executing configuration file addons/sourcemod/configs/buildinghats.cfg

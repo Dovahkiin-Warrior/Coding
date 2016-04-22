@@ -1,0 +1,9 @@
+L 12/01/2015 - 22:39:19: SourceMod error session started
+L 12/01/2015 - 22:39:19: Info (map "ctf_2fort") (file "errors_20151201.log")
+L 12/01/2015 - 22:39:19: Failed to auto generate config for funcommands.smx, make sure the directory has write permission.
+L 12/01/2015 - 22:39:20: [nextmap.smx] FATAL: Cannot load map cycle. Nextmap not loaded.
+L 12/01/2015 - 22:39:20: [SM] Plugin encountered error 25: Call was aborted
+L 12/01/2015 - 22:39:20: [SM] Native "SetFailState" reported: Mapcycle Not Found
+L 12/01/2015 - 22:39:20: [SM] Displaying call stack trace for plugin "nextmap.smx":
+L 12/01/2015 - 22:39:20: [SM]   [0]  Line 139, /home/builds/sourcemod/linux-1.7/build/plugins/nextmap.sp::FindAndSetNextMap()
+L 12/01/2015 - 22:39:20: [SM]   [1]  Line 109, /home/builds/sourcemod/linux-1.7/build/plugins/nextmap.sp::OnConfigsExecuted()

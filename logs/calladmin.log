@@ -1,0 +1,15 @@
+L 04/01/2016 - 03:11:34: [CallAdmin: Mysql module] CurrentTrackersErr: Lost connection to MySQL server during query
+L 04/01/2016 - 21:55:46: [CallAdmin: Mysql module] CurrentTrackersErr: Lost connection to MySQL server during query
+L 04/02/2016 - 07:26:00: [CallAdmin: Mysql module] QueryErr: Lost connection to MySQL server during query
+L 04/02/2016 - 17:55:31: [CallAdmin: Mysql module] ConErr: [2002]: Can't connect to local MySQL server through socket '/tmp/mysql.sock' (2)
+L 04/02/2016 - 18:08:42: [CallAdmin: Mysql module] ConErr: [2002]: Can't connect to local MySQL server through socket '/tmp/mysql.sock' (2)
+L 04/02/2016 - 23:18:33: [CallAdmin: Mysql module] ConErr: [2002]: Can't connect to local MySQL server through socket '/tmp/mysql.sock' (2)
+L 04/02/2016 - 23:19:35: [CallAdmin: Mysql module] ConErr: [2002]: Can't connect to local MySQL server through socket '/tmp/mysql.sock' (2)
+L 04/05/2016 - 00:56:34: [CallAdmin: Mysql module] CurrentTrackersErr: Server shutdown in progress
+L 04/06/2016 - 02:50:48: [CallAdmin: Mysql module] CurrentTrackersErr: Lost connection to MySQL server during query
+L 04/07/2016 - 21:36:58: [CallAdmin: Mysql module] CurrentTrackersErr: Lost connection to MySQL server during query
+L 04/10/2016 - 06:15:15: [CallAdmin: Mysql module] ConErr: [2013]: Lost connection to MySQL server at 'reading initial communication packet', system error: 113
+L 04/10/2016 - 09:21:38: [CallAdmin: Mysql module] ConErr: [2013]: Lost connection to MySQL server at 'reading initial communication packet', system error: 113
+L 04/10/2016 - 09:29:01: [CallAdmin: Mysql module] ConErr: [2013]: Lost connection to MySQL server at 'reading initial communication packet', system error: 113
+L 04/12/2016 - 19:24:03: [CallAdmin: Mysql module] ConErr: [2013]: Lost connection to MySQL server at 'reading initial communication packet', system error: 113
+L 04/19/2016 - 01:20:34: [CallAdmin: Mysql module] ConErr: [2013]: Lost connection to MySQL server at 'reading initial communication packet', system error: 113

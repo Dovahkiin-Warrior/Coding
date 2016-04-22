@@ -1,0 +1,12 @@
+L 03/30/2016 - 11:03:01: SourceMod log file session started (file "L20160330.log") (Version "1.7.3-dev+5275")
+L 03/30/2016 - 11:03:01: -------- Mapchange to ctf_2fort --------
+L 03/30/2016 - 11:03:02: [rtd.smx] File test for rtd.phrases.txt: PASSED!
+L 03/30/2016 - 11:03:02: [rtd.smx] File test for rtd_effects.cfg: PASSED!
+L 03/30/2016 - 11:03:02: [rtd.smx] Loaded 35 effects: (19 good) (16 bad).
+L 03/30/2016 - 11:03:13: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "tf_birthday") (value "0")
+L 03/30/2016 - 11:03:13: [UPDATER] Successfully updated gamedata file "sdkhooks.games/game.empires.txt"
+L 03/30/2016 - 11:03:13: [UPDATER] Successfully updated gamedata file "sdktools.games/game.empires.txt"
+L 03/30/2016 - 11:03:13: [UPDATER] SourceMod has been updated, please reload it or restart your server.
+L 03/30/2016 - 11:03:14: [rtd.smx] Added chat trigger: rollthedice
+L 03/30/2016 - 11:03:14: [rtd.smx] Added chat trigger: roll
+L 03/30/2016 - 11:03:21: Log file closed.

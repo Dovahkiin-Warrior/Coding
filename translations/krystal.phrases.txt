@@ -1,0 +1,15 @@
+"Phrases"
+{
+	"Vote Nextmap"
+	{
+		"en"	"Selena's Sounds"
+	}
+	"Choice 4"
+	{
+		"en"	"Cancel"
+	}
+	"Menu Title"
+	{
+		"en"	"Selena's Sound API"
+	}
+}

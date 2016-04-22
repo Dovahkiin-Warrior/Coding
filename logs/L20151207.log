@@ -1,0 +1,16 @@
+L 12/07/2015 - 19:25:56: SourceMod log file session started (file "L20151207.log") (Version "1.7.3-dev+5275")
+L 12/07/2015 - 19:25:56: -------- Mapchange to ctf_2fort --------
+L 12/07/2015 - 19:25:56: [rtd.smx] File test for rtd.phrases.txt: PASSED!
+L 12/07/2015 - 19:25:56: [rtd.smx] File test for rtd_effects.cfg: PASSED!
+L 12/07/2015 - 19:25:56: [rtd.smx] Loaded 35 effects: (19 good) (16 bad).
+L 12/07/2015 - 19:26:04: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "tf_birthday") (value "1")
+L 12/07/2015 - 19:26:05: [rtd.smx] Added chat trigger: rollthedice
+L 12/07/2015 - 19:26:05: [rtd.smx] Added chat trigger: roll
+L 12/07/2015 - 19:28:10: SourceMod log file session started (file "L20151207.log") (Version "1.7.3-dev+5275")
+L 12/07/2015 - 19:28:10: -------- Mapchange to ctf_2fort --------
+L 12/07/2015 - 19:28:10: [rtd.smx] File test for rtd.phrases.txt: PASSED!
+L 12/07/2015 - 19:28:10: [rtd.smx] File test for rtd_effects.cfg: PASSED!
+L 12/07/2015 - 19:28:10: [rtd.smx] Loaded 35 effects: (19 good) (16 bad).
+L 12/07/2015 - 19:28:16: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "tf_birthday") (value "1")
+L 12/07/2015 - 19:28:16: [rtd.smx] Added chat trigger: rollthedice
+L 12/07/2015 - 19:28:16: [rtd.smx] Added chat trigger: roll

@@ -1,0 +1,595 @@
+L 04/10/2016 - 06:14:45: SourceMod log file session started (file "L20160410.log") (Version "1.7.3-dev+5275")
+L 04/10/2016 - 06:14:45: -------- Mapchange to tf_tornadohighway_final2 --------
+L 04/10/2016 - 06:14:45: [TF2ITEMS] "GiveNamedItem" offset = 478
+L 04/10/2016 - 06:14:47: [GEOIP] GeoIP database info: GEO-106FREE 20151103 Build 1 Copyright (c) 2015 MaxMind Inc All Rights Reserved
+L 04/10/2016 - 06:14:47: [freak_fortress_2.smx] ===Freak Fortress 2 Initializing-v1.10.8===
+L 04/10/2016 - 06:14:47: [rtd.smx] File test for rtd.phrases.txt: PASSED!
+L 04/10/2016 - 06:14:47: [rtd.smx] File test for rtd_effects.cfg: PASSED!
+L 04/10/2016 - 06:14:47: [rtd.smx] Loaded 35 effects: (19 good) (16 bad).
+L 04/10/2016 - 06:14:47: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 04/10/2016 - 06:14:47: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 04/10/2016 - 06:15:02: [deathrun.smx] Current map is not a deathrun map. Disabling Deathrun Gamemode.
+L 04/10/2016 - 06:15:03: [UPDATER] Successfully updated gamedata file "tf2.items.txt"
+L 04/10/2016 - 06:15:03: [UPDATER] SourceMod has been updated, please reload it or restart your server.
+L 04/10/2016 - 06:15:04: [rtd.smx] Added chat trigger: rollthedice
+L 04/10/2016 - 06:15:04: [rtd.smx] Added chat trigger: roll
+L 04/10/2016 - 06:15:04: [custom-chatcolors-menu.smx] Loaded 156 colors from configuration file addons/sourcemod/configs/custom-chatcolors-menu.cfg.
+L 04/10/2016 - 06:15:04: [buildinghats.smx] [Building Hats] Executing configuration file addons/sourcemod/configs/buildinghats.cfg
+L 04/10/2016 - 08:20:00: [basecommands.smx] "*FHR* ÐJ DovaYT #<3Selena!!<4><[U:1:138265817]><>" changed cvar (cvar "tf_allow_player_use") (value "1")
+L 04/10/2016 - 08:20:32: [selfnoclip.smx] Enabled noclip
+L 04/10/2016 - 08:20:33: [selfnoclip.smx] Disabled noclip
+L 04/10/2016 - 08:20:48: [selfnoclip.smx] Enabled noclip
+L 04/10/2016 - 08:20:48: [selfnoclip.smx] Disabled noclip
+L 04/10/2016 - 08:20:53: [selfnoclip.smx] Enabled noclip
+L 04/10/2016 - 08:20:53: [selfnoclip.smx] Disabled noclip
+L 04/10/2016 - 08:21:07: [selfnoclip.smx] Enabled noclip
+L 04/10/2016 - 08:21:08: [selfnoclip.smx] Disabled noclip
+L 04/10/2016 - 08:23:14: [selfnoclip.smx] Enabled noclip
+L 04/10/2016 - 08:23:20: [selfnoclip.smx] Disabled noclip
+L 04/10/2016 - 08:27:55: [selfnoclip.smx] Enabled noclip
+L 04/10/2016 - 08:27:56: [selfnoclip.smx] Disabled noclip
+L 04/10/2016 - 08:28:00: [selfnoclip.smx] Enabled noclip
+L 04/10/2016 - 08:28:00: [selfnoclip.smx] Disabled noclip
+L 04/10/2016 - 08:28:07: [selfnoclip.smx] Enabled noclip
+L 04/10/2016 - 08:28:10: [selfnoclip.smx] Disabled noclip
+L 04/10/2016 - 08:28:58: [selfnoclip.smx] Enabled noclip
+L 04/10/2016 - 08:29:01: [sounds.smx] "*FHR* ÐJ DovaYT #<3Selena!!<4><[U:1:138265817]><>" played sound on "*FHR* ÐJ DovaYT #<3Selena!!<4><[U:1:138265817]><>" (file "dovahyt/wot.mp3")
+L 04/10/2016 - 08:29:01: [sounds.smx] "*FHR* ÐJ DovaYT #<3Selena!!<4><[U:1:138265817]><>" played sound on "◄VG► Burundi the Tamamitsun<5><[U:1:128451456]><>" (file "dovahyt/wot.mp3")
+L 04/10/2016 - 08:29:01: [sounds.smx] "*FHR* ÐJ DovaYT #<3Selena!!<4><[U:1:138265817]><>" played sound on "【東方】 65 Wat<6><[U:1:64054173]><>" (file "dovahyt/wot.mp3")
+L 04/10/2016 - 08:29:04: [selfnoclip.smx] Disabled noclip
+L 04/10/2016 - 08:29:08: [selfnoclip.smx] Enabled noclip
+L 04/10/2016 - 08:29:10: [selfnoclip.smx] Disabled noclip
+L 04/10/2016 - 08:29:13: [selfnoclip.smx] Enabled noclip
+L 04/10/2016 - 08:29:18: [selfnoclip.smx] Disabled noclip
+L 04/10/2016 - 08:31:05: [sounds.smx] "*FHR* ÐJ DovaYT #<3Selena!!<4><[U:1:138265817]><>" played sound on "*FHR* ÐJ DovaYT #<3Selena!!<4><[U:1:138265817]><>" (file "dovahyt/kobe.mp3")
+L 04/10/2016 - 08:31:05: [sounds.smx] "*FHR* ÐJ DovaYT #<3Selena!!<4><[U:1:138265817]><>" played sound on "◄VG► Burundi the Tamamitsun<5><[U:1:128451456]><>" (file "dovahyt/kobe.mp3")
+L 04/10/2016 - 08:31:05: [sounds.smx] "*FHR* ÐJ DovaYT #<3Selena!!<4><[U:1:138265817]><>" played sound on "【東方】 65 Wat<6><[U:1:64054173]><>" (file "dovahyt/kobe.mp3")
+L 04/10/2016 - 08:31:07: [sounds.smx] "*FHR* ÐJ DovaYT #<3Selena!!<4><[U:1:138265817]><>" played sound on "*FHR* ÐJ DovaYT #<3Selena!!<4><[U:1:138265817]><>" (file "dovahyt/kobe.mp3")
+L 04/10/2016 - 08:31:07: [sounds.smx] "*FHR* ÐJ DovaYT #<3Selena!!<4><[U:1:138265817]><>" played sound on "◄VG► Burundi the Tamamitsun<5><[U:1:128451456]><>" (file "dovahyt/kobe.mp3")
+L 04/10/2016 - 08:31:07: [sounds.smx] "*FHR* ÐJ DovaYT #<3Selena!!<4><[U:1:138265817]><>" played sound on "【東方】 65 Wat<6><[U:1:64054173]><>" (file "dovahyt/kobe.mp3")
+L 04/10/2016 - 08:31:07: [sounds.smx] "*FHR* ÐJ DovaYT #<3Selena!!<4><[U:1:138265817]><>" played sound on "*FHR* ÐJ DovaYT #<3Selena!!<4><[U:1:138265817]><>" (file "dovahyt/kobe.mp3")
+L 04/10/2016 - 08:31:07: [sounds.smx] "*FHR* ÐJ DovaYT #<3Selena!!<4><[U:1:138265817]><>" played sound on "◄VG► Burundi the Tamamitsun<5><[U:1:128451456]><>" (file "dovahyt/kobe.mp3")
+L 04/10/2016 - 08:31:07: [sounds.smx] "*FHR* ÐJ DovaYT #<3Selena!!<4><[U:1:138265817]><>" played sound on "【東方】 65 Wat<6><[U:1:64054173]><>" (file "dovahyt/kobe.mp3")
+L 04/10/2016 - 08:31:07: [sounds.smx] "*FHR* ÐJ DovaYT #<3Selena!!<4><[U:1:138265817]><>" played sound on "*FHR* ÐJ DovaYT #<3Selena!!<4><[U:1:138265817]><>" (file "dovahyt/kobe.mp3")
+L 04/10/2016 - 08:31:07: [sounds.smx] "*FHR* ÐJ DovaYT #<3Selena!!<4><[U:1:138265817]><>" played sound on "◄VG► Burundi the Tamamitsun<5><[U:1:128451456]><>" (file "dovahyt/kobe.mp3")
+L 04/10/2016 - 08:31:07: [sounds.smx] "*FHR* ÐJ DovaYT #<3Selena!!<4><[U:1:138265817]><>" played sound on "【東方】 65 Wat<6><[U:1:64054173]><>" (file "dovahyt/kobe.mp3")
+L 04/10/2016 - 08:31:07: [sounds.smx] "*FHR* ÐJ DovaYT #<3Selena!!<4><[U:1:138265817]><>" played sound on "*FHR* ÐJ DovaYT #<3Selena!!<4><[U:1:138265817]><>" (file "dovahyt/kobe.mp3")
+L 04/10/2016 - 08:31:07: [sounds.smx] "*FHR* ÐJ DovaYT #<3Selena!!<4><[U:1:138265817]><>" played sound on "◄VG► Burundi the Tamamitsun<5><[U:1:128451456]><>" (file "dovahyt/kobe.mp3")
+L 04/10/2016 - 08:31:07: [sounds.smx] "*FHR* ÐJ DovaYT #<3Selena!!<4><[U:1:138265817]><>" played sound on "【東方】 65 Wat<6><[U:1:64054173]><>" (file "dovahyt/kobe.mp3")
+L 04/10/2016 - 08:31:07: [sounds.smx] "*FHR* ÐJ DovaYT #<3Selena!!<4><[U:1:138265817]><>" played sound on "*FHR* ÐJ DovaYT #<3Selena!!<4><[U:1:138265817]><>" (file "dovahyt/kobe.mp3")
+L 04/10/2016 - 08:31:07: [sounds.smx] "*FHR* ÐJ DovaYT #<3Selena!!<4><[U:1:138265817]><>" played sound on "◄VG► Burundi the Tamamitsun<5><[U:1:128451456]><>" (file "dovahyt/kobe.mp3")
+L 04/10/2016 - 08:31:07: [sounds.smx] "*FHR* ÐJ DovaYT #<3Selena!!<4><[U:1:138265817]><>" played sound on "【東方】 65 Wat<6><[U:1:64054173]><>" (file "dovahyt/kobe.mp3")
+L 04/10/2016 - 08:31:08: [sounds.smx] "*FHR* ÐJ DovaYT #<3Selena!!<4><[U:1:138265817]><>" played sound on "*FHR* ÐJ DovaYT #<3Selena!!<4><[U:1:138265817]><>" (file "dovahyt/kobe.mp3")
+L 04/10/2016 - 08:31:08: [sounds.smx] "*FHR* ÐJ DovaYT #<3Selena!!<4><[U:1:138265817]><>" played sound on "◄VG► Burundi the Tamamitsun<5><[U:1:128451456]><>" (file "dovahyt/kobe.mp3")
+L 04/10/2016 - 08:31:08: [sounds.smx] "*FHR* ÐJ DovaYT #<3Selena!!<4><[U:1:138265817]><>" played sound on "【東方】 65 Wat<6><[U:1:64054173]><>" (file "dovahyt/kobe.mp3")
+L 04/10/2016 - 08:31:08: [sounds.smx] "*FHR* ÐJ DovaYT #<3Selena!!<4><[U:1:138265817]><>" played sound on "*FHR* ÐJ DovaYT #<3Selena!!<4><[U:1:138265817]><>" (file "dovahyt/kobe.mp3")
+L 04/10/2016 - 08:31:08: [sounds.smx] "*FHR* ÐJ DovaYT #<3Selena!!<4><[U:1:138265817]><>" played sound on "◄VG► Burundi the Tamamitsun<5><[U:1:128451456]><>" (file "dovahyt/kobe.mp3")
+L 04/10/2016 - 08:31:08: [sounds.smx] "*FHR* ÐJ DovaYT #<3Selena!!<4><[U:1:138265817]><>" played sound on "【東方】 65 Wat<6><[U:1:64054173]><>" (file "dovahyt/kobe.mp3")
+L 04/10/2016 - 08:31:08: [sounds.smx] "*FHR* ÐJ DovaYT #<3Selena!!<4><[U:1:138265817]><>" played sound on "*FHR* ÐJ DovaYT #<3Selena!!<4><[U:1:138265817]><>" (file "dovahyt/kobe.mp3")
+L 04/10/2016 - 08:31:08: [sounds.smx] "*FHR* ÐJ DovaYT #<3Selena!!<4><[U:1:138265817]><>" played sound on "◄VG► Burundi the Tamamitsun<5><[U:1:128451456]><>" (file "dovahyt/kobe.mp3")
+L 04/10/2016 - 08:31:08: [sounds.smx] "*FHR* ÐJ DovaYT #<3Selena!!<4><[U:1:138265817]><>" played sound on "【東方】 65 Wat<6><[U:1:64054173]><>" (file "dovahyt/kobe.mp3")
+L 04/10/2016 - 08:31:08: [sounds.smx] "*FHR* ÐJ DovaYT #<3Selena!!<4><[U:1:138265817]><>" played sound on "*FHR* ÐJ DovaYT #<3Selena!!<4><[U:1:138265817]><>" (file "dovahyt/kobe.mp3")
+L 04/10/2016 - 08:31:08: [sounds.smx] "*FHR* ÐJ DovaYT #<3Selena!!<4><[U:1:138265817]><>" played sound on "◄VG► Burundi the Tamamitsun<5><[U:1:128451456]><>" (file "dovahyt/kobe.mp3")
+L 04/10/2016 - 08:31:08: [sounds.smx] "*FHR* ÐJ DovaYT #<3Selena!!<4><[U:1:138265817]><>" played sound on "【東方】 65 Wat<6><[U:1:64054173]><>" (file "dovahyt/kobe.mp3")
+L 04/10/2016 - 08:31:08: [sounds.smx] "*FHR* ÐJ DovaYT #<3Selena!!<4><[U:1:138265817]><>" played sound on "*FHR* ÐJ DovaYT #<3Selena!!<4><[U:1:138265817]><>" (file "dovahyt/kobe.mp3")
+L 04/10/2016 - 08:31:08: [sounds.smx] "*FHR* ÐJ DovaYT #<3Selena!!<4><[U:1:138265817]><>" played sound on "◄VG► Burundi the Tamamitsun<5><[U:1:128451456]><>" (file "dovahyt/kobe.mp3")
+L 04/10/2016 - 08:31:09: [sounds.smx] "*FHR* ÐJ DovaYT #<3Selena!!<4><[U:1:138265817]><>" played sound on "【東方】 65 Wat<6><[U:1:64054173]><>" (file "dovahyt/kobe.mp3")
+L 04/10/2016 - 08:31:09: [sounds.smx] "*FHR* ÐJ DovaYT #<3Selena!!<4><[U:1:138265817]><>" played sound on "*FHR* ÐJ DovaYT #<3Selena!!<4><[U:1:138265817]><>" (file "dovahyt/kobe.mp3")
+L 04/10/2016 - 08:31:09: [sounds.smx] "*FHR* ÐJ DovaYT #<3Selena!!<4><[U:1:138265817]><>" played sound on "◄VG► Burundi the Tamamitsun<5><[U:1:128451456]><>" (file "dovahyt/kobe.mp3")
+L 04/10/2016 - 08:31:09: [sounds.smx] "*FHR* ÐJ DovaYT #<3Selena!!<4><[U:1:138265817]><>" played sound on "【東方】 65 Wat<6><[U:1:64054173]><>" (file "dovahyt/kobe.mp3")
+L 04/10/2016 - 08:31:13: [sounds.smx] "*FHR* ÐJ DovaYT #<3Selena!!<4><[U:1:138265817]><>" played sound on "*FHR* ÐJ DovaYT #<3Selena!!<4><[U:1:138265817]><>" (file "dovahyt/wot.mp3")
+L 04/10/2016 - 08:31:13: [sounds.smx] "*FHR* ÐJ DovaYT #<3Selena!!<4><[U:1:138265817]><>" played sound on "◄VG► Burundi the Tamamitsun<5><[U:1:128451456]><>" (file "dovahyt/wot.mp3")
+L 04/10/2016 - 08:31:13: [sounds.smx] "*FHR* ÐJ DovaYT #<3Selena!!<4><[U:1:138265817]><>" played sound on "【東方】 65 Wat<6><[U:1:64054173]><>" (file "dovahyt/wot.mp3")
+L 04/10/2016 - 08:31:26: [sounds.smx] "*FHR* ÐJ DovaYT #<3Selena!!<4><[U:1:138265817]><>" played sound on "*FHR* ÐJ DovaYT #<3Selena!!<4><[U:1:138265817]><>" (file "dovahyt/bomb.mp3")
+L 04/10/2016 - 08:31:26: [sounds.smx] "*FHR* ÐJ DovaYT #<3Selena!!<4><[U:1:138265817]><>" played sound on "◄VG► Burundi the Tamamitsun<5><[U:1:128451456]><>" (file "dovahyt/bomb.mp3")
+L 04/10/2016 - 08:31:26: [sounds.smx] "*FHR* ÐJ DovaYT #<3Selena!!<4><[U:1:138265817]><>" played sound on "【東方】 65 Wat<6><[U:1:64054173]><>" (file "dovahyt/bomb.mp3")
+L 04/10/2016 - 08:32:16: [sounds.smx] "*FHR* ÐJ DovaYT #<3Selena!!<4><[U:1:138265817]><>" played sound on "*FHR* ÐJ DovaYT #<3Selena!!<4><[U:1:138265817]><>" (file "dovahyt/bomb.mp3")
+L 04/10/2016 - 08:32:16: [sounds.smx] "*FHR* ÐJ DovaYT #<3Selena!!<4><[U:1:138265817]><>" played sound on "◄VG► Burundi the Tamamitsun<5><[U:1:128451456]><>" (file "dovahyt/bomb.mp3")
+L 04/10/2016 - 08:32:16: [sounds.smx] "*FHR* ÐJ DovaYT #<3Selena!!<4><[U:1:138265817]><>" played sound on "【東方】 65 Wat<6><[U:1:64054173]><>" (file "dovahyt/bomb.mp3")
+L 04/10/2016 - 08:32:28: [sounds.smx] "*FHR* ÐJ DovaYT #<3Selena!!<4><[U:1:138265817]><>" played sound on "*FHR* ÐJ DovaYT #<3Selena!!<4><[U:1:138265817]><>" (file "dovahyt/kobe.mp3")
+L 04/10/2016 - 08:32:28: [sounds.smx] "*FHR* ÐJ DovaYT #<3Selena!!<4><[U:1:138265817]><>" played sound on "◄VG► Burundi the Tamamitsun<5><[U:1:128451456]><>" (file "dovahyt/kobe.mp3")
+L 04/10/2016 - 08:32:28: [sounds.smx] "*FHR* ÐJ DovaYT #<3Selena!!<4><[U:1:138265817]><>" played sound on "【東方】 65 Wat<6><[U:1:64054173]><>" (file "dovahyt/kobe.mp3")
+L 04/10/2016 - 08:32:29: [sounds.smx] "*FHR* ÐJ DovaYT #<3Selena!!<4><[U:1:138265817]><>" played sound on "*FHR* ÐJ DovaYT #<3Selena!!<4><[U:1:138265817]><>" (file "dovahyt/dontthinkso.mp3")
+L 04/10/2016 - 08:32:29: [sounds.smx] "*FHR* ÐJ DovaYT #<3Selena!!<4><[U:1:138265817]><>" played sound on "◄VG► Burundi the Tamamitsun<5><[U:1:128451456]><>" (file "dovahyt/dontthinkso.mp3")
+L 04/10/2016 - 08:32:29: [sounds.smx] "*FHR* ÐJ DovaYT #<3Selena!!<4><[U:1:138265817]><>" played sound on "【東方】 65 Wat<6><[U:1:64054173]><>" (file "dovahyt/dontthinkso.mp3")
+L 04/10/2016 - 08:32:30: [sounds.smx] "*FHR* ÐJ DovaYT #<3Selena!!<4><[U:1:138265817]><>" played sound on "*FHR* ÐJ DovaYT #<3Selena!!<4><[U:1:138265817]><>" (file "dovahyt/fart.mp3")
+L 04/10/2016 - 08:32:30: [sounds.smx] "*FHR* ÐJ DovaYT #<3Selena!!<4><[U:1:138265817]><>" played sound on "◄VG► Burundi the Tamamitsun<5><[U:1:128451456]><>" (file "dovahyt/fart.mp3")
+L 04/10/2016 - 08:32:30: [sounds.smx] "*FHR* ÐJ DovaYT #<3Selena!!<4><[U:1:138265817]><>" played sound on "【東方】 65 Wat<6><[U:1:64054173]><>" (file "dovahyt/fart.mp3")
+L 04/10/2016 - 08:32:31: [sounds.smx] "*FHR* ÐJ DovaYT #<3Selena!!<4><[U:1:138265817]><>" played sound on "*FHR* ÐJ DovaYT #<3Selena!!<4><[U:1:138265817]><>" (file "dovahyt/fart.mp3")
+L 04/10/2016 - 08:32:31: [sounds.smx] "*FHR* ÐJ DovaYT #<3Selena!!<4><[U:1:138265817]><>" played sound on "◄VG► Burundi the Tamamitsun<5><[U:1:128451456]><>" (file "dovahyt/fart.mp3")
+L 04/10/2016 - 08:32:31: [sounds.smx] "*FHR* ÐJ DovaYT #<3Selena!!<4><[U:1:138265817]><>" played sound on "【東方】 65 Wat<6><[U:1:64054173]><>" (file "dovahyt/fart.mp3")
+L 04/10/2016 - 08:32:32: [sounds.smx] "*FHR* ÐJ DovaYT #<3Selena!!<4><[U:1:138265817]><>" played sound on "*FHR* ÐJ DovaYT #<3Selena!!<4><[U:1:138265817]><>" (file "dovahyt/fart.mp3")
+L 04/10/2016 - 08:32:32: [sounds.smx] "*FHR* ÐJ DovaYT #<3Selena!!<4><[U:1:138265817]><>" played sound on "◄VG► Burundi the Tamamitsun<5><[U:1:128451456]><>" (file "dovahyt/fart.mp3")
+L 04/10/2016 - 08:32:32: [sounds.smx] "*FHR* ÐJ DovaYT #<3Selena!!<4><[U:1:138265817]><>" played sound on "【東方】 65 Wat<6><[U:1:64054173]><>" (file "dovahyt/fart.mp3")
+L 04/10/2016 - 08:32:32: [sounds.smx] "*FHR* ÐJ DovaYT #<3Selena!!<4><[U:1:138265817]><>" played sound on "*FHR* ÐJ DovaYT #<3Selena!!<4><[U:1:138265817]><>" (file "dovahyt/fart.mp3")
+L 04/10/2016 - 08:32:32: [sounds.smx] "*FHR* ÐJ DovaYT #<3Selena!!<4><[U:1:138265817]><>" played sound on "◄VG► Burundi the Tamamitsun<5><[U:1:128451456]><>" (file "dovahyt/fart.mp3")
+L 04/10/2016 - 08:32:32: [sounds.smx] "*FHR* ÐJ DovaYT #<3Selena!!<4><[U:1:138265817]><>" played sound on "【東方】 65 Wat<6><[U:1:64054173]><>" (file "dovahyt/fart.mp3")
+L 04/10/2016 - 08:32:35: [sounds.smx] "*FHR* ÐJ DovaYT #<3Selena!!<4><[U:1:138265817]><>" played sound on "*FHR* ÐJ DovaYT #<3Selena!!<4><[U:1:138265817]><>" (file "dovahyt/denied.mp3")
+L 04/10/2016 - 08:32:35: [sounds.smx] "*FHR* ÐJ DovaYT #<3Selena!!<4><[U:1:138265817]><>" played sound on "◄VG► Burundi the Tamamitsun<5><[U:1:128451456]><>" (file "dovahyt/denied.mp3")
+L 04/10/2016 - 08:32:35: [sounds.smx] "*FHR* ÐJ DovaYT #<3Selena!!<4><[U:1:138265817]><>" played sound on "【東方】 65 Wat<6><[U:1:64054173]><>" (file "dovahyt/denied.mp3")
+L 04/10/2016 - 08:32:37: [sounds.smx] "*FHR* ÐJ DovaYT #<3Selena!!<4><[U:1:138265817]><>" played sound on "*FHR* ÐJ DovaYT #<3Selena!!<4><[U:1:138265817]><>" (file "dovahyt/fart.mp3")
+L 04/10/2016 - 08:32:37: [sounds.smx] "*FHR* ÐJ DovaYT #<3Selena!!<4><[U:1:138265817]><>" played sound on "◄VG► Burundi the Tamamitsun<5><[U:1:128451456]><>" (file "dovahyt/fart.mp3")
+L 04/10/2016 - 08:32:37: [sounds.smx] "*FHR* ÐJ DovaYT #<3Selena!!<4><[U:1:138265817]><>" played sound on "【東方】 65 Wat<6><[U:1:64054173]><>" (file "dovahyt/fart.mp3")
+L 04/10/2016 - 08:32:39: [sounds.smx] "*FHR* ÐJ DovaYT #<3Selena!!<4><[U:1:138265817]><>" played sound on "*FHR* ÐJ DovaYT #<3Selena!!<4><[U:1:138265817]><>" (file "dovahyt/fart.mp3")
+L 04/10/2016 - 08:32:39: [sounds.smx] "*FHR* ÐJ DovaYT #<3Selena!!<4><[U:1:138265817]><>" played sound on "◄VG► Burundi the Tamamitsun<5><[U:1:128451456]><>" (file "dovahyt/fart.mp3")
+L 04/10/2016 - 08:32:39: [sounds.smx] "*FHR* ÐJ DovaYT #<3Selena!!<4><[U:1:138265817]><>" played sound on "【東方】 65 Wat<6><[U:1:64054173]><>" (file "dovahyt/fart.mp3")
+L 04/10/2016 - 08:32:40: [sounds.smx] "*FHR* ÐJ DovaYT #<3Selena!!<4><[U:1:138265817]><>" played sound on "*FHR* ÐJ DovaYT #<3Selena!!<4><[U:1:138265817]><>" (file "dovahyt/fart.mp3")
+L 04/10/2016 - 08:32:40: [sounds.smx] "*FHR* ÐJ DovaYT #<3Selena!!<4><[U:1:138265817]><>" played sound on "◄VG► Burundi the Tamamitsun<5><[U:1:128451456]><>" (file "dovahyt/fart.mp3")
+L 04/10/2016 - 08:32:40: [sounds.smx] "*FHR* ÐJ DovaYT #<3Selena!!<4><[U:1:138265817]><>" played sound on "【東方】 65 Wat<6><[U:1:64054173]><>" (file "dovahyt/fart.mp3")
+L 04/10/2016 - 08:32:47: [sounds.smx] "*FHR* ÐJ DovaYT #<3Selena!!<4><[U:1:138265817]><>" played sound on "*FHR* ÐJ DovaYT #<3Selena!!<4><[U:1:138265817]><>" (file "dovahyt/fart.mp3")
+L 04/10/2016 - 08:32:47: [sounds.smx] "*FHR* ÐJ DovaYT #<3Selena!!<4><[U:1:138265817]><>" played sound on "◄VG► Burundi the Tamamitsun<5><[U:1:128451456]><>" (file "dovahyt/fart.mp3")
+L 04/10/2016 - 08:32:47: [sounds.smx] "*FHR* ÐJ DovaYT #<3Selena!!<4><[U:1:138265817]><>" played sound on "【東方】 65 Wat<6><[U:1:64054173]><>" (file "dovahyt/fart.mp3")
+L 04/10/2016 - 08:33:18: [sounds.smx] "*FHR* ÐJ DovaYT #<3Selena!!<4><[U:1:138265817]><>" played sound on "*FHR* ÐJ DovaYT #<3Selena!!<4><[U:1:138265817]><>" (file "dovahyt/whahappened.mp3")
+L 04/10/2016 - 08:33:18: [sounds.smx] "*FHR* ÐJ DovaYT #<3Selena!!<4><[U:1:138265817]><>" played sound on "◄VG► Burundi the Tamamitsun<5><[U:1:128451456]><>" (file "dovahyt/whahappened.mp3")
+L 04/10/2016 - 08:33:18: [sounds.smx] "*FHR* ÐJ DovaYT #<3Selena!!<4><[U:1:138265817]><>" played sound on "【東方】 65 Wat<6><[U:1:64054173]><>" (file "dovahyt/whahappened.mp3")
+L 04/10/2016 - 08:33:20: [sounds.smx] "*FHR* ÐJ DovaYT #<3Selena!!<4><[U:1:138265817]><>" played sound on "*FHR* ÐJ DovaYT #<3Selena!!<4><[U:1:138265817]><>" (file "dovahyt/wot.mp3")
+L 04/10/2016 - 08:33:20: [sounds.smx] "*FHR* ÐJ DovaYT #<3Selena!!<4><[U:1:138265817]><>" played sound on "◄VG► Burundi the Tamamitsun<5><[U:1:128451456]><>" (file "dovahyt/wot.mp3")
+L 04/10/2016 - 08:33:20: [sounds.smx] "*FHR* ÐJ DovaYT #<3Selena!!<4><[U:1:138265817]><>" played sound on "【東方】 65 Wat<6><[U:1:64054173]><>" (file "dovahyt/wot.mp3")
+L 04/10/2016 - 08:33:26: [sounds.smx] "*FHR* ÐJ DovaYT #<3Selena!!<4><[U:1:138265817]><>" played sound on "*FHR* ÐJ DovaYT #<3Selena!!<4><[U:1:138265817]><>" (file "dovahyt/wakeup.mp3")
+L 04/10/2016 - 08:33:26: [sounds.smx] "*FHR* ÐJ DovaYT #<3Selena!!<4><[U:1:138265817]><>" played sound on "◄VG► Burundi the Tamamitsun<5><[U:1:128451456]><>" (file "dovahyt/wakeup.mp3")
+L 04/10/2016 - 08:33:26: [sounds.smx] "*FHR* ÐJ DovaYT #<3Selena!!<4><[U:1:138265817]><>" played sound on "【東方】 65 Wat<6><[U:1:64054173]><>" (file "dovahyt/wakeup.mp3")
+L 04/10/2016 - 08:33:39: [sounds.smx] "*FHR* ÐJ DovaYT #<3Selena!!<4><[U:1:138265817]><>" played sound on "*FHR* ÐJ DovaYT #<3Selena!!<4><[U:1:138265817]><>" (file "dovahyt/wahwah.mp3")
+L 04/10/2016 - 08:33:39: [sounds.smx] "*FHR* ÐJ DovaYT #<3Selena!!<4><[U:1:138265817]><>" played sound on "◄VG► Burundi the Tamamitsun<5><[U:1:128451456]><>" (file "dovahyt/wahwah.mp3")
+L 04/10/2016 - 08:33:39: [sounds.smx] "*FHR* ÐJ DovaYT #<3Selena!!<4><[U:1:138265817]><>" played sound on "【東方】 65 Wat<6><[U:1:64054173]><>" (file "dovahyt/wahwah.mp3")
+L 04/10/2016 - 08:33:47: [sounds.smx] "*FHR* ÐJ DovaYT #<3Selena!!<4><[U:1:138265817]><>" played sound on "*FHR* ÐJ DovaYT #<3Selena!!<4><[U:1:138265817]><>" (file "dovahyt/thatsright.mp3")
+L 04/10/2016 - 08:33:47: [sounds.smx] "*FHR* ÐJ DovaYT #<3Selena!!<4><[U:1:138265817]><>" played sound on "◄VG► Burundi the Tamamitsun<5><[U:1:128451456]><>" (file "dovahyt/thatsright.mp3")
+L 04/10/2016 - 08:33:47: [sounds.smx] "*FHR* ÐJ DovaYT #<3Selena!!<4><[U:1:138265817]><>" played sound on "【東方】 65 Wat<6><[U:1:64054173]><>" (file "dovahyt/thatsright.mp3")
+L 04/10/2016 - 08:34:03: [selfnoclip.smx] Enabled noclip
+L 04/10/2016 - 08:34:03: [selfnoclip.smx] Disabled noclip
+L 04/10/2016 - 08:34:04: [selfnoclip.smx] Enabled noclip
+L 04/10/2016 - 08:34:07: [selfnoclip.smx] Disabled noclip
+L 04/10/2016 - 08:34:18: [selfnoclip.smx] Enabled noclip
+L 04/10/2016 - 08:34:18: [selfnoclip.smx] Disabled noclip
+L 04/10/2016 - 08:34:27: [sounds.smx] "*FHR* ÐJ DovaYT #<3Selena!!<4><[U:1:138265817]><>" played sound on "*FHR* ÐJ DovaYT #<3Selena!!<4><[U:1:138265817]><>" (file "dovahyt/suprise.mp3")
+L 04/10/2016 - 08:34:27: [sounds.smx] "*FHR* ÐJ DovaYT #<3Selena!!<4><[U:1:138265817]><>" played sound on "◄VG► Burundi the Tamamitsun<5><[U:1:128451456]><>" (file "dovahyt/suprise.mp3")
+L 04/10/2016 - 08:34:27: [sounds.smx] "*FHR* ÐJ DovaYT #<3Selena!!<4><[U:1:138265817]><>" played sound on "【東方】 65 Wat<6><[U:1:64054173]><>" (file "dovahyt/suprise.mp3")
+L 04/10/2016 - 08:41:45: [TF2 Set Class.smx] "*FHR* ÐJ DovaYT #<3Selena!!<4><[U:1:138265817]><>" set class of  "*FHR* ÐJ DovaYT #<3Selena!!<4><[U:1:138265817]><>" to (class Spy)
+L 04/10/2016 - 08:44:38: [basecommands.smx] "*FHR* ÐJ DovaYT #<3Selena!!<4><[U:1:138265817]><>" changed cvar (cvar "mp_disable_respawn_times") (value "1")
+L 04/10/2016 - 08:44:51: [basecommands.smx] "*FHR* ÐJ DovaYT #<3Selena!!<4><[U:1:138265817]><>" console command (cmdline "tf_bot_add 8")
+L 04/10/2016 - 08:44:51: [selfnoclip.smx] Enabled noclip
+L 04/10/2016 - 08:45:47: [selfnoclip.smx] Enabled noclip
+L 04/10/2016 - 08:46:05: [selfnoclip.smx] Disabled noclip
+L 04/10/2016 - 08:48:08: [selfnoclip.smx] Enabled noclip
+L 04/10/2016 - 08:48:24: [selfnoclip.smx] Disabled noclip
+L 04/10/2016 - 08:49:34: [basecommands.smx] "*FHR* ÐJ DovaYT #<3Selena!!<15><[U:1:138265817]><>" console command (cmdline "tf_bot_Add 10")
+L 04/10/2016 - 08:49:45: [selfnoclip.smx] Enabled noclip
+L 04/10/2016 - 08:49:45: [selfnoclip.smx] Disabled noclip
+L 04/10/2016 - 08:50:33: [selfnoclip.smx] Enabled noclip
+L 04/10/2016 - 08:50:46: [selfnoclip.smx] Disabled noclip
+L 04/10/2016 - 08:50:58: [basecommands.smx] "*FHR* ÐJ DovaYT #<3Selena!!<26><[U:1:138265817]><>" changed cvar (cvar "cv_bumpercar_blockplayerdmg") (value "0")
+L 04/10/2016 - 08:51:42: [selfnoclip.smx] Enabled noclip
+L 04/10/2016 - 08:51:43: [selfnoclip.smx] Disabled noclip
+L 04/10/2016 - 08:51:45: [selfnoclip.smx] Enabled noclip
+L 04/10/2016 - 08:51:46: [selfnoclip.smx] Disabled noclip
+L 04/10/2016 - 08:53:06: [basecommands.smx] "*FHR* ÐJ DovaYT #<3Selena!!<26><[U:1:138265817]><>" console command (cmdline "mp_autoteambalance 0")
+L 04/10/2016 - 08:53:29: [selfnoclip.smx] Enabled noclip
+L 04/10/2016 - 08:53:29: [selfnoclip.smx] Disabled noclip
+L 04/10/2016 - 08:55:24: [selfnoclip.smx] Enabled noclip
+L 04/10/2016 - 08:55:25: [selfnoclip.smx] Disabled noclip
+L 04/10/2016 - 08:56:13: [selfnoclip.smx] Enabled noclip
+L 04/10/2016 - 08:56:14: [selfnoclip.smx] Disabled noclip
+L 04/10/2016 - 08:56:15: [selfnoclip.smx] Enabled noclip
+L 04/10/2016 - 08:56:15: [selfnoclip.smx] Disabled noclip
+L 04/10/2016 - 08:56:16: [selfnoclip.smx] Enabled noclip
+L 04/10/2016 - 08:56:16: [selfnoclip.smx] Disabled noclip
+L 04/10/2016 - 08:56:34: [sounds.smx] "*FHR* ÐJ DovaYT #<3Selena!!<26><[U:1:138265817]><>" played sound on "*FHR* ÐJ DovaYT #<3Selena!!<26><[U:1:138265817]><>" (file "dovahyt/kobe.mp3")
+L 04/10/2016 - 08:56:34: [sounds.smx] "*FHR* ÐJ DovaYT #<3Selena!!<26><[U:1:138265817]><>" played sound on "◄VG► Burundi the Tamamitsun<5><[U:1:128451456]><>" (file "dovahyt/kobe.mp3")
+L 04/10/2016 - 08:56:34: [sounds.smx] "*FHR* ÐJ DovaYT #<3Selena!!<26><[U:1:138265817]><>" played sound on "【東方】 65 Wat<6><[U:1:64054173]><>" (file "dovahyt/kobe.mp3")
+L 04/10/2016 - 08:56:35: [sounds.smx] "*FHR* ÐJ DovaYT #<3Selena!!<26><[U:1:138265817]><>" played sound on "*FHR* ÐJ DovaYT #<3Selena!!<26><[U:1:138265817]><>" (file "dovahyt/wot.mp3")
+L 04/10/2016 - 08:56:35: [sounds.smx] "*FHR* ÐJ DovaYT #<3Selena!!<26><[U:1:138265817]><>" played sound on "◄VG► Burundi the Tamamitsun<5><[U:1:128451456]><>" (file "dovahyt/wot.mp3")
+L 04/10/2016 - 08:56:35: [sounds.smx] "*FHR* ÐJ DovaYT #<3Selena!!<26><[U:1:138265817]><>" played sound on "【東方】 65 Wat<6><[U:1:64054173]><>" (file "dovahyt/wot.mp3")
+L 04/10/2016 - 08:56:48: [basecommands.smx] "*FHR* ÐJ DovaYT #<3Selena!!<26><[U:1:138265817]><>" console command (cmdline "tf_bot_add 20")
+L 04/10/2016 - 08:56:56: [selfnoclip.smx] Enabled noclip
+L 04/10/2016 - 08:56:57: [selfnoclip.smx] Disabled noclip
+L 04/10/2016 - 08:57:41: [TF2 Set Class.smx] "*FHR* ÐJ DovaYT #<3Selena!!<39><[U:1:138265817]><>" set class of  "*FHR* ÐJ DovaYT #<3Selena!!<39><[U:1:138265817]><>" to (class Spy)
+L 04/10/2016 - 08:59:29: [selfnoclip.smx] Enabled noclip
+L 04/10/2016 - 08:59:30: [selfnoclip.smx] Disabled noclip
+L 04/10/2016 - 08:59:30: [sounds.smx] "*FHR* ÐJ DovaYT #<3Selena!!<39><[U:1:138265817]><>" played sound on "◄VG► Burundi the Tamamitsun<5><[U:1:128451456]><>" (file "dovahyt/wot.mp3")
+L 04/10/2016 - 08:59:30: [sounds.smx] "*FHR* ÐJ DovaYT #<3Selena!!<39><[U:1:138265817]><>" played sound on "【東方】 65 Wat<6><[U:1:64054173]><>" (file "dovahyt/wot.mp3")
+L 04/10/2016 - 08:59:30: [sounds.smx] "*FHR* ÐJ DovaYT #<3Selena!!<39><[U:1:138265817]><>" played sound on "*FHR* ÐJ DovaYT #<3Selena!!<39><[U:1:138265817]><>" (file "dovahyt/wot.mp3")
+L 04/10/2016 - 08:59:50: [basecommands.smx] "*FHR* ÐJ DovaYT #<3Selena!!<39><[U:1:138265817]><>" console command (cmdline "sv_cheats 1")
+L 04/10/2016 - 08:59:55: [basecommands.smx] "*FHR* ÐJ DovaYT #<3Selena!!<39><[U:1:138265817]><>" console command (cmdline "host_timescale 2")
+L 04/10/2016 - 08:59:58: [selfnoclip.smx] Enabled noclip
+L 04/10/2016 - 08:59:59: [selfnoclip.smx] Disabled noclip
+L 04/10/2016 - 09:00:22: [selfnoclip.smx] Enabled noclip
+L 04/10/2016 - 09:00:22: [selfnoclip.smx] Disabled noclip
+L 04/10/2016 - 09:00:28: [selfnoclip.smx] Enabled noclip
+L 04/10/2016 - 09:00:28: [selfnoclip.smx] Disabled noclip
+L 04/10/2016 - 09:00:41: [basecommands.smx] "*FHR* ÐJ DovaYT #<3Selena!!<39><[U:1:138265817]><>" console command (cmdline "host_timescale 5")
+L 04/10/2016 - 09:00:45: [selfnoclip.smx] Enabled noclip
+L 04/10/2016 - 09:00:50: [selfnoclip.smx] Disabled noclip
+L 04/10/2016 - 09:00:54: [selfnoclip.smx] Enabled noclip
+L 04/10/2016 - 09:00:57: [selfnoclip.smx] Disabled noclip
+L 04/10/2016 - 09:01:02: [playercommands.smx] "*FHR* ÐJ DovaYT #<3Selena!!<39><[U:1:138265817]><>" slayed "Poopy Joe<38><BOT><>"
+L 04/10/2016 - 09:01:02: [playercommands.smx] "*FHR* ÐJ DovaYT #<3Selena!!<39><[U:1:138265817]><>" slayed "HI THERE<8><BOT><>"
+L 04/10/2016 - 09:01:02: [playercommands.smx] "*FHR* ÐJ DovaYT #<3Selena!!<39><[U:1:138265817]><>" slayed "SomeDude<9><BOT><>"
+L 04/10/2016 - 09:01:02: [playercommands.smx] "*FHR* ÐJ DovaYT #<3Selena!!<39><[U:1:138265817]><>" slayed "Hostage<11><BOT><>"
+L 04/10/2016 - 09:01:02: [playercommands.smx] "*FHR* ÐJ DovaYT #<3Selena!!<39><[U:1:138265817]><>" slayed "Headful of Eyeballs<12><BOT><>"
+L 04/10/2016 - 09:01:02: [playercommands.smx] "*FHR* ÐJ DovaYT #<3Selena!!<39><[U:1:138265817]><>" slayed "CrySomeMore<13><BOT><>"
+L 04/10/2016 - 09:01:02: [playercommands.smx] "*FHR* ÐJ DovaYT #<3Selena!!<39><[U:1:138265817]><>" slayed "Aperture Science Prototype XR7<14><BOT><>"
+L 04/10/2016 - 09:01:02: [playercommands.smx] "*FHR* ÐJ DovaYT #<3Selena!!<39><[U:1:138265817]><>" slayed "Humans Are Weak<16><BOT><>"
+L 04/10/2016 - 09:01:02: [playercommands.smx] "*FHR* ÐJ DovaYT #<3Selena!!<39><[U:1:138265817]><>" slayed "AimBot<17><BOT><>"
+L 04/10/2016 - 09:01:02: [playercommands.smx] "*FHR* ÐJ DovaYT #<3Selena!!<39><[U:1:138265817]><>" slayed "C++<18><BOT><>"
+L 04/10/2016 - 09:01:02: [playercommands.smx] "*FHR* ÐJ DovaYT #<3Selena!!<39><[U:1:138265817]><>" slayed "GutsAndGlory!<19><BOT><>"
+L 04/10/2016 - 09:01:02: [playercommands.smx] "*FHR* ÐJ DovaYT #<3Selena!!<39><[U:1:138265817]><>" slayed "Nobody<20><BOT><>"
+L 04/10/2016 - 09:01:02: [playercommands.smx] "*FHR* ÐJ DovaYT #<3Selena!!<39><[U:1:138265817]><>" slayed "Saxton Hale<21><BOT><>"
+L 04/10/2016 - 09:01:02: [playercommands.smx] "*FHR* ÐJ DovaYT #<3Selena!!<39><[U:1:138265817]><>" slayed "RageQuit<22><BOT><>"
+L 04/10/2016 - 09:01:02: [playercommands.smx] "*FHR* ÐJ DovaYT #<3Selena!!<39><[U:1:138265817]><>" slayed "Screamin' Eagles<23><BOT><>"
+L 04/10/2016 - 09:01:02: [playercommands.smx] "*FHR* ÐJ DovaYT #<3Selena!!<39><[U:1:138265817]><>" slayed "Ze Ubermensch<24><BOT><>"
+L 04/10/2016 - 09:01:02: [playercommands.smx] "*FHR* ÐJ DovaYT #<3Selena!!<39><[U:1:138265817]><>" slayed "Maggot<25><BOT><>"
+L 04/10/2016 - 09:01:02: [playercommands.smx] "*FHR* ÐJ DovaYT #<3Selena!!<39><[U:1:138265817]><>" slayed "CRITRAWKETS<27><BOT><>"
+L 04/10/2016 - 09:01:02: [playercommands.smx] "*FHR* ÐJ DovaYT #<3Selena!!<39><[U:1:138265817]><>" slayed "Herr Doktor<28><BOT><>"
+L 04/10/2016 - 09:01:02: [playercommands.smx] "*FHR* ÐJ DovaYT #<3Selena!!<39><[U:1:138265817]><>" slayed "Gentlemanne of Leisure<29><BOT><>"
+L 04/10/2016 - 09:01:02: [playercommands.smx] "*FHR* ÐJ DovaYT #<3Selena!!<39><[U:1:138265817]><>" slayed "Companion Cube<30><BOT><>"
+L 04/10/2016 - 09:01:02: [playercommands.smx] "*FHR* ÐJ DovaYT #<3Selena!!<39><[U:1:138265817]><>" slayed "Target Practice<31><BOT><>"
+L 04/10/2016 - 09:01:02: [playercommands.smx] "*FHR* ÐJ DovaYT #<3Selena!!<39><[U:1:138265817]><>" slayed "One-Man Cheeseburger Apocalypse<32><BOT><>"
+L 04/10/2016 - 09:01:02: [playercommands.smx] "*FHR* ÐJ DovaYT #<3Selena!!<39><[U:1:138265817]><>" slayed "Crowbar<33><BOT><>"
+L 04/10/2016 - 09:01:02: [playercommands.smx] "*FHR* ÐJ DovaYT #<3Selena!!<39><[U:1:138265817]><>" slayed "Delicious Cake<34><BOT><>"
+L 04/10/2016 - 09:01:02: [playercommands.smx] "*FHR* ÐJ DovaYT #<3Selena!!<39><[U:1:138265817]><>" slayed "IvanTheSpaceBiker<35><BOT><>"
+L 04/10/2016 - 09:01:02: [playercommands.smx] "*FHR* ÐJ DovaYT #<3Selena!!<39><[U:1:138265817]><>" slayed "I LIVE!<36><BOT><>"
+L 04/10/2016 - 09:01:02: [playercommands.smx] "*FHR* ÐJ DovaYT #<3Selena!!<39><[U:1:138265817]><>" slayed "Cannon Fodder<37><BOT><>"
+L 04/10/2016 - 09:01:10: [selfnoclip.smx] Enabled noclip
+L 04/10/2016 - 09:01:12: [selfnoclip.smx] Disabled noclip
+L 04/10/2016 - 09:01:40: [TF2 Set Class.smx] "*FHR* ÐJ DovaYT #<3Selena!!<42><[U:1:138265817]><>" set class of  "*FHR* ÐJ DovaYT #<3Selena!!<42><[U:1:138265817]><>" to (class Spy)
+L 04/10/2016 - 09:01:56: [selfnoclip.smx] Enabled noclip
+L 04/10/2016 - 09:01:56: [selfnoclip.smx] Disabled noclip
+L 04/10/2016 - 09:02:49: [selfnoclip.smx] Enabled noclip
+L 04/10/2016 - 09:03:39: [selfnoclip.smx] Disabled noclip
+L 04/10/2016 - 09:03:50: [selfnoclip.smx] Enabled noclip
+L 04/10/2016 - 09:03:51: [selfnoclip.smx] Disabled noclip
+L 04/10/2016 - 09:03:53: [selfnoclip.smx] Enabled noclip
+L 04/10/2016 - 09:03:53: [selfnoclip.smx] Disabled noclip
+L 04/10/2016 - 09:03:55: [selfnoclip.smx] Enabled noclip
+L 04/10/2016 - 09:03:56: [selfnoclip.smx] Disabled noclip
+L 04/10/2016 - 09:04:08: [basecommands.smx] "*FHR* ÐJ DovaYT #<3Selena!!<46><[U:1:138265817]><>" console command (cmdline "host_timescale 5")
+L 04/10/2016 - 09:04:10: [selfnoclip.smx] Enabled noclip
+L 04/10/2016 - 09:04:11: [selfnoclip.smx] Disabled noclip
+L 04/10/2016 - 09:04:16: [basecommands.smx] "*FHR* ÐJ DovaYT #<3Selena!!<46><[U:1:138265817]><>" console command (cmdline "host_timescale 10")
+L 04/10/2016 - 09:04:33: [basecommands.smx] "*FHR* ÐJ DovaYT #<3Selena!!<46><[U:1:138265817]><>" console command (cmdline "host_timescale 3")
+L 04/10/2016 - 09:04:37: [selfnoclip.smx] Enabled noclip
+L 04/10/2016 - 09:04:38: [selfnoclip.smx] Disabled noclip
+L 04/10/2016 - 09:04:48: [selfnoclip.smx] Enabled noclip
+L 04/10/2016 - 09:04:49: [selfnoclip.smx] Disabled noclip
+L 04/10/2016 - 09:04:51: [selfnoclip.smx] Enabled noclip
+L 04/10/2016 - 09:04:51: [selfnoclip.smx] Disabled noclip
+L 04/10/2016 - 09:05:16: [selfnoclip.smx] Enabled noclip
+L 04/10/2016 - 09:05:17: [selfnoclip.smx] Disabled noclip
+L 04/10/2016 - 09:05:21: [selfnoclip.smx] Enabled noclip
+L 04/10/2016 - 09:05:22: [selfnoclip.smx] Disabled noclip
+L 04/10/2016 - 09:05:29: [selfnoclip.smx] Enabled noclip
+L 04/10/2016 - 09:05:30: [selfnoclip.smx] Disabled noclip
+L 04/10/2016 - 09:05:33: [selfnoclip.smx] Enabled noclip
+L 04/10/2016 - 09:05:34: [selfnoclip.smx] Disabled noclip
+L 04/10/2016 - 09:05:58: [selfnoclip.smx] Enabled noclip
+L 04/10/2016 - 09:05:59: [selfnoclip.smx] Disabled noclip
+L 04/10/2016 - 09:06:27: [selfnoclip.smx] Enabled noclip
+L 04/10/2016 - 09:06:31: [selfnoclip.smx] Disabled noclip
+L 04/10/2016 - 09:06:36: [selfnoclip.smx] Enabled noclip
+L 04/10/2016 - 09:06:42: [selfnoclip.smx] Disabled noclip
+L 04/10/2016 - 09:06:54: [selfnoclip.smx] Enabled noclip
+L 04/10/2016 - 09:06:54: [selfnoclip.smx] Disabled noclip
+L 04/10/2016 - 09:06:57: [selfnoclip.smx] Enabled noclip
+L 04/10/2016 - 09:06:57: [selfnoclip.smx] Disabled noclip
+L 04/10/2016 - 09:07:00: [selfnoclip.smx] Enabled noclip
+L 04/10/2016 - 09:07:00: [selfnoclip.smx] Disabled noclip
+L 04/10/2016 - 09:07:07: [selfnoclip.smx] Enabled noclip
+L 04/10/2016 - 09:07:07: [selfnoclip.smx] Disabled noclip
+L 04/10/2016 - 09:07:13: [selfnoclip.smx] Enabled noclip
+L 04/10/2016 - 09:07:13: [selfnoclip.smx] Disabled noclip
+L 04/10/2016 - 09:07:18: [selfnoclip.smx] Enabled noclip
+L 04/10/2016 - 09:07:19: [selfnoclip.smx] Disabled noclip
+L 04/10/2016 - 09:07:21: [selfnoclip.smx] Enabled noclip
+L 04/10/2016 - 09:07:21: [selfnoclip.smx] Disabled noclip
+L 04/10/2016 - 09:07:36: [selfnoclip.smx] Enabled noclip
+L 04/10/2016 - 09:07:44: [selfnoclip.smx] Disabled noclip
+L 04/10/2016 - 09:08:00: [selfnoclip.smx] Enabled noclip
+L 04/10/2016 - 09:09:06: [selfnoclip.smx] Disabled noclip
+L 04/10/2016 - 09:09:25: [selfnoclip.smx] Enabled noclip
+L 04/10/2016 - 09:09:25: [selfnoclip.smx] Disabled noclip
+L 04/10/2016 - 09:09:29: [selfnoclip.smx] Enabled noclip
+L 04/10/2016 - 09:09:30: [selfnoclip.smx] Disabled noclip
+L 04/10/2016 - 09:10:28: [selfnoclip.smx] Enabled noclip
+L 04/10/2016 - 09:10:41: [selfnoclip.smx] Enabled noclip
+L 04/10/2016 - 09:10:50: [selfnoclip.smx] Disabled noclip
+L 04/10/2016 - 09:11:57: [selfnoclip.smx] Enabled noclip
+L 04/10/2016 - 09:12:13: [selfnoclip.smx] Disabled noclip
+L 04/10/2016 - 09:12:33: [selfnoclip.smx] Enabled noclip
+L 04/10/2016 - 09:12:35: [selfnoclip.smx] Disabled noclip
+L 04/10/2016 - 09:12:42: [basecommands.smx] "*FHR* ÐJ DovaYT #<3Selena!!<51><[U:1:138265817]><>" console command (cmdline "host_timescale 0.2")
+L 04/10/2016 - 09:12:54: [selfnoclip.smx] Enabled noclip
+L 04/10/2016 - 09:13:03: [selfnoclip.smx] Disabled noclip
+L 04/10/2016 - 09:16:52: [basecommands.smx] "*FHR* ÐJ DovaYT #<3Selena!!<51><[U:1:138265817]><>" console command (cmdline "host_timescale 20")
+L 04/10/2016 - 09:17:02: [basecommands.smx] "*FHR* ÐJ DovaYT #<3Selena!!<51><[U:1:138265817]><>" console command (cmdline "host_timescale 2")
+L 04/10/2016 - 09:17:08: [selfnoclip.smx] Enabled noclip
+L 04/10/2016 - 09:17:09: [selfnoclip.smx] Disabled noclip
+L 04/10/2016 - 09:17:30: [respawn.smx] "*FHR* ÐJ DovaYT #<3Selena!!<53><[U:1:138265817]><>" respawned "Maggot<25><BOT><>"
+L 04/10/2016 - 09:17:35: [basecommands.smx] "*FHR* ÐJ DovaYT #<3Selena!!<53><[U:1:138265817]><>" console command (cmdline "tf_bot_kick all")
+L 04/10/2016 - 09:17:41: [basecommands.smx] "*FHR* ÐJ DovaYT #<3Selena!!<53><[U:1:138265817]><>" console command (cmdline "tf_bot_kick all")
+L 04/10/2016 - 09:17:49: [basecommands.smx] "*FHR* ÐJ DovaYT #<3Selena!!<53><[U:1:138265817]><>" console command (cmdline "host_timescale 1")
+L 04/10/2016 - 09:17:52: [basecommands.smx] "*FHR* ÐJ DovaYT #<3Selena!!<53><[U:1:138265817]><>" console command (cmdline "sv_cheats 0")
+L 04/10/2016 - 09:17:57: [selfnoclip.smx] Enabled noclip
+L 04/10/2016 - 09:21:02: [basecommands.smx] "*FHR* ÐJ DovaYT #<3Selena!!<53><[U:1:138265817]><>" console command (cmdline "tf_bot_add 29")
+L 04/10/2016 - 09:21:19: SourceMod log file session started (file "L20160410.log") (Version "1.7.3-dev+5275")
+L 04/10/2016 - 09:21:19: -------- Mapchange to tf_tornadohighway_final2 --------
+L 04/10/2016 - 09:21:19: [TF2ITEMS] "GiveNamedItem" offset = 479
+L 04/10/2016 - 09:21:19: [GEOIP] GeoIP database info: GEO-106FREE 20151103 Build 1 Copyright (c) 2015 MaxMind Inc All Rights Reserved
+L 04/10/2016 - 09:21:19: [freak_fortress_2.smx] ===Freak Fortress 2 Initializing-v1.10.8===
+L 04/10/2016 - 09:21:19: [rtd.smx] File test for rtd.phrases.txt: PASSED!
+L 04/10/2016 - 09:21:19: [rtd.smx] File test for rtd_effects.cfg: PASSED!
+L 04/10/2016 - 09:21:19: [rtd.smx] Loaded 35 effects: (19 good) (16 bad).
+L 04/10/2016 - 09:21:19: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 04/10/2016 - 09:21:19: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 04/10/2016 - 09:21:25: [deathrun.smx] Current map is not a deathrun map. Disabling Deathrun Gamemode.
+L 04/10/2016 - 09:21:25: [rtd.smx] Added chat trigger: rollthedice
+L 04/10/2016 - 09:21:25: [rtd.smx] Added chat trigger: roll
+L 04/10/2016 - 09:21:25: [custom-chatcolors-menu.smx] Loaded 156 colors from configuration file addons/sourcemod/configs/custom-chatcolors-menu.cfg.
+L 04/10/2016 - 09:21:25: [buildinghats.smx] [Building Hats] Executing configuration file addons/sourcemod/configs/buildinghats.cfg
+L 04/10/2016 - 09:21:39: [selfnoclip.smx] Enabled noclip
+L 04/10/2016 - 09:21:51: [basecommands.smx] "*FHR* ÐJ DovaYT #<3Selena!!<2><[U:1:138265817]><>" console command (cmdline "tf_bot_add 29")
+L 04/10/2016 - 09:22:16: [selfnoclip.smx] Enabled noclip
+L 04/10/2016 - 09:22:53: [Godmode.smx] *FHR* ÐJ DovaYT #<3Selena!!<2><[U:1:138265817]><> enabled godmode on *FHR* ÐJ DovaYT #<3Selena!!<2><[U:1:138265817]><>
+L 04/10/2016 - 09:22:54: [selfnoclip.smx] Enabled noclip
+L 04/10/2016 - 09:24:26: [basecommands.smx] "*FHR* ÐJ DovaYT #<3Selena!!<2><[U:1:138265817]><>" console command (cmdline "tf_bot_kick all")
+L 04/10/2016 - 09:24:39: [basecommands.smx] "*FHR* ÐJ DovaYT #<3Selena!!<2><[U:1:138265817]><>" console command (cmdline "tf_bot_kick all")
+L 04/10/2016 - 09:24:44: [basecommands.smx] "*FHR* ÐJ DovaYT #<3Selena!!<2><[U:1:138265817]><>" console command (cmdline "sv_cheats 1;nav_generate")
+L 04/10/2016 - 09:24:47: [selfnoclip.smx] Disabled noclip
+L 04/10/2016 - 09:28:43: SourceMod log file session started (file "L20160410.log") (Version "1.7.3-dev+5275")
+L 04/10/2016 - 09:28:43: -------- Mapchange to tf_tornadohighway_final2 --------
+L 04/10/2016 - 09:28:43: [TF2ITEMS] "GiveNamedItem" offset = 479
+L 04/10/2016 - 09:28:43: [GEOIP] GeoIP database info: GEO-106FREE 20151103 Build 1 Copyright (c) 2015 MaxMind Inc All Rights Reserved
+L 04/10/2016 - 09:28:43: [freak_fortress_2.smx] ===Freak Fortress 2 Initializing-v1.10.8===
+L 04/10/2016 - 09:28:43: [rtd.smx] File test for rtd.phrases.txt: PASSED!
+L 04/10/2016 - 09:28:43: [rtd.smx] File test for rtd_effects.cfg: PASSED!
+L 04/10/2016 - 09:28:43: [rtd.smx] Loaded 35 effects: (19 good) (16 bad).
+L 04/10/2016 - 09:28:43: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 04/10/2016 - 09:28:43: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 04/10/2016 - 09:28:49: [deathrun.smx] Current map is not a deathrun map. Disabling Deathrun Gamemode.
+L 04/10/2016 - 09:28:50: [rtd.smx] Added chat trigger: rollthedice
+L 04/10/2016 - 09:28:50: [rtd.smx] Added chat trigger: roll
+L 04/10/2016 - 09:28:50: [custom-chatcolors-menu.smx] Loaded 156 colors from configuration file addons/sourcemod/configs/custom-chatcolors-menu.cfg.
+L 04/10/2016 - 09:28:50: [buildinghats.smx] [Building Hats] Executing configuration file addons/sourcemod/configs/buildinghats.cfg
+L 04/10/2016 - 09:33:59: [selfnoclip.smx] Enabled noclip
+L 04/10/2016 - 09:34:15: [selfnoclip.smx] Disabled noclip
+L 04/10/2016 - 09:34:17: [selfnoclip.smx] Enabled noclip
+L 04/10/2016 - 09:34:17: [selfnoclip.smx] Disabled noclip
+L 04/10/2016 - 09:35:26: [selfnoclip.smx] Enabled noclip
+L 04/10/2016 - 09:35:33: [selfnoclip.smx] Disabled noclip
+L 04/10/2016 - 09:36:40: [selfnoclip.smx] Enabled noclip
+L 04/10/2016 - 09:36:53: [selfnoclip.smx] Disabled noclip
+L 04/10/2016 - 09:36:56: [selfnoclip.smx] Enabled noclip
+L 04/10/2016 - 09:36:57: [selfnoclip.smx] Disabled noclip
+L 04/10/2016 - 09:37:50: [basecommands.smx] "*FHR* ÐJ DovaYT #<3Selena!!<3><[U:1:138265817]><>" changed cvar (cvar "sv_gravity") (value "200")
+L 04/10/2016 - 09:53:02: [sounds.smx] "*FHR* ÐJ DovaYT #<3Selena!!<7><[U:1:138265817]><>" played sound on "*FHR* ÐJ DovaYT #<3Selena!!<7><[U:1:138265817]><>" (file "dovahyt/kobe.mp3")
+L 04/10/2016 - 09:53:02: [sounds.smx] "*FHR* ÐJ DovaYT #<3Selena!!<7><[U:1:138265817]><>" played sound on "◄VG► Burundi the Tamamitsun<4><[U:1:128451456]><>" (file "dovahyt/kobe.mp3")
+L 04/10/2016 - 09:53:02: [sounds.smx] "*FHR* ÐJ DovaYT #<3Selena!!<7><[U:1:138265817]><>" played sound on "【東方】 65 Wat<5><[U:1:64054173]><>" (file "dovahyt/kobe.mp3")
+L 04/10/2016 - 09:53:09: [sounds.smx] "*FHR* ÐJ DovaYT #<3Selena!!<7><[U:1:138265817]><>" played sound on "*FHR* ÐJ DovaYT #<3Selena!!<7><[U:1:138265817]><>" (file "dovahyt/kobe.mp3")
+L 04/10/2016 - 09:53:09: [sounds.smx] "*FHR* ÐJ DovaYT #<3Selena!!<7><[U:1:138265817]><>" played sound on "◄VG► Burundi the Tamamitsun<4><[U:1:128451456]><>" (file "dovahyt/kobe.mp3")
+L 04/10/2016 - 09:53:09: [sounds.smx] "*FHR* ÐJ DovaYT #<3Selena!!<7><[U:1:138265817]><>" played sound on "【東方】 65 Wat<5><[U:1:64054173]><>" (file "dovahyt/kobe.mp3")
+L 04/10/2016 - 09:53:10: [sounds.smx] "*FHR* ÐJ DovaYT #<3Selena!!<7><[U:1:138265817]><>" played sound on "*FHR* ÐJ DovaYT #<3Selena!!<7><[U:1:138265817]><>" (file "dovahyt/kobe.mp3")
+L 04/10/2016 - 09:53:10: [sounds.smx] "*FHR* ÐJ DovaYT #<3Selena!!<7><[U:1:138265817]><>" played sound on "◄VG► Burundi the Tamamitsun<4><[U:1:128451456]><>" (file "dovahyt/kobe.mp3")
+L 04/10/2016 - 09:53:10: [sounds.smx] "*FHR* ÐJ DovaYT #<3Selena!!<7><[U:1:138265817]><>" played sound on "【東方】 65 Wat<5><[U:1:64054173]><>" (file "dovahyt/kobe.mp3")
+L 04/10/2016 - 09:53:10: [sounds.smx] "*FHR* ÐJ DovaYT #<3Selena!!<7><[U:1:138265817]><>" played sound on "*FHR* ÐJ DovaYT #<3Selena!!<7><[U:1:138265817]><>" (file "dovahyt/kobe.mp3")
+L 04/10/2016 - 09:53:10: [sounds.smx] "*FHR* ÐJ DovaYT #<3Selena!!<7><[U:1:138265817]><>" played sound on "◄VG► Burundi the Tamamitsun<4><[U:1:128451456]><>" (file "dovahyt/kobe.mp3")
+L 04/10/2016 - 09:53:10: [sounds.smx] "*FHR* ÐJ DovaYT #<3Selena!!<7><[U:1:138265817]><>" played sound on "【東方】 65 Wat<5><[U:1:64054173]><>" (file "dovahyt/kobe.mp3")
+L 04/10/2016 - 09:53:10: [sounds.smx] "*FHR* ÐJ DovaYT #<3Selena!!<7><[U:1:138265817]><>" played sound on "*FHR* ÐJ DovaYT #<3Selena!!<7><[U:1:138265817]><>" (file "dovahyt/kobe.mp3")
+L 04/10/2016 - 09:53:10: [sounds.smx] "*FHR* ÐJ DovaYT #<3Selena!!<7><[U:1:138265817]><>" played sound on "◄VG► Burundi the Tamamitsun<4><[U:1:128451456]><>" (file "dovahyt/kobe.mp3")
+L 04/10/2016 - 09:53:10: [sounds.smx] "*FHR* ÐJ DovaYT #<3Selena!!<7><[U:1:138265817]><>" played sound on "【東方】 65 Wat<5><[U:1:64054173]><>" (file "dovahyt/kobe.mp3")
+L 04/10/2016 - 09:53:10: [sounds.smx] "*FHR* ÐJ DovaYT #<3Selena!!<7><[U:1:138265817]><>" played sound on "*FHR* ÐJ DovaYT #<3Selena!!<7><[U:1:138265817]><>" (file "dovahyt/kobe.mp3")
+L 04/10/2016 - 09:53:10: [sounds.smx] "*FHR* ÐJ DovaYT #<3Selena!!<7><[U:1:138265817]><>" played sound on "◄VG► Burundi the Tamamitsun<4><[U:1:128451456]><>" (file "dovahyt/kobe.mp3")
+L 04/10/2016 - 09:53:10: [sounds.smx] "*FHR* ÐJ DovaYT #<3Selena!!<7><[U:1:138265817]><>" played sound on "【東方】 65 Wat<5><[U:1:64054173]><>" (file "dovahyt/kobe.mp3")
+L 04/10/2016 - 09:54:42: [sounds.smx] "*FHR* ÐJ DovaYT #<3Selena!!<7><[U:1:138265817]><>" played sound on "*FHR* ÐJ DovaYT #<3Selena!!<7><[U:1:138265817]><>" (file "dovahyt/kobe.mp3")
+L 04/10/2016 - 09:54:42: [sounds.smx] "*FHR* ÐJ DovaYT #<3Selena!!<7><[U:1:138265817]><>" played sound on "◄VG► Burundi the Tamamitsun<4><[U:1:128451456]><>" (file "dovahyt/kobe.mp3")
+L 04/10/2016 - 09:54:42: [sounds.smx] "*FHR* ÐJ DovaYT #<3Selena!!<7><[U:1:138265817]><>" played sound on "【東方】 65 Wat<5><[U:1:64054173]><>" (file "dovahyt/kobe.mp3")
+L 04/10/2016 - 09:54:42: [sounds.smx] "*FHR* ÐJ DovaYT #<3Selena!!<7><[U:1:138265817]><>" played sound on "*FHR* ÐJ DovaYT #<3Selena!!<7><[U:1:138265817]><>" (file "dovahyt/kobe.mp3")
+L 04/10/2016 - 09:54:42: [sounds.smx] "*FHR* ÐJ DovaYT #<3Selena!!<7><[U:1:138265817]><>" played sound on "◄VG► Burundi the Tamamitsun<4><[U:1:128451456]><>" (file "dovahyt/kobe.mp3")
+L 04/10/2016 - 09:54:42: [sounds.smx] "*FHR* ÐJ DovaYT #<3Selena!!<7><[U:1:138265817]><>" played sound on "【東方】 65 Wat<5><[U:1:64054173]><>" (file "dovahyt/kobe.mp3")
+L 04/10/2016 - 09:54:42: [sounds.smx] "*FHR* ÐJ DovaYT #<3Selena!!<7><[U:1:138265817]><>" played sound on "*FHR* ÐJ DovaYT #<3Selena!!<7><[U:1:138265817]><>" (file "dovahyt/kobe.mp3")
+L 04/10/2016 - 09:54:42: [sounds.smx] "*FHR* ÐJ DovaYT #<3Selena!!<7><[U:1:138265817]><>" played sound on "◄VG► Burundi the Tamamitsun<4><[U:1:128451456]><>" (file "dovahyt/kobe.mp3")
+L 04/10/2016 - 09:54:42: [sounds.smx] "*FHR* ÐJ DovaYT #<3Selena!!<7><[U:1:138265817]><>" played sound on "【東方】 65 Wat<5><[U:1:64054173]><>" (file "dovahyt/kobe.mp3")
+L 04/10/2016 - 09:54:42: [sounds.smx] "*FHR* ÐJ DovaYT #<3Selena!!<7><[U:1:138265817]><>" played sound on "*FHR* ÐJ DovaYT #<3Selena!!<7><[U:1:138265817]><>" (file "dovahyt/kobe.mp3")
+L 04/10/2016 - 09:54:42: [sounds.smx] "*FHR* ÐJ DovaYT #<3Selena!!<7><[U:1:138265817]><>" played sound on "◄VG► Burundi the Tamamitsun<4><[U:1:128451456]><>" (file "dovahyt/kobe.mp3")
+L 04/10/2016 - 09:54:42: [sounds.smx] "*FHR* ÐJ DovaYT #<3Selena!!<7><[U:1:138265817]><>" played sound on "【東方】 65 Wat<5><[U:1:64054173]><>" (file "dovahyt/kobe.mp3")
+L 04/10/2016 - 09:54:43: [sounds.smx] "*FHR* ÐJ DovaYT #<3Selena!!<7><[U:1:138265817]><>" played sound on "*FHR* ÐJ DovaYT #<3Selena!!<7><[U:1:138265817]><>" (file "dovahyt/kobe.mp3")
+L 04/10/2016 - 09:54:43: [sounds.smx] "*FHR* ÐJ DovaYT #<3Selena!!<7><[U:1:138265817]><>" played sound on "◄VG► Burundi the Tamamitsun<4><[U:1:128451456]><>" (file "dovahyt/kobe.mp3")
+L 04/10/2016 - 09:54:43: [sounds.smx] "*FHR* ÐJ DovaYT #<3Selena!!<7><[U:1:138265817]><>" played sound on "【東方】 65 Wat<5><[U:1:64054173]><>" (file "dovahyt/kobe.mp3")
+L 04/10/2016 - 09:54:43: [sounds.smx] "*FHR* ÐJ DovaYT #<3Selena!!<7><[U:1:138265817]><>" played sound on "*FHR* ÐJ DovaYT #<3Selena!!<7><[U:1:138265817]><>" (file "dovahyt/kobe.mp3")
+L 04/10/2016 - 09:54:43: [sounds.smx] "*FHR* ÐJ DovaYT #<3Selena!!<7><[U:1:138265817]><>" played sound on "◄VG► Burundi the Tamamitsun<4><[U:1:128451456]><>" (file "dovahyt/kobe.mp3")
+L 04/10/2016 - 09:54:43: [sounds.smx] "*FHR* ÐJ DovaYT #<3Selena!!<7><[U:1:138265817]><>" played sound on "【東方】 65 Wat<5><[U:1:64054173]><>" (file "dovahyt/kobe.mp3")
+L 04/10/2016 - 09:54:47: [sounds.smx] "*FHR* ÐJ DovaYT #<3Selena!!<7><[U:1:138265817]><>" played sound on "*FHR* ÐJ DovaYT #<3Selena!!<7><[U:1:138265817]><>" (file "dovahyt/denied.mp3")
+L 04/10/2016 - 09:54:47: [sounds.smx] "*FHR* ÐJ DovaYT #<3Selena!!<7><[U:1:138265817]><>" played sound on "◄VG► Burundi the Tamamitsun<4><[U:1:128451456]><>" (file "dovahyt/denied.mp3")
+L 04/10/2016 - 09:54:47: [sounds.smx] "*FHR* ÐJ DovaYT #<3Selena!!<7><[U:1:138265817]><>" played sound on "【東方】 65 Wat<5><[U:1:64054173]><>" (file "dovahyt/denied.mp3")
+L 04/10/2016 - 09:54:51: [sounds.smx] "*FHR* ÐJ DovaYT #<3Selena!!<7><[U:1:138265817]><>" played sound on "*FHR* ÐJ DovaYT #<3Selena!!<7><[U:1:138265817]><>" (file "dovahyt/dontthinkso.mp3")
+L 04/10/2016 - 09:54:51: [sounds.smx] "*FHR* ÐJ DovaYT #<3Selena!!<7><[U:1:138265817]><>" played sound on "◄VG► Burundi the Tamamitsun<4><[U:1:128451456]><>" (file "dovahyt/dontthinkso.mp3")
+L 04/10/2016 - 09:54:51: [sounds.smx] "*FHR* ÐJ DovaYT #<3Selena!!<7><[U:1:138265817]><>" played sound on "【東方】 65 Wat<5><[U:1:64054173]><>" (file "dovahyt/dontthinkso.mp3")
+L 04/10/2016 - 09:54:56: [sounds.smx] "*FHR* ÐJ DovaYT #<3Selena!!<7><[U:1:138265817]><>" played sound on "*FHR* ÐJ DovaYT #<3Selena!!<7><[U:1:138265817]><>" (file "dovahyt/dontthinkso.mp3")
+L 04/10/2016 - 09:54:56: [sounds.smx] "*FHR* ÐJ DovaYT #<3Selena!!<7><[U:1:138265817]><>" played sound on "◄VG► Burundi the Tamamitsun<4><[U:1:128451456]><>" (file "dovahyt/dontthinkso.mp3")
+L 04/10/2016 - 09:54:56: [sounds.smx] "*FHR* ÐJ DovaYT #<3Selena!!<7><[U:1:138265817]><>" played sound on "【東方】 65 Wat<5><[U:1:64054173]><>" (file "dovahyt/dontthinkso.mp3")
+L 04/10/2016 - 09:54:56: [sounds.smx] "*FHR* ÐJ DovaYT #<3Selena!!<7><[U:1:138265817]><>" played sound on "*FHR* ÐJ DovaYT #<3Selena!!<7><[U:1:138265817]><>" (file "dovahyt/dontthinkso.mp3")
+L 04/10/2016 - 09:54:56: [sounds.smx] "*FHR* ÐJ DovaYT #<3Selena!!<7><[U:1:138265817]><>" played sound on "◄VG► Burundi the Tamamitsun<4><[U:1:128451456]><>" (file "dovahyt/dontthinkso.mp3")
+L 04/10/2016 - 09:54:56: [sounds.smx] "*FHR* ÐJ DovaYT #<3Selena!!<7><[U:1:138265817]><>" played sound on "【東方】 65 Wat<5><[U:1:64054173]><>" (file "dovahyt/dontthinkso.mp3")
+L 04/10/2016 - 09:54:59: [sounds.smx] "*FHR* ÐJ DovaYT #<3Selena!!<7><[U:1:138265817]><>" played sound on "*FHR* ÐJ DovaYT #<3Selena!!<7><[U:1:138265817]><>" (file "dovahyt/wakeup.mp3")
+L 04/10/2016 - 09:54:59: [sounds.smx] "*FHR* ÐJ DovaYT #<3Selena!!<7><[U:1:138265817]><>" played sound on "◄VG► Burundi the Tamamitsun<4><[U:1:128451456]><>" (file "dovahyt/wakeup.mp3")
+L 04/10/2016 - 09:54:59: [sounds.smx] "*FHR* ÐJ DovaYT #<3Selena!!<7><[U:1:138265817]><>" played sound on "【東方】 65 Wat<5><[U:1:64054173]><>" (file "dovahyt/wakeup.mp3")
+L 04/10/2016 - 09:56:48: [TF2 Set Class.smx] "*FHR* ÐJ DovaYT #<3Selena!!<7><[U:1:138265817]><>" set class of  "*FHR* ÐJ DovaYT #<3Selena!!<7><[U:1:138265817]><>" to (class Engineer)
+L 04/10/2016 - 09:56:49: [selfnoclip.smx] Enabled noclip
+L 04/10/2016 - 09:57:09: [selfnoclip.smx] Disabled noclip
+L 04/10/2016 - 09:57:10: [selfnoclip.smx] Enabled noclip
+L 04/10/2016 - 09:57:12: [selfnoclip.smx] Disabled noclip
+L 04/10/2016 - 09:57:15: [selfnoclip.smx] Enabled noclip
+L 04/10/2016 - 09:57:16: [selfnoclip.smx] Disabled noclip
+L 04/10/2016 - 09:57:17: [selfnoclip.smx] Enabled noclip
+L 04/10/2016 - 09:57:17: [selfnoclip.smx] Disabled noclip
+L 04/10/2016 - 09:59:09: [selfnoclip.smx] Enabled noclip
+L 04/10/2016 - 09:59:21: [selfnoclip.smx] Disabled noclip
+L 04/10/2016 - 10:01:00: [sounds.smx] "*FHR* ÐJ DovaYT #<3Selena!!<7><[U:1:138265817]><>" played sound on "*FHR* ÐJ DovaYT #<3Selena!!<7><[U:1:138265817]><>" (file "dovahyt/whahappened.mp3")
+L 04/10/2016 - 10:01:00: [sounds.smx] "*FHR* ÐJ DovaYT #<3Selena!!<7><[U:1:138265817]><>" played sound on "◄VG► Burundi the Tamamitsun<4><[U:1:128451456]><>" (file "dovahyt/whahappened.mp3")
+L 04/10/2016 - 10:01:00: [sounds.smx] "*FHR* ÐJ DovaYT #<3Selena!!<7><[U:1:138265817]><>" played sound on "【東方】 65 Wat<5><[U:1:64054173]><>" (file "dovahyt/whahappened.mp3")
+L 04/10/2016 - 10:09:22: [selfnoclip.smx] Enabled noclip
+L 04/10/2016 - 10:09:52: [selfnoclip.smx] Disabled noclip
+L 04/10/2016 - 10:09:59: [selfnoclip.smx] Enabled noclip
+L 04/10/2016 - 10:10:14: [selfnoclip.smx] Disabled noclip
+L 04/10/2016 - 10:10:16: [selfnoclip.smx] Enabled noclip
+L 04/10/2016 - 10:10:18: [selfnoclip.smx] Disabled noclip
+L 04/10/2016 - 10:12:25: [selfnoclip.smx] Enabled noclip
+L 04/10/2016 - 10:12:56: [selfnoclip.smx] Disabled noclip
+L 04/10/2016 - 10:12:59: [selfnoclip.smx] Enabled noclip
+L 04/10/2016 - 10:13:00: [selfnoclip.smx] Disabled noclip
+L 04/10/2016 - 10:13:00: [selfnoclip.smx] Enabled noclip
+L 04/10/2016 - 10:13:01: [selfnoclip.smx] Disabled noclip
+L 04/10/2016 - 10:13:52: [sounds.smx] "*FHR* ÐJ DovaYT #<3Selena!!<7><[U:1:138265817]><>" played sound on "*FHR* ÐJ DovaYT #<3Selena!!<7><[U:1:138265817]><>" (file "dovahyt/wot.mp3")
+L 04/10/2016 - 10:13:52: [sounds.smx] "*FHR* ÐJ DovaYT #<3Selena!!<7><[U:1:138265817]><>" played sound on "◄VG► Burundi the Tamamitsun<4><[U:1:128451456]><>" (file "dovahyt/wot.mp3")
+L 04/10/2016 - 10:13:52: [sounds.smx] "*FHR* ÐJ DovaYT #<3Selena!!<7><[U:1:138265817]><>" played sound on "【東方】 65 Wat<5><[U:1:64054173]><>" (file "dovahyt/wot.mp3")
+L 04/10/2016 - 10:16:46: [selfnoclip.smx] Enabled noclip
+L 04/10/2016 - 10:16:52: [selfnoclip.smx] Disabled noclip
+L 04/10/2016 - 10:16:53: [selfnoclip.smx] Enabled noclip
+L 04/10/2016 - 10:16:53: [selfnoclip.smx] Disabled noclip
+L 04/10/2016 - 10:16:54: [selfnoclip.smx] Enabled noclip
+L 04/10/2016 - 10:16:54: [selfnoclip.smx] Disabled noclip
+L 04/10/2016 - 10:18:36: [sounds.smx] "*FHR* ÐJ DovaYT #<3Selena!!<7><[U:1:138265817]><>" played sound on "*FHR* ÐJ DovaYT #<3Selena!!<7><[U:1:138265817]><>" (file "dovahyt/dontthinkso.mp3")
+L 04/10/2016 - 10:18:36: [sounds.smx] "*FHR* ÐJ DovaYT #<3Selena!!<7><[U:1:138265817]><>" played sound on "◄VG► Burundi the Tamamitsun<4><[U:1:128451456]><>" (file "dovahyt/dontthinkso.mp3")
+L 04/10/2016 - 10:18:36: [sounds.smx] "*FHR* ÐJ DovaYT #<3Selena!!<7><[U:1:138265817]><>" played sound on "【東方】 65 Wat<5><[U:1:64054173]><>" (file "dovahyt/dontthinkso.mp3")
+L 04/10/2016 - 10:18:44: [sounds.smx] "*FHR* ÐJ DovaYT #<3Selena!!<7><[U:1:138265817]><>" played sound on "*FHR* ÐJ DovaYT #<3Selena!!<7><[U:1:138265817]><>" (file "dovahyt/dontthinkso.mp3")
+L 04/10/2016 - 10:18:44: [sounds.smx] "*FHR* ÐJ DovaYT #<3Selena!!<7><[U:1:138265817]><>" played sound on "◄VG► Burundi the Tamamitsun<4><[U:1:128451456]><>" (file "dovahyt/dontthinkso.mp3")
+L 04/10/2016 - 10:18:44: [sounds.smx] "*FHR* ÐJ DovaYT #<3Selena!!<7><[U:1:138265817]><>" played sound on "【東方】 65 Wat<5><[U:1:64054173]><>" (file "dovahyt/dontthinkso.mp3")
+L 04/10/2016 - 10:18:44: [sounds.smx] "*FHR* ÐJ DovaYT #<3Selena!!<7><[U:1:138265817]><>" played sound on "*FHR* ÐJ DovaYT #<3Selena!!<7><[U:1:138265817]><>" (file "dovahyt/dontthinkso.mp3")
+L 04/10/2016 - 10:18:44: [sounds.smx] "*FHR* ÐJ DovaYT #<3Selena!!<7><[U:1:138265817]><>" played sound on "◄VG► Burundi the Tamamitsun<4><[U:1:128451456]><>" (file "dovahyt/dontthinkso.mp3")
+L 04/10/2016 - 10:18:44: [sounds.smx] "*FHR* ÐJ DovaYT #<3Selena!!<7><[U:1:138265817]><>" played sound on "【東方】 65 Wat<5><[U:1:64054173]><>" (file "dovahyt/dontthinkso.mp3")
+L 04/10/2016 - 10:18:44: [sounds.smx] "*FHR* ÐJ DovaYT #<3Selena!!<7><[U:1:138265817]><>" played sound on "*FHR* ÐJ DovaYT #<3Selena!!<7><[U:1:138265817]><>" (file "dovahyt/dontthinkso.mp3")
+L 04/10/2016 - 10:18:44: [sounds.smx] "*FHR* ÐJ DovaYT #<3Selena!!<7><[U:1:138265817]><>" played sound on "◄VG► Burundi the Tamamitsun<4><[U:1:128451456]><>" (file "dovahyt/dontthinkso.mp3")
+L 04/10/2016 - 10:18:44: [sounds.smx] "*FHR* ÐJ DovaYT #<3Selena!!<7><[U:1:138265817]><>" played sound on "【東方】 65 Wat<5><[U:1:64054173]><>" (file "dovahyt/dontthinkso.mp3")
+L 04/10/2016 - 10:18:44: [sounds.smx] "*FHR* ÐJ DovaYT #<3Selena!!<7><[U:1:138265817]><>" played sound on "*FHR* ÐJ DovaYT #<3Selena!!<7><[U:1:138265817]><>" (file "dovahyt/dontthinkso.mp3")
+L 04/10/2016 - 10:18:44: [sounds.smx] "*FHR* ÐJ DovaYT #<3Selena!!<7><[U:1:138265817]><>" played sound on "◄VG► Burundi the Tamamitsun<4><[U:1:128451456]><>" (file "dovahyt/dontthinkso.mp3")
+L 04/10/2016 - 10:18:44: [sounds.smx] "*FHR* ÐJ DovaYT #<3Selena!!<7><[U:1:138265817]><>" played sound on "【東方】 65 Wat<5><[U:1:64054173]><>" (file "dovahyt/dontthinkso.mp3")
+L 04/10/2016 - 10:18:44: [sounds.smx] "*FHR* ÐJ DovaYT #<3Selena!!<7><[U:1:138265817]><>" played sound on "*FHR* ÐJ DovaYT #<3Selena!!<7><[U:1:138265817]><>" (file "dovahyt/dontthinkso.mp3")
+L 04/10/2016 - 10:18:44: [sounds.smx] "*FHR* ÐJ DovaYT #<3Selena!!<7><[U:1:138265817]><>" played sound on "◄VG► Burundi the Tamamitsun<4><[U:1:128451456]><>" (file "dovahyt/dontthinkso.mp3")
+L 04/10/2016 - 10:18:44: [sounds.smx] "*FHR* ÐJ DovaYT #<3Selena!!<7><[U:1:138265817]><>" played sound on "【東方】 65 Wat<5><[U:1:64054173]><>" (file "dovahyt/dontthinkso.mp3")
+L 04/10/2016 - 10:18:45: [sounds.smx] "*FHR* ÐJ DovaYT #<3Selena!!<7><[U:1:138265817]><>" played sound on "*FHR* ÐJ DovaYT #<3Selena!!<7><[U:1:138265817]><>" (file "dovahyt/dontthinkso.mp3")
+L 04/10/2016 - 10:18:45: [sounds.smx] "*FHR* ÐJ DovaYT #<3Selena!!<7><[U:1:138265817]><>" played sound on "◄VG► Burundi the Tamamitsun<4><[U:1:128451456]><>" (file "dovahyt/dontthinkso.mp3")
+L 04/10/2016 - 10:18:45: [sounds.smx] "*FHR* ÐJ DovaYT #<3Selena!!<7><[U:1:138265817]><>" played sound on "【東方】 65 Wat<5><[U:1:64054173]><>" (file "dovahyt/dontthinkso.mp3")
+L 04/10/2016 - 10:18:45: [sounds.smx] "*FHR* ÐJ DovaYT #<3Selena!!<7><[U:1:138265817]><>" played sound on "*FHR* ÐJ DovaYT #<3Selena!!<7><[U:1:138265817]><>" (file "dovahyt/dontthinkso.mp3")
+L 04/10/2016 - 10:18:45: [sounds.smx] "*FHR* ÐJ DovaYT #<3Selena!!<7><[U:1:138265817]><>" played sound on "◄VG► Burundi the Tamamitsun<4><[U:1:128451456]><>" (file "dovahyt/dontthinkso.mp3")
+L 04/10/2016 - 10:18:45: [sounds.smx] "*FHR* ÐJ DovaYT #<3Selena!!<7><[U:1:138265817]><>" played sound on "【東方】 65 Wat<5><[U:1:64054173]><>" (file "dovahyt/dontthinkso.mp3")
+L 04/10/2016 - 10:18:45: [sounds.smx] "*FHR* ÐJ DovaYT #<3Selena!!<7><[U:1:138265817]><>" played sound on "*FHR* ÐJ DovaYT #<3Selena!!<7><[U:1:138265817]><>" (file "dovahyt/dontthinkso.mp3")
+L 04/10/2016 - 10:18:45: [sounds.smx] "*FHR* ÐJ DovaYT #<3Selena!!<7><[U:1:138265817]><>" played sound on "◄VG► Burundi the Tamamitsun<4><[U:1:128451456]><>" (file "dovahyt/dontthinkso.mp3")
+L 04/10/2016 - 10:18:45: [sounds.smx] "*FHR* ÐJ DovaYT #<3Selena!!<7><[U:1:138265817]><>" played sound on "【東方】 65 Wat<5><[U:1:64054173]><>" (file "dovahyt/dontthinkso.mp3")
+L 04/10/2016 - 10:18:45: [sounds.smx] "*FHR* ÐJ DovaYT #<3Selena!!<7><[U:1:138265817]><>" played sound on "*FHR* ÐJ DovaYT #<3Selena!!<7><[U:1:138265817]><>" (file "dovahyt/dontthinkso.mp3")
+L 04/10/2016 - 10:18:45: [sounds.smx] "*FHR* ÐJ DovaYT #<3Selena!!<7><[U:1:138265817]><>" played sound on "◄VG► Burundi the Tamamitsun<4><[U:1:128451456]><>" (file "dovahyt/dontthinkso.mp3")
+L 04/10/2016 - 10:18:45: [sounds.smx] "*FHR* ÐJ DovaYT #<3Selena!!<7><[U:1:138265817]><>" played sound on "【東方】 65 Wat<5><[U:1:64054173]><>" (file "dovahyt/dontthinkso.mp3")
+L 04/10/2016 - 10:18:45: [sounds.smx] "*FHR* ÐJ DovaYT #<3Selena!!<7><[U:1:138265817]><>" played sound on "*FHR* ÐJ DovaYT #<3Selena!!<7><[U:1:138265817]><>" (file "dovahyt/dontthinkso.mp3")
+L 04/10/2016 - 10:18:45: [sounds.smx] "*FHR* ÐJ DovaYT #<3Selena!!<7><[U:1:138265817]><>" played sound on "◄VG► Burundi the Tamamitsun<4><[U:1:128451456]><>" (file "dovahyt/dontthinkso.mp3")
+L 04/10/2016 - 10:18:45: [sounds.smx] "*FHR* ÐJ DovaYT #<3Selena!!<7><[U:1:138265817]><>" played sound on "【東方】 65 Wat<5><[U:1:64054173]><>" (file "dovahyt/dontthinkso.mp3")
+L 04/10/2016 - 10:25:52: [sounds.smx] "*FHR* ÐJ DovaYT #<3Selena!!<7><[U:1:138265817]><>" played sound on "*FHR* ÐJ DovaYT #<3Selena!!<7><[U:1:138265817]><>" (file "dovahyt/dontthinkso.mp3")
+L 04/10/2016 - 10:25:52: [sounds.smx] "*FHR* ÐJ DovaYT #<3Selena!!<7><[U:1:138265817]><>" played sound on "◄VG► Burundi the Tamamitsun<4><[U:1:128451456]><>" (file "dovahyt/dontthinkso.mp3")
+L 04/10/2016 - 10:25:52: [sounds.smx] "*FHR* ÐJ DovaYT #<3Selena!!<7><[U:1:138265817]><>" played sound on "【東方】 65 Wat<5><[U:1:64054173]><>" (file "dovahyt/dontthinkso.mp3")
+L 04/10/2016 - 10:28:13: [selfnoclip.smx] Enabled noclip
+L 04/10/2016 - 10:28:17: [selfnoclip.smx] Disabled noclip
+L 04/10/2016 - 10:28:22: [TF2 Set Class.smx] "*FHR* ÐJ DovaYT #<3Selena!!<7><[U:1:138265817]><>" set class of  "*FHR* ÐJ DovaYT #<3Selena!!<7><[U:1:138265817]><>" to (class Sniper)
+L 04/10/2016 - 10:30:33: [TF2 Set Class.smx] "*FHR* ÐJ DovaYT #<3Selena!!<7><[U:1:138265817]><>" set class of  "*FHR* ÐJ DovaYT #<3Selena!!<7><[U:1:138265817]><>" to (class Sniper)
+L 04/10/2016 - 10:31:48: [sounds.smx] "*FHR* ÐJ DovaYT #<3Selena!!<7><[U:1:138265817]><>" played sound on "*FHR* ÐJ DovaYT #<3Selena!!<7><[U:1:138265817]><>" (file "dovahyt/suprise.mp3")
+L 04/10/2016 - 10:31:48: [sounds.smx] "*FHR* ÐJ DovaYT #<3Selena!!<7><[U:1:138265817]><>" played sound on "◄VG► Burundi the Tamamitsun<4><[U:1:128451456]><>" (file "dovahyt/suprise.mp3")
+L 04/10/2016 - 10:31:48: [sounds.smx] "*FHR* ÐJ DovaYT #<3Selena!!<7><[U:1:138265817]><>" played sound on "【東方】 65 Wat<5><[U:1:64054173]><>" (file "dovahyt/suprise.mp3")
+L 04/10/2016 - 10:33:13: [TF2 Set Class.smx] "*FHR* ÐJ DovaYT #<3Selena!!<7><[U:1:138265817]><>" set class of  "*FHR* ÐJ DovaYT #<3Selena!!<7><[U:1:138265817]><>" to (class Engineer)
+L 04/10/2016 - 10:33:39: [selfnoclip.smx] Enabled noclip
+L 04/10/2016 - 10:33:58: [selfnoclip.smx] Disabled noclip
+L 04/10/2016 - 10:35:48: [selfnoclip.smx] Enabled noclip
+L 04/10/2016 - 10:35:53: [selfnoclip.smx] Disabled noclip
+L 04/10/2016 - 10:35:59: [selfnoclip.smx] Enabled noclip
+L 04/10/2016 - 10:36:00: [selfnoclip.smx] Disabled noclip
+L 04/10/2016 - 10:36:26: [selfnoclip.smx] Enabled noclip
+L 04/10/2016 - 10:36:37: [selfnoclip.smx] Disabled noclip
+L 04/10/2016 - 10:36:49: [selfnoclip.smx] Enabled noclip
+L 04/10/2016 - 10:36:49: [selfnoclip.smx] Disabled noclip
+L 04/10/2016 - 10:37:39: [selfnoclip.smx] Enabled noclip
+L 04/10/2016 - 10:37:53: [selfnoclip.smx] Disabled noclip
+L 04/10/2016 - 10:38:22: [selfnoclip.smx] Enabled noclip
+L 04/10/2016 - 10:38:31: [selfnoclip.smx] Disabled noclip
+L 04/10/2016 - 10:41:25: [selfnoclip.smx] Enabled noclip
+L 04/10/2016 - 10:41:31: [selfnoclip.smx] Disabled noclip
+L 04/10/2016 - 10:41:33: [selfnoclip.smx] Enabled noclip
+L 04/10/2016 - 10:41:34: [selfnoclip.smx] Disabled noclip
+L 04/10/2016 - 10:42:18: [selfnoclip.smx] Enabled noclip
+L 04/10/2016 - 10:42:28: [selfnoclip.smx] Disabled noclip
+L 04/10/2016 - 10:42:34: [sounds.smx] "*FHR* ÐJ DovaYT #<3Selena!!<7><[U:1:138265817]><>" played sound on "*FHR* ÐJ DovaYT #<3Selena!!<7><[U:1:138265817]><>" (file "dovahyt/suprise.mp3")
+L 04/10/2016 - 10:42:34: [sounds.smx] "*FHR* ÐJ DovaYT #<3Selena!!<7><[U:1:138265817]><>" played sound on "◄VG► Burundi the Tamamitsun<4><[U:1:128451456]><>" (file "dovahyt/suprise.mp3")
+L 04/10/2016 - 10:42:34: [sounds.smx] "*FHR* ÐJ DovaYT #<3Selena!!<7><[U:1:138265817]><>" played sound on "【東方】 65 Wat<5><[U:1:64054173]><>" (file "dovahyt/suprise.mp3")
+L 04/10/2016 - 10:43:49: [selfnoclip.smx] Enabled noclip
+L 04/10/2016 - 10:44:03: [selfnoclip.smx] Disabled noclip
+L 04/10/2016 - 10:44:31: [selfnoclip.smx] Enabled noclip
+L 04/10/2016 - 10:46:09: [selfnoclip.smx] Disabled noclip
+L 04/10/2016 - 10:46:12: [selfnoclip.smx] Enabled noclip
+L 04/10/2016 - 10:46:14: [selfnoclip.smx] Disabled noclip
+L 04/10/2016 - 10:49:27: [sounds.smx] "*FHR* ÐJ DovaYT #<3Selena!!<7><[U:1:138265817]><>" played sound on "*FHR* ÐJ DovaYT #<3Selena!!<7><[U:1:138265817]><>" (file "dovahyt/kobe.mp3")
+L 04/10/2016 - 10:49:27: [sounds.smx] "*FHR* ÐJ DovaYT #<3Selena!!<7><[U:1:138265817]><>" played sound on "◄VG► Burundi the Tamamitsun<4><[U:1:128451456]><>" (file "dovahyt/kobe.mp3")
+L 04/10/2016 - 10:49:27: [sounds.smx] "*FHR* ÐJ DovaYT #<3Selena!!<7><[U:1:138265817]><>" played sound on "【東方】 65 Wat<5><[U:1:64054173]><>" (file "dovahyt/kobe.mp3")
+L 04/10/2016 - 10:49:27: [sounds.smx] "*FHR* ÐJ DovaYT #<3Selena!!<7><[U:1:138265817]><>" played sound on "*FHR* ÐJ DovaYT #<3Selena!!<7><[U:1:138265817]><>" (file "dovahyt/kobe.mp3")
+L 04/10/2016 - 10:49:27: [sounds.smx] "*FHR* ÐJ DovaYT #<3Selena!!<7><[U:1:138265817]><>" played sound on "◄VG► Burundi the Tamamitsun<4><[U:1:128451456]><>" (file "dovahyt/kobe.mp3")
+L 04/10/2016 - 10:49:27: [sounds.smx] "*FHR* ÐJ DovaYT #<3Selena!!<7><[U:1:138265817]><>" played sound on "【東方】 65 Wat<5><[U:1:64054173]><>" (file "dovahyt/kobe.mp3")
+L 04/10/2016 - 10:49:28: [sounds.smx] "*FHR* ÐJ DovaYT #<3Selena!!<7><[U:1:138265817]><>" played sound on "*FHR* ÐJ DovaYT #<3Selena!!<7><[U:1:138265817]><>" (file "dovahyt/kobe.mp3")
+L 04/10/2016 - 10:49:28: [sounds.smx] "*FHR* ÐJ DovaYT #<3Selena!!<7><[U:1:138265817]><>" played sound on "◄VG► Burundi the Tamamitsun<4><[U:1:128451456]><>" (file "dovahyt/kobe.mp3")
+L 04/10/2016 - 10:49:28: [sounds.smx] "*FHR* ÐJ DovaYT #<3Selena!!<7><[U:1:138265817]><>" played sound on "【東方】 65 Wat<5><[U:1:64054173]><>" (file "dovahyt/kobe.mp3")
+L 04/10/2016 - 10:49:28: [sounds.smx] "*FHR* ÐJ DovaYT #<3Selena!!<7><[U:1:138265817]><>" played sound on "*FHR* ÐJ DovaYT #<3Selena!!<7><[U:1:138265817]><>" (file "dovahyt/kobe.mp3")
+L 04/10/2016 - 10:49:28: [sounds.smx] "*FHR* ÐJ DovaYT #<3Selena!!<7><[U:1:138265817]><>" played sound on "◄VG► Burundi the Tamamitsun<4><[U:1:128451456]><>" (file "dovahyt/kobe.mp3")
+L 04/10/2016 - 10:49:28: [sounds.smx] "*FHR* ÐJ DovaYT #<3Selena!!<7><[U:1:138265817]><>" played sound on "【東方】 65 Wat<5><[U:1:64054173]><>" (file "dovahyt/kobe.mp3")
+L 04/10/2016 - 10:49:28: [sounds.smx] "*FHR* ÐJ DovaYT #<3Selena!!<7><[U:1:138265817]><>" played sound on "*FHR* ÐJ DovaYT #<3Selena!!<7><[U:1:138265817]><>" (file "dovahyt/kobe.mp3")
+L 04/10/2016 - 10:49:28: [sounds.smx] "*FHR* ÐJ DovaYT #<3Selena!!<7><[U:1:138265817]><>" played sound on "◄VG► Burundi the Tamamitsun<4><[U:1:128451456]><>" (file "dovahyt/kobe.mp3")
+L 04/10/2016 - 10:49:28: [sounds.smx] "*FHR* ÐJ DovaYT #<3Selena!!<7><[U:1:138265817]><>" played sound on "【東方】 65 Wat<5><[U:1:64054173]><>" (file "dovahyt/kobe.mp3")
+L 04/10/2016 - 10:49:28: [sounds.smx] "*FHR* ÐJ DovaYT #<3Selena!!<7><[U:1:138265817]><>" played sound on "*FHR* ÐJ DovaYT #<3Selena!!<7><[U:1:138265817]><>" (file "dovahyt/kobe.mp3")
+L 04/10/2016 - 10:49:28: [sounds.smx] "*FHR* ÐJ DovaYT #<3Selena!!<7><[U:1:138265817]><>" played sound on "◄VG► Burundi the Tamamitsun<4><[U:1:128451456]><>" (file "dovahyt/kobe.mp3")
+L 04/10/2016 - 10:49:28: [sounds.smx] "*FHR* ÐJ DovaYT #<3Selena!!<7><[U:1:138265817]><>" played sound on "【東方】 65 Wat<5><[U:1:64054173]><>" (file "dovahyt/kobe.mp3")
+L 04/10/2016 - 10:49:28: [sounds.smx] "*FHR* ÐJ DovaYT #<3Selena!!<7><[U:1:138265817]><>" played sound on "*FHR* ÐJ DovaYT #<3Selena!!<7><[U:1:138265817]><>" (file "dovahyt/kobe.mp3")
+L 04/10/2016 - 10:49:28: [sounds.smx] "*FHR* ÐJ DovaYT #<3Selena!!<7><[U:1:138265817]><>" played sound on "◄VG► Burundi the Tamamitsun<4><[U:1:128451456]><>" (file "dovahyt/kobe.mp3")
+L 04/10/2016 - 10:49:28: [sounds.smx] "*FHR* ÐJ DovaYT #<3Selena!!<7><[U:1:138265817]><>" played sound on "【東方】 65 Wat<5><[U:1:64054173]><>" (file "dovahyt/kobe.mp3")
+L 04/10/2016 - 10:49:28: [sounds.smx] "*FHR* ÐJ DovaYT #<3Selena!!<7><[U:1:138265817]><>" played sound on "*FHR* ÐJ DovaYT #<3Selena!!<7><[U:1:138265817]><>" (file "dovahyt/kobe.mp3")
+L 04/10/2016 - 10:49:28: [sounds.smx] "*FHR* ÐJ DovaYT #<3Selena!!<7><[U:1:138265817]><>" played sound on "◄VG► Burundi the Tamamitsun<4><[U:1:128451456]><>" (file "dovahyt/kobe.mp3")
+L 04/10/2016 - 10:49:28: [sounds.smx] "*FHR* ÐJ DovaYT #<3Selena!!<7><[U:1:138265817]><>" played sound on "【東方】 65 Wat<5><[U:1:64054173]><>" (file "dovahyt/kobe.mp3")
+L 04/10/2016 - 10:52:46: [sounds.smx] "*FHR* ÐJ DovaYT #<3Selena!!<7><[U:1:138265817]><>" played sound on "*FHR* ÐJ DovaYT #<3Selena!!<7><[U:1:138265817]><>" (file "dovahyt/dontthinkso.mp3")
+L 04/10/2016 - 10:52:46: [sounds.smx] "*FHR* ÐJ DovaYT #<3Selena!!<7><[U:1:138265817]><>" played sound on "◄VG► Burundi the Tamamitsun<4><[U:1:128451456]><>" (file "dovahyt/dontthinkso.mp3")
+L 04/10/2016 - 10:52:46: [sounds.smx] "*FHR* ÐJ DovaYT #<3Selena!!<7><[U:1:138265817]><>" played sound on "【東方】 65 Wat<5><[U:1:64054173]><>" (file "dovahyt/dontthinkso.mp3")
+L 04/10/2016 - 10:53:00: [sounds.smx] "*FHR* ÐJ DovaYT #<3Selena!!<7><[U:1:138265817]><>" played sound on "*FHR* ÐJ DovaYT #<3Selena!!<7><[U:1:138265817]><>" (file "dovahyt/denied.mp3")
+L 04/10/2016 - 10:53:00: [sounds.smx] "*FHR* ÐJ DovaYT #<3Selena!!<7><[U:1:138265817]><>" played sound on "◄VG► Burundi the Tamamitsun<4><[U:1:128451456]><>" (file "dovahyt/denied.mp3")
+L 04/10/2016 - 10:53:00: [sounds.smx] "*FHR* ÐJ DovaYT #<3Selena!!<7><[U:1:138265817]><>" played sound on "【東方】 65 Wat<5><[U:1:64054173]><>" (file "dovahyt/denied.mp3")
+L 04/10/2016 - 10:53:00: [sounds.smx] "*FHR* ÐJ DovaYT #<3Selena!!<7><[U:1:138265817]><>" played sound on "*FHR* ÐJ DovaYT #<3Selena!!<7><[U:1:138265817]><>" (file "dovahyt/denied.mp3")
+L 04/10/2016 - 10:53:00: [sounds.smx] "*FHR* ÐJ DovaYT #<3Selena!!<7><[U:1:138265817]><>" played sound on "◄VG► Burundi the Tamamitsun<4><[U:1:128451456]><>" (file "dovahyt/denied.mp3")
+L 04/10/2016 - 10:53:00: [sounds.smx] "*FHR* ÐJ DovaYT #<3Selena!!<7><[U:1:138265817]><>" played sound on "【東方】 65 Wat<5><[U:1:64054173]><>" (file "dovahyt/denied.mp3")
+L 04/10/2016 - 10:53:05: [sounds.smx] "*FHR* ÐJ DovaYT #<3Selena!!<7><[U:1:138265817]><>" played sound on "*FHR* ÐJ DovaYT #<3Selena!!<7><[U:1:138265817]><>" (file "dovahyt/suprise.mp3")
+L 04/10/2016 - 10:53:05: [sounds.smx] "*FHR* ÐJ DovaYT #<3Selena!!<7><[U:1:138265817]><>" played sound on "◄VG► Burundi the Tamamitsun<4><[U:1:128451456]><>" (file "dovahyt/suprise.mp3")
+L 04/10/2016 - 10:53:05: [sounds.smx] "*FHR* ÐJ DovaYT #<3Selena!!<7><[U:1:138265817]><>" played sound on "【東方】 65 Wat<5><[U:1:64054173]><>" (file "dovahyt/suprise.mp3")
+L 04/10/2016 - 10:53:38: [sounds.smx] "*FHR* ÐJ DovaYT #<3Selena!!<7><[U:1:138265817]><>" played sound on "*FHR* ÐJ DovaYT #<3Selena!!<7><[U:1:138265817]><>" (file "dovahyt/denied.mp3")
+L 04/10/2016 - 10:53:38: [sounds.smx] "*FHR* ÐJ DovaYT #<3Selena!!<7><[U:1:138265817]><>" played sound on "◄VG► Burundi the Tamamitsun<4><[U:1:128451456]><>" (file "dovahyt/denied.mp3")
+L 04/10/2016 - 10:53:38: [sounds.smx] "*FHR* ÐJ DovaYT #<3Selena!!<7><[U:1:138265817]><>" played sound on "【東方】 65 Wat<5><[U:1:64054173]><>" (file "dovahyt/denied.mp3")
+L 04/10/2016 - 10:53:44: [sounds.smx] "*FHR* ÐJ DovaYT #<3Selena!!<7><[U:1:138265817]><>" played sound on "*FHR* ÐJ DovaYT #<3Selena!!<7><[U:1:138265817]><>" (file "dovahyt/dontthinkso.mp3")
+L 04/10/2016 - 10:53:44: [sounds.smx] "*FHR* ÐJ DovaYT #<3Selena!!<7><[U:1:138265817]><>" played sound on "◄VG► Burundi the Tamamitsun<4><[U:1:128451456]><>" (file "dovahyt/dontthinkso.mp3")
+L 04/10/2016 - 10:53:44: [sounds.smx] "*FHR* ÐJ DovaYT #<3Selena!!<7><[U:1:138265817]><>" played sound on "【東方】 65 Wat<5><[U:1:64054173]><>" (file "dovahyt/dontthinkso.mp3")
+L 04/10/2016 - 11:23:18: [selfnoclip.smx] Enabled noclip
+L 04/10/2016 - 11:23:20: [selfnoclip.smx] Disabled noclip
+L 04/10/2016 - 11:23:27: [selfnoclip.smx] Enabled noclip
+L 04/10/2016 - 11:23:29: [selfnoclip.smx] Disabled noclip
+L 04/10/2016 - 11:23:42: [selfnoclip.smx] Enabled noclip
+L 04/10/2016 - 11:23:43: [selfnoclip.smx] Disabled noclip
+L 04/10/2016 - 11:23:45: [selfnoclip.smx] Enabled noclip
+L 04/10/2016 - 11:23:46: [selfnoclip.smx] Disabled noclip
+L 04/10/2016 - 11:23:54: [selfnoclip.smx] Enabled noclip
+L 04/10/2016 - 11:23:55: [selfnoclip.smx] Disabled noclip
+L 04/10/2016 - 11:23:57: [selfnoclip.smx] Enabled noclip
+L 04/10/2016 - 11:23:58: [selfnoclip.smx] Disabled noclip
+L 04/10/2016 - 11:24:00: [selfnoclip.smx] Enabled noclip
+L 04/10/2016 - 11:24:22: [selfnoclip.smx] Disabled noclip
+L 04/10/2016 - 11:24:24: [selfnoclip.smx] Enabled noclip
+L 04/10/2016 - 11:24:25: [selfnoclip.smx] Disabled noclip
+L 04/10/2016 - 11:24:26: [selfnoclip.smx] Enabled noclip
+L 04/10/2016 - 11:24:27: [selfnoclip.smx] Disabled noclip
+L 04/10/2016 - 11:24:46: [selfnoclip.smx] Enabled noclip
+L 04/10/2016 - 11:24:49: [selfnoclip.smx] Disabled noclip
+L 04/10/2016 - 11:24:50: [selfnoclip.smx] Enabled noclip
+L 04/10/2016 - 11:24:52: [selfnoclip.smx] Disabled noclip
+L 04/10/2016 - 11:24:53: [selfnoclip.smx] Enabled noclip
+L 04/10/2016 - 11:25:05: [selfnoclip.smx] Disabled noclip
+L 04/10/2016 - 11:28:24: [sounds.smx] "*FHR* ÐJ DovaYT #<3Selena!!<7><[U:1:138265817]><>" played sound on "*FHR* ÐJ DovaYT #<3Selena!!<7><[U:1:138265817]><>" (file "dovahyt/kobe.mp3")
+L 04/10/2016 - 11:28:24: [sounds.smx] "*FHR* ÐJ DovaYT #<3Selena!!<7><[U:1:138265817]><>" played sound on "◄VG► Burundi the Tamamitsun<4><[U:1:128451456]><>" (file "dovahyt/kobe.mp3")
+L 04/10/2016 - 11:28:24: [sounds.smx] "*FHR* ÐJ DovaYT #<3Selena!!<7><[U:1:138265817]><>" played sound on "【東方】 65 Wat<5><[U:1:64054173]><>" (file "dovahyt/kobe.mp3")
+L 04/10/2016 - 11:29:19: [selfnoclip.smx] Enabled noclip
+L 04/10/2016 - 11:29:20: [selfnoclip.smx] Disabled noclip
+L 04/10/2016 - 11:29:43: [selfnoclip.smx] Enabled noclip
+L 04/10/2016 - 11:29:43: [selfnoclip.smx] Disabled noclip
+L 04/10/2016 - 11:29:54: [basecommands.smx] "*FHR* ÐJ DovaYT #<3Selena!!<7><[U:1:138265817]><>" changed cvar (cvar "tf_allow_player_use") (value "1")
+L 04/10/2016 - 12:42:35: Log file closed.

@@ -1,0 +1,1262 @@
+L 04/02/2016 - 00:00:04: SourceMod error session started
+L 04/02/2016 - 00:00:04: Info (map "ctf_2fort") (file "errors_20160402.log")
+L 04/02/2016 - 00:00:04: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 00:01:04: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 00:02:04: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 00:03:04: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 00:04:04: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 00:05:04: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 00:06:04: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 00:07:04: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 00:08:04: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 00:09:04: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 00:10:04: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 00:11:04: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 00:12:04: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 00:13:04: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 00:14:04: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 00:15:04: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 00:16:04: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 00:17:04: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 00:18:04: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 00:19:04: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 00:20:04: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 00:21:04: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 00:22:04: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 00:23:04: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 00:24:04: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 00:25:04: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 00:26:04: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 00:27:04: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 00:28:04: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 00:29:04: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 00:30:04: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 00:31:04: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 00:32:04: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 00:33:04: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 00:34:04: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 01:10:04: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 01:11:04: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 01:12:04: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 03:17:07: Error log file session closed.
+L 04/02/2016 - 03:17:07: SourceMod error session started
+L 04/02/2016 - 03:17:07: Info (map "dr_safety_first_final") (file "errors_20160402.log")
+L 04/02/2016 - 03:17:07: [sb_admcfg.smx] Error(s) detected parsing addons/sourcemod/configs/sourcebans/sb_admins.cfg
+L 04/02/2016 - 03:17:07: [sb_admcfg.smx]  (line 8) Unknown group "Owner"
+L 04/02/2016 - 03:17:07: [sb_admcfg.smx]  (line 29) Unknown group "Admin"
+L 04/02/2016 - 03:17:07: [sb_admcfg.smx]  (line 41) Unknown group "Owner"
+L 04/02/2016 - 03:17:07: [sb_admcfg.smx]  (line 53) Unknown group "Admin"
+L 04/02/2016 - 03:17:07: [sb_admcfg.smx]  (line 65) Unknown group "Owner"
+L 04/02/2016 - 03:17:07: [sb_admcfg.smx]  (line 71) Unknown group "Admin"
+L 04/02/2016 - 03:17:07: [sb_admcfg.smx]  (line 77) Unknown group "Owner"
+L 04/02/2016 - 03:17:12: [tf2_modelmanager.smx] [TF2] Model Manager: File "models/selena/fempyro.mdl" not found. Excluding from list.
+L 04/02/2016 - 03:17:12: [tf2_modelmanager.smx] [TF2] Model Manager: File "models\selena\scout.mdl" not found. Excluding from list.
+L 04/02/2016 - 03:17:12: [tf2_modelmanager.smx] [TF2] Model Manager: File "models/selena/dashscout.mdl" not found. Excluding from list.
+L 04/02/2016 - 03:17:12: [tf2_modelmanager.smx] [TF2] Model Manager: File "models/freak_fortress_2/hitler/hitler.mdl" not found. Excluding from list.
+L 04/02/2016 - 03:17:12: [tf2_modelmanager.smx] [TF2] Model Manager: File "models/freak_fortress_2/gordon/gordon_classic_crow.mdl" not found. Excluding from list.
+L 04/02/2016 - 03:17:12: [tf2_modelmanager.smx] [TF2] Model Manager: File "models/freak_fortress_2/shadow93/dmedic/d_soldier.mdl" not found. Excluding from list.
+L 04/02/2016 - 03:17:12: [nextmap.smx] FATAL: Cannot load map cycle. Nextmap not loaded.
+L 04/02/2016 - 03:17:12: [SM] Plugin encountered error 25: Call was aborted
+L 04/02/2016 - 03:17:12: [SM] Native "SetFailState" reported: Mapcycle Not Found
+L 04/02/2016 - 03:17:12: [SM] Displaying call stack trace for plugin "nextmap.smx":
+L 04/02/2016 - 03:17:12: [SM]   [0]  Line 139, D:\builds\build-sourcemod-msvc12\windows-1.7\build\plugins\nextmap.sp::FindAndSetNextMap()
+L 04/02/2016 - 03:17:12: [SM]   [1]  Line 109, D:\builds\build-sourcemod-msvc12\windows-1.7\build\plugins\nextmap.sp::OnConfigsExecuted()
+L 04/02/2016 - 03:17:12: [STEAMTOOLS] Server Gameplay Stats received with an unexpected eResult. (eResult = 20)
+L 04/02/2016 - 03:17:14: [SM] Plugin encountered error 15: Array index is out of bounds
+L 04/02/2016 - 03:17:14: [SM] Displaying call stack trace for plugin "deathrun.smx":
+L 04/02/2016 - 03:17:14: [SM]   [0]  Line 260, /home/forums/content/files/2/1/5/9/5/5/115483.attach::moveplayers2()
+L 04/02/2016 - 03:17:18: [SM] Native "GetEntPropVector" reported: Entity 140 (140) is invalid
+L 04/02/2016 - 03:17:18: [SM] Displaying call stack trace for plugin "SourceBot.smx":
+L 04/02/2016 - 03:17:18: [SM]   [0]  Line 2067, F:\TF\vg-trade\tf\addons\sourcemod\scripting\SourceBot.sp::LifeTick()
+L 04/02/2016 - 03:17:44: [SM] Plugin encountered error 15: Array index is out of bounds
+L 04/02/2016 - 03:17:44: [SM] Displaying call stack trace for plugin "deathrun.smx":
+L 04/02/2016 - 03:17:44: [SM]   [0]  Line 260, /home/forums/content/files/2/1/5/9/5/5/115483.attach::moveplayers2()
+L 04/02/2016 - 04:52:48: SourceMod error session started
+L 04/02/2016 - 04:52:48: Info (map "ctf_2fort") (file "errors_20160402.log")
+L 04/02/2016 - 04:52:48: [sb_admcfg.smx] Error(s) detected parsing addons/sourcemod/configs/sourcebans/sb_admins.cfg
+L 04/02/2016 - 04:52:48: [sb_admcfg.smx]  (line 8) Unknown group "Owner"
+L 04/02/2016 - 04:52:48: [sb_admcfg.smx]  (line 29) Unknown group "Admin"
+L 04/02/2016 - 04:52:48: [sb_admcfg.smx]  (line 41) Unknown group "Owner"
+L 04/02/2016 - 04:52:48: [sb_admcfg.smx]  (line 53) Unknown group "Admin"
+L 04/02/2016 - 04:52:48: [sb_admcfg.smx]  (line 65) Unknown group "Owner"
+L 04/02/2016 - 04:52:48: [sb_admcfg.smx]  (line 71) Unknown group "Admin"
+L 04/02/2016 - 04:52:48: [sb_admcfg.smx]  (line 77) Unknown group "Owner"
+L 04/02/2016 - 04:52:53: [STEAMTOOLS] Server Gameplay Stats received with an unexpected eResult. (eResult = 2)
+L 04/02/2016 - 04:52:53: [nextmap.smx] FATAL: Cannot load map cycle. Nextmap not loaded.
+L 04/02/2016 - 04:52:53: [SM] Plugin encountered error 25: Call was aborted
+L 04/02/2016 - 04:52:53: [SM] Native "SetFailState" reported: Mapcycle Not Found
+L 04/02/2016 - 04:52:53: [SM] Displaying call stack trace for plugin "nextmap.smx":
+L 04/02/2016 - 04:52:53: [SM]   [0]  Line 139, D:\builds\build-sourcemod-msvc12\windows-1.7\build\plugins\nextmap.sp::FindAndSetNextMap()
+L 04/02/2016 - 04:52:53: [SM]   [1]  Line 109, D:\builds\build-sourcemod-msvc12\windows-1.7\build\plugins\nextmap.sp::OnConfigsExecuted()
+L 04/02/2016 - 04:52:53: [tf2_modelmanager.smx] [TF2] Model Manager: File "models/selena/fempyro.mdl" not found. Excluding from list.
+L 04/02/2016 - 04:52:53: [tf2_modelmanager.smx] [TF2] Model Manager: File "models\selena\scout.mdl" not found. Excluding from list.
+L 04/02/2016 - 04:52:53: [tf2_modelmanager.smx] [TF2] Model Manager: File "models/selena/dashscout.mdl" not found. Excluding from list.
+L 04/02/2016 - 04:52:53: [tf2_modelmanager.smx] [TF2] Model Manager: File "models/freak_fortress_2/hitler/hitler.mdl" not found. Excluding from list.
+L 04/02/2016 - 04:52:53: [tf2_modelmanager.smx] [TF2] Model Manager: File "models/freak_fortress_2/gordon/gordon_classic_crow.mdl" not found. Excluding from list.
+L 04/02/2016 - 04:52:53: [tf2_modelmanager.smx] [TF2] Model Manager: File "models/freak_fortress_2/shadow93/dmedic/d_soldier.mdl" not found. Excluding from list.
+L 04/02/2016 - 04:52:53: [serverhop.smx] Server 5.9.25.6:27042 is down: socket error 6 (errno 111)
+L 04/02/2016 - 04:52:59: [SM] Native "GetEntPropVector" reported: Entity 45 (45) is invalid
+L 04/02/2016 - 04:52:59: [SM] Displaying call stack trace for plugin "SourceBot.smx":
+L 04/02/2016 - 04:52:59: [SM]   [0]  Line 2067, F:\TF\vg-trade\tf\addons\sourcemod\scripting\SourceBot.sp::LifeTick()
+L 04/02/2016 - 04:56:03: [serverhop.smx] Server 5.9.25.6:27031 is down: no timely reply received
+L 04/02/2016 - 04:57:03: [serverhop.smx] Server 5.9.25.6:27031 is down: no timely reply received
+L 04/02/2016 - 04:58:03: [serverhop.smx] Server 5.9.25.6:27031 is down: no timely reply received
+L 04/02/2016 - 04:59:03: [serverhop.smx] Server 5.9.25.6:27031 is down: no timely reply received
+L 04/02/2016 - 04:59:53: [serverhop.smx] Server 5.9.25.6:27031 is down: socket error 6 (errno 111)
+L 04/02/2016 - 05:07:15: Error log file session closed.
+L 04/02/2016 - 05:07:15: SourceMod error session started
+L 04/02/2016 - 05:07:15: Info (map "dr_safety_first_final") (file "errors_20160402.log")
+L 04/02/2016 - 05:07:15: [sb_admcfg.smx] Error(s) detected parsing addons/sourcemod/configs/sourcebans/sb_admins.cfg
+L 04/02/2016 - 05:07:15: [sb_admcfg.smx]  (line 8) Unknown group "Owner"
+L 04/02/2016 - 05:07:15: [sb_admcfg.smx]  (line 29) Unknown group "Admin"
+L 04/02/2016 - 05:07:15: [sb_admcfg.smx]  (line 41) Unknown group "Owner"
+L 04/02/2016 - 05:07:15: [sb_admcfg.smx]  (line 53) Unknown group "Admin"
+L 04/02/2016 - 05:07:15: [sb_admcfg.smx]  (line 65) Unknown group "Owner"
+L 04/02/2016 - 05:07:15: [sb_admcfg.smx]  (line 71) Unknown group "Admin"
+L 04/02/2016 - 05:07:15: [sb_admcfg.smx]  (line 77) Unknown group "Owner"
+L 04/02/2016 - 05:07:20: [tf2_modelmanager.smx] [TF2] Model Manager: File "models/selena/fempyro.mdl" not found. Excluding from list.
+L 04/02/2016 - 05:07:20: [tf2_modelmanager.smx] [TF2] Model Manager: File "models\selena\scout.mdl" not found. Excluding from list.
+L 04/02/2016 - 05:07:20: [tf2_modelmanager.smx] [TF2] Model Manager: File "models/selena/dashscout.mdl" not found. Excluding from list.
+L 04/02/2016 - 05:07:20: [tf2_modelmanager.smx] [TF2] Model Manager: File "models/freak_fortress_2/hitler/hitler.mdl" not found. Excluding from list.
+L 04/02/2016 - 05:07:20: [tf2_modelmanager.smx] [TF2] Model Manager: File "models/freak_fortress_2/gordon/gordon_classic_crow.mdl" not found. Excluding from list.
+L 04/02/2016 - 05:07:20: [tf2_modelmanager.smx] [TF2] Model Manager: File "models/freak_fortress_2/shadow93/dmedic/d_soldier.mdl" not found. Excluding from list.
+L 04/02/2016 - 05:07:20: [nextmap.smx] FATAL: Cannot load map cycle. Nextmap not loaded.
+L 04/02/2016 - 05:07:20: [SM] Plugin encountered error 25: Call was aborted
+L 04/02/2016 - 05:07:20: [SM] Native "SetFailState" reported: Mapcycle Not Found
+L 04/02/2016 - 05:07:20: [SM] Displaying call stack trace for plugin "nextmap.smx":
+L 04/02/2016 - 05:07:20: [SM]   [0]  Line 139, D:\builds\build-sourcemod-msvc12\windows-1.7\build\plugins\nextmap.sp::FindAndSetNextMap()
+L 04/02/2016 - 05:07:20: [SM]   [1]  Line 109, D:\builds\build-sourcemod-msvc12\windows-1.7\build\plugins\nextmap.sp::OnConfigsExecuted()
+L 04/02/2016 - 05:07:20: [STEAMTOOLS] Server Gameplay Stats received with an unexpected eResult. (eResult = 20)
+L 04/02/2016 - 05:07:26: [SM] Native "GetEntPropVector" reported: Entity 1514 (1514) is invalid
+L 04/02/2016 - 05:07:26: [SM] Displaying call stack trace for plugin "SourceBot.smx":
+L 04/02/2016 - 05:07:26: [SM]   [0]  Line 2067, F:\TF\vg-trade\tf\addons\sourcemod\scripting\SourceBot.sp::LifeTick()
+L 04/02/2016 - 05:32:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 06:29:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 06:30:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 06:31:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 06:32:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 06:33:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 06:34:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 06:35:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 06:36:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 06:37:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 06:38:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 06:39:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 06:40:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 06:41:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 06:42:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 06:43:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 06:44:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 06:45:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 06:46:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 06:47:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 06:48:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 06:49:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 06:50:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 06:51:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 06:52:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 06:53:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 06:54:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 06:55:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 06:56:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 06:57:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 06:58:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 06:59:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 07:00:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 07:01:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 07:02:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 07:03:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 07:04:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 07:05:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 07:06:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 07:07:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 07:08:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 07:09:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 07:10:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 07:11:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 07:12:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 07:13:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 07:14:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 07:15:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 07:16:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 07:17:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 07:18:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 07:19:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 07:20:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 07:21:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 07:22:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 07:23:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 07:24:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 07:25:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 07:26:00: [SM] Plugin encountered error 25: Call was aborted
+L 04/02/2016 - 07:26:00: [SM] Native "SetFailState" reported: QueryErr: Lost connection to MySQL server during query
+L 04/02/2016 - 07:26:00: [SM] Displaying call stack trace for plugin "calladmin_mysql.smx":
+L 04/02/2016 - 07:26:00: [SM]   [0]  Line 440, C:\Users\David\Desktop\gameserver\calladmin_mysql.sp::SQLT_ErrorCheckCallback()
+L 04/02/2016 - 07:26:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 07:27:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 07:28:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 07:29:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 07:30:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 07:31:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 07:32:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 07:33:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 07:34:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 07:35:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 07:36:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 07:37:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 07:38:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 07:39:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 07:40:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 07:41:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 07:42:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 07:43:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 07:44:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 07:45:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 07:46:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 07:47:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 07:48:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 07:49:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 07:50:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 07:51:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 07:52:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 07:53:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 07:54:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 07:55:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 07:56:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 07:57:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 07:58:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 07:59:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 08:00:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 08:01:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 08:02:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 08:03:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 08:04:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 08:05:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 08:06:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 08:07:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 08:08:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 08:09:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 08:10:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 08:11:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 08:12:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 08:13:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 08:14:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 08:15:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 08:16:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 08:17:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 08:18:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 08:19:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 08:20:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 08:21:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 08:22:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 08:23:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 08:24:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 08:25:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 08:26:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 08:27:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 08:28:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 08:29:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 08:30:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 08:31:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 08:32:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 08:33:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 08:34:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 08:35:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 08:36:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 08:37:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 08:38:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 08:39:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 08:40:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 08:41:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 08:42:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 08:43:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 08:44:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 08:45:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 08:46:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 08:47:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 08:48:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 08:49:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 08:50:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 08:51:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 08:52:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 08:53:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 08:54:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 08:55:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 08:56:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 08:57:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 08:58:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 08:59:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 09:00:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 09:01:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 09:02:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 09:03:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 09:04:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 09:05:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 09:06:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 09:07:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 09:08:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 09:09:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 09:10:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 09:11:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 09:12:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 09:13:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 09:14:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 09:15:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 09:16:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 09:17:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 09:18:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 09:19:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 09:20:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 09:21:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 09:22:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 09:23:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 09:24:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 09:25:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 09:26:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 09:27:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 09:28:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 09:29:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 09:30:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 09:31:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 09:32:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 09:33:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 09:34:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 09:35:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 09:36:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 09:37:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 09:38:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 09:39:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 09:40:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 09:41:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 09:42:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 09:43:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 09:44:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 09:45:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 09:46:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 09:47:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 09:48:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 09:49:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 09:50:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 09:51:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 09:52:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 09:53:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 09:54:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 09:55:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 09:56:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 09:57:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 09:58:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 09:59:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 10:00:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 10:01:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 10:02:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 10:03:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 10:04:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 10:05:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 10:06:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 10:07:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 10:08:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 10:09:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 10:10:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 10:11:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 10:12:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 10:13:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 10:14:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 10:15:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 10:16:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 10:17:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 10:18:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 10:19:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 10:20:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 10:21:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 10:22:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 10:23:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 10:24:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 10:25:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 10:26:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 10:27:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 10:28:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 10:29:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 10:30:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 10:31:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 10:32:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 10:33:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 10:34:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 10:35:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 10:36:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 10:37:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 10:38:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 10:39:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 10:40:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 10:41:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 10:42:00: [SM] Plugin encountered error 15: Array index is out of bounds
+L 04/02/2016 - 10:42:00: [SM] Displaying call stack trace for plugin "deathrun.smx":
+L 04/02/2016 - 10:42:00: [SM]   [0]  Line 260, /home/forums/content/files/2/1/5/9/5/5/115483.attach::moveplayers2()
+L 04/02/2016 - 10:42:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 10:42:31: [SM] Plugin encountered error 15: Array index is out of bounds
+L 04/02/2016 - 10:42:31: [SM] Displaying call stack trace for plugin "deathrun.smx":
+L 04/02/2016 - 10:42:31: [SM]   [0]  Line 260, /home/forums/content/files/2/1/5/9/5/5/115483.attach::moveplayers2()
+L 04/02/2016 - 10:43:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 10:44:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 10:45:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 10:46:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 10:47:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 10:48:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 10:49:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 10:50:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 10:51:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 10:52:10: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 10:53:11: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 10:54:11: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 10:55:11: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 10:56:11: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 10:57:11: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 10:58:11: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 10:59:11: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 11:00:11: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 11:01:11: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 11:02:11: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 11:03:11: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 11:04:11: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 11:05:11: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 11:06:11: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 11:07:11: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 11:08:11: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 11:09:11: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 11:10:11: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 11:11:11: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 11:12:11: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 11:13:11: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 11:14:11: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 11:15:11: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 11:16:11: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 11:17:11: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 11:18:11: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 11:19:11: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 11:20:11: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 11:21:11: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 11:22:11: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 11:23:11: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 11:24:11: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 11:25:11: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 11:26:11: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 11:27:11: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 11:28:11: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 11:29:11: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 11:30:11: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 11:31:11: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 11:32:11: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 11:33:11: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 11:34:11: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 11:35:11: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 11:36:11: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 11:37:11: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 11:38:11: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 11:39:11: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 11:40:11: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 11:41:11: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 11:42:11: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 11:43:11: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 11:44:11: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 11:45:11: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 11:46:11: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 11:47:11: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 11:48:11: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 11:49:11: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 11:50:11: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 11:51:11: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 11:52:11: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 11:53:11: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 11:54:11: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 11:55:11: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 11:56:11: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 11:57:11: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 11:58:11: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 11:59:11: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 12:00:11: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 12:01:11: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 12:02:11: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 12:03:11: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 12:04:11: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 12:05:11: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 12:06:11: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 12:07:11: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 12:08:11: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 12:09:11: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 12:10:11: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 12:11:11: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 12:12:11: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 12:13:11: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 12:14:11: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 12:15:11: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 12:16:11: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 12:17:11: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 12:18:11: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 12:19:11: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 12:20:11: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 12:21:11: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 12:22:11: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 12:23:11: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 12:24:11: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 12:25:11: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 12:26:11: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 12:27:11: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 12:28:11: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 12:29:11: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 12:30:11: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 12:31:11: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 12:32:11: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 12:33:11: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 12:34:11: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 12:35:11: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 12:36:11: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 12:37:11: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 12:38:11: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 12:39:11: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 12:40:11: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 12:41:11: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 12:42:11: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 12:43:11: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 12:44:11: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 12:45:11: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 12:46:11: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 12:47:11: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 12:48:11: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 12:49:11: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 12:50:11: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 12:51:11: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 12:52:11: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 12:53:11: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 12:54:11: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 12:55:11: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 12:56:11: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 12:57:11: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 12:58:11: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 12:59:11: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 13:00:11: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 13:01:11: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 13:02:11: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 13:03:11: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 13:04:11: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 13:05:11: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 13:06:11: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 13:07:11: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 13:08:11: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 13:09:11: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 13:10:11: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 13:11:11: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 13:12:11: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 13:13:11: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 13:14:11: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 13:15:11: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 13:16:11: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 13:17:11: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 13:18:11: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 13:19:11: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 13:20:11: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 13:21:11: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 13:22:11: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 13:23:11: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 13:24:11: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 13:25:11: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 13:26:11: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 13:27:11: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 13:28:11: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 13:29:11: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 13:30:11: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 13:31:11: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 13:32:11: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 13:33:11: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 13:34:11: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 13:35:11: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 13:36:11: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 13:37:11: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 13:38:11: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 13:39:11: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 13:40:11: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 13:41:11: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 13:42:11: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 13:43:11: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 13:44:11: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 13:45:11: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 13:46:11: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 13:47:11: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 13:48:11: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 13:49:11: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 13:50:11: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 13:51:11: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 13:52:11: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 13:53:11: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 13:54:11: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 13:55:11: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 13:56:12: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 13:57:12: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 13:58:12: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 13:59:12: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 14:00:12: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 14:01:12: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 14:02:12: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 14:03:12: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 14:04:12: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 14:05:12: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 14:06:12: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 14:07:12: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 14:08:12: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 14:09:12: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 14:10:12: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 14:11:12: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 14:12:12: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 14:13:12: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 14:14:12: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 14:15:12: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 14:16:12: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 14:17:12: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 14:18:12: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 14:19:12: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 14:20:12: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 14:21:12: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 14:22:12: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 14:23:12: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 14:24:12: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 14:25:12: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 14:26:12: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 14:27:12: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 14:28:12: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 14:29:12: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 14:30:12: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 14:31:12: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 14:32:12: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 14:33:12: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 14:34:12: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 14:35:12: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 14:36:12: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 14:37:12: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 14:38:12: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 14:39:12: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 14:40:12: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 14:41:12: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 14:42:12: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 14:43:12: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 14:44:12: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 14:45:13: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 14:46:13: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 14:47:13: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 14:48:13: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 14:49:13: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 14:50:13: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 14:51:13: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 14:52:13: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 14:53:13: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 14:54:13: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 14:55:13: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 14:56:13: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 14:57:13: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 14:58:13: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 14:59:13: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 15:00:13: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 15:01:13: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 15:02:13: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 15:03:13: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 15:04:13: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 15:05:13: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 15:06:13: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 15:07:13: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 15:08:13: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 15:09:13: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 15:10:13: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 15:11:13: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 15:12:13: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 15:13:13: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 15:14:13: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 15:15:13: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 15:16:13: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 15:17:13: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 15:18:13: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 15:19:13: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 15:20:13: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 15:21:13: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 15:22:13: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 15:23:13: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 15:24:13: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 15:25:13: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 15:26:13: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 15:27:13: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 15:28:13: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 15:29:13: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 15:30:13: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 15:31:13: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 15:32:13: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 15:33:13: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 15:34:13: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 15:35:13: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 15:36:13: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 15:37:13: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 15:38:13: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 15:39:13: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 15:40:13: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 15:41:13: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 15:42:13: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 15:43:13: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 15:44:13: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 15:45:13: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 15:46:13: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 15:47:13: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 15:48:13: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 15:49:13: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 15:50:13: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 15:51:13: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 15:52:13: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 15:53:13: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 15:54:13: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 15:55:14: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 15:56:14: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 15:57:14: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 15:58:14: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 15:59:14: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 16:00:14: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 16:01:14: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 16:01:57: [SM] Plugin encountered error 15: Array index is out of bounds
+L 04/02/2016 - 16:01:57: [SM] Displaying call stack trace for plugin "deathrun.smx":
+L 04/02/2016 - 16:01:57: [SM]   [0]  Line 260, /home/forums/content/files/2/1/5/9/5/5/115483.attach::moveplayers2()
+L 04/02/2016 - 16:02:14: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 16:03:14: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 16:04:14: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 16:05:14: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 16:06:14: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 16:07:14: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 16:08:14: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 16:09:14: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 16:10:14: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 16:11:14: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 16:12:14: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 16:13:14: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 16:14:14: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 16:15:14: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 16:16:14: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 16:17:14: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 16:18:14: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 16:19:14: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 16:20:14: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 16:21:14: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 16:22:14: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 16:23:14: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 16:24:14: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 16:25:14: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 16:26:14: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 16:27:14: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 16:28:14: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 16:29:14: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 16:30:14: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 16:31:14: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 16:32:14: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 16:33:14: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 16:34:14: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 16:35:14: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 16:36:14: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 16:37:14: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 16:38:14: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 16:39:14: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 16:40:14: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 16:41:14: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 16:42:14: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 16:43:14: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 16:44:14: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 16:45:14: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 16:46:14: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 16:47:14: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 16:48:14: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 16:49:14: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 16:50:14: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 16:51:14: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 16:52:14: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 16:53:14: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 16:54:14: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 16:55:14: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 16:56:14: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 16:57:14: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 16:58:14: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 16:59:14: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 17:00:14: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 17:01:14: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 17:02:14: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 17:03:14: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 17:04:14: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 17:05:14: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 17:06:14: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 17:07:14: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 17:08:14: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 17:09:14: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 17:10:14: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 17:11:14: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 17:12:14: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 17:13:14: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 17:14:14: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 17:15:14: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 17:16:14: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 17:17:14: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 17:18:14: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 17:19:14: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 17:20:14: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 17:21:14: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 17:22:14: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 17:23:14: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 17:24:14: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 17:25:14: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 17:26:14: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 17:27:14: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 17:28:14: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 17:29:14: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 17:30:14: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 17:31:14: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 17:32:14: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 17:33:14: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 17:34:14: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 17:35:14: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 17:36:14: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 17:37:14: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 17:38:14: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 17:39:14: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 17:40:14: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 17:41:14: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 17:42:14: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 17:43:14: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 17:44:14: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 17:45:14: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 17:46:14: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 17:47:14: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 17:48:14: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 17:49:14: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 17:50:14: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 17:51:14: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 17:52:14: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 17:53:14: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 17:54:14: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 17:55:20: SourceMod error session started
+L 04/02/2016 - 17:55:20: Info (map "ctf_2fort") (file "errors_20160402.log")
+L 04/02/2016 - 17:55:20: [SM] Plugin encountered error 25: Call was aborted
+L 04/02/2016 - 17:55:20: [SM] Native "SetFailState" reported: Database failure: could not find database conf  sourcebans
+L 04/02/2016 - 17:55:20: [SM] Displaying call stack trace for plugin "sourcecomms.smx":
+L 04/02/2016 - 17:55:20: [SM]   [0]  Line 221, sourcecomms.sp::OnPluginStart()
+L 04/02/2016 - 17:55:20: [SM] Plugin encountered error 25: Call was aborted
+L 04/02/2016 - 17:55:20: [SM] Native "SetFailState" reported: Database failure: Could not find Database conf "sourcebans"
+L 04/02/2016 - 17:55:20: [SM] Displaying call stack trace for plugin "sourcebans.smx":
+L 04/02/2016 - 17:55:20: [SM]   [0]  Line 209, sourcebans.sp::OnPluginStart()
+L 04/02/2016 - 17:55:21: [SM] Plugin encountered error 25: Call was aborted
+L 04/02/2016 - 17:55:21: [SM] Native "SetFailState" reported: Failed to connect to SourceBans DB, Could not find database conf "sourcebans"
+L 04/02/2016 - 17:55:21: [SM] Displaying call stack trace for plugin "sbchecker.smx":
+L 04/02/2016 - 17:55:21: [SM]   [0]  Line 70, sbchecker.sp::OnDatabaseConnected()
+L 04/02/2016 - 17:55:21: [SourceSleuth.smx] SourceSleuth: Database connection error: Could not find database conf "sourcebans"
+L 04/02/2016 - 17:55:21: [sb_admcfg.smx] Error(s) detected parsing addons/sourcemod/configs/sourcebans/sb_admins.cfg
+L 04/02/2016 - 17:55:21: [sb_admcfg.smx]  (line 8) Unknown group "Owner"
+L 04/02/2016 - 17:55:21: [sb_admcfg.smx]  (line 29) Unknown group "Admin"
+L 04/02/2016 - 17:55:21: [sb_admcfg.smx]  (line 41) Unknown group "Owner"
+L 04/02/2016 - 17:55:21: [sb_admcfg.smx]  (line 53) Unknown group "Admin"
+L 04/02/2016 - 17:55:21: [sb_admcfg.smx]  (line 65) Unknown group "Owner"
+L 04/02/2016 - 17:55:21: [sb_admcfg.smx]  (line 71) Unknown group "Admin"
+L 04/02/2016 - 17:55:21: [sb_admcfg.smx]  (line 77) Unknown group "Owner"
+L 04/02/2016 - 17:55:31: [nextmap.smx] FATAL: Cannot load map cycle. Nextmap not loaded.
+L 04/02/2016 - 17:55:31: [SM] Plugin encountered error 25: Call was aborted
+L 04/02/2016 - 17:55:31: [SM] Native "SetFailState" reported: Mapcycle Not Found
+L 04/02/2016 - 17:55:31: [SM] Displaying call stack trace for plugin "nextmap.smx":
+L 04/02/2016 - 17:55:31: [SM]   [0]  Line 139, /home/builds/sourcemod/linux-1.7/build/plugins/nextmap.sp::FindAndSetNextMap()
+L 04/02/2016 - 17:55:31: [SM]   [1]  Line 109, /home/builds/sourcemod/linux-1.7/build/plugins/nextmap.sp::OnConfigsExecuted()
+L 04/02/2016 - 17:55:31: [tf2_modelmanager.smx] [TF2] Model Manager: File "models/selena/fempyro.mdl" not found. Excluding from list.
+L 04/02/2016 - 17:55:31: [tf2_modelmanager.smx] [TF2] Model Manager: File "models\selena\scout.mdl" not found. Excluding from list.
+L 04/02/2016 - 17:55:31: [tf2_modelmanager.smx] [TF2] Model Manager: File "models/selena/dashscout.mdl" not found. Excluding from list.
+L 04/02/2016 - 17:55:31: [tf2_modelmanager.smx] [TF2] Model Manager: File "models/freak_fortress_2/hitler/hitler.mdl" not found. Excluding from list.
+L 04/02/2016 - 17:55:31: [tf2_modelmanager.smx] [TF2] Model Manager: File "models/freak_fortress_2/gordon/gordon_classic_crow.mdl" not found. Excluding from list.
+L 04/02/2016 - 17:55:31: [tf2_modelmanager.smx] [TF2] Model Manager: File "models/freak_fortress_2/shadow93/dmedic/d_soldier.mdl" not found. Excluding from list.
+L 04/02/2016 - 17:55:31: [SM] Plugin encountered error 25: Call was aborted
+L 04/02/2016 - 17:55:31: [SM] Native "SetFailState" reported: ConErr: [2002]: Can't connect to local MySQL server through socket '/tmp/mysql.sock' (2)
+L 04/02/2016 - 17:55:31: [SM] Displaying call stack trace for plugin "calladmin_mysql.smx":
+L 04/02/2016 - 17:55:31: [SM]   [0]  Line 362, C:\Users\David\Desktop\gameserver\calladmin_mysql.sp::SQLT_ConnectCallback()
+L 04/02/2016 - 17:55:31: [SM] Plugin encountered error 25: Call was aborted
+L 04/02/2016 - 17:55:31: [SM] Native "SetFailState" reported: Database failure: [2002]: Can't connect to local MySQL server through socket '/tmp/mysql.sock' (2)
+L 04/02/2016 - 17:55:31: [SM] Displaying call stack trace for plugin "chatlogex.smx":
+L 04/02/2016 - 17:55:31: [SM]   [0]  Line 746, /home/forums/content/files/5/2/0/8/2/47687.attach::sql_Connect()
+L 04/02/2016 - 17:55:37: [SM] Native "GetEntPropVector" reported: Entity 45 (45) is invalid
+L 04/02/2016 - 17:55:37: [SM] Displaying call stack trace for plugin "SourceBot.smx":
+L 04/02/2016 - 17:55:37: [SM]   [0]  Line 2067, F:\TF\vg-trade\tf\addons\sourcemod\scripting\SourceBot.sp::LifeTick()
+L 04/02/2016 - 17:55:41: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 17:56:41: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 17:57:41: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 17:58:41: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 17:59:41: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 18:00:41: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 18:01:41: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 18:02:31: [serverhop.smx] Server 5.9.25.6:27031 is down: socket error 6 (errno 111)
+L 04/02/2016 - 18:02:41: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 18:03:41: [serverhop.smx] Server 5.9.25.6:27031 is down: no timely reply received
+L 04/02/2016 - 18:03:41: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 18:04:41: [serverhop.smx] Server 5.9.25.6:27031 is down: no timely reply received
+L 04/02/2016 - 18:04:41: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 18:05:31: [serverhop.smx] Server 5.9.25.6:27031 is down: socket error 6 (errno 111)
+L 04/02/2016 - 18:05:41: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 18:06:41: [serverhop.smx] Server 5.9.25.6:27031 is down: no timely reply received
+L 04/02/2016 - 18:06:41: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 18:07:31: [serverhop.smx] Server 5.9.25.6:27031 is down: socket error 6 (errno 111)
+L 04/02/2016 - 18:07:41: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 18:08:30: SourceMod error session started
+L 04/02/2016 - 18:08:30: Info (map "tf_tornadohighway_final2") (file "errors_20160402.log")
+L 04/02/2016 - 18:08:30: [SM] Plugin encountered error 25: Call was aborted
+L 04/02/2016 - 18:08:30: [SM] Native "SetFailState" reported: Database failure: could not find database conf  sourcebans
+L 04/02/2016 - 18:08:30: [SM] Displaying call stack trace for plugin "sourcecomms.smx":
+L 04/02/2016 - 18:08:30: [SM]   [0]  Line 221, sourcecomms.sp::OnPluginStart()
+L 04/02/2016 - 18:08:30: [SM] Plugin encountered error 25: Call was aborted
+L 04/02/2016 - 18:08:30: [SM] Native "SetFailState" reported: Database failure: Could not find Database conf "sourcebans"
+L 04/02/2016 - 18:08:30: [SM] Displaying call stack trace for plugin "sourcebans.smx":
+L 04/02/2016 - 18:08:30: [SM]   [0]  Line 209, sourcebans.sp::OnPluginStart()
+L 04/02/2016 - 18:08:30: [SM] Plugin encountered error 25: Call was aborted
+L 04/02/2016 - 18:08:30: [SM] Native "SetFailState" reported: Failed to connect to SourceBans DB, Could not find database conf "sourcebans"
+L 04/02/2016 - 18:08:30: [SM] Displaying call stack trace for plugin "sbchecker.smx":
+L 04/02/2016 - 18:08:30: [SM]   [0]  Line 70, sbchecker.sp::OnDatabaseConnected()
+L 04/02/2016 - 18:08:30: [SourceSleuth.smx] SourceSleuth: Database connection error: Could not find database conf "sourcebans"
+L 04/02/2016 - 18:08:30: [sb_admcfg.smx] Error(s) detected parsing addons/sourcemod/configs/sourcebans/sb_admins.cfg
+L 04/02/2016 - 18:08:30: [sb_admcfg.smx]  (line 8) Unknown group "Owner"
+L 04/02/2016 - 18:08:30: [sb_admcfg.smx]  (line 29) Unknown group "Admin"
+L 04/02/2016 - 18:08:30: [sb_admcfg.smx]  (line 41) Unknown group "Owner"
+L 04/02/2016 - 18:08:30: [sb_admcfg.smx]  (line 53) Unknown group "Admin"
+L 04/02/2016 - 18:08:30: [sb_admcfg.smx]  (line 65) Unknown group "Owner"
+L 04/02/2016 - 18:08:30: [sb_admcfg.smx]  (line 71) Unknown group "Admin"
+L 04/02/2016 - 18:08:30: [sb_admcfg.smx]  (line 77) Unknown group "Owner"
+L 04/02/2016 - 18:08:42: [nextmap.smx] FATAL: Cannot load map cycle. Nextmap not loaded.
+L 04/02/2016 - 18:08:42: [SM] Plugin encountered error 25: Call was aborted
+L 04/02/2016 - 18:08:42: [SM] Native "SetFailState" reported: Mapcycle Not Found
+L 04/02/2016 - 18:08:42: [SM] Displaying call stack trace for plugin "nextmap.smx":
+L 04/02/2016 - 18:08:42: [SM]   [0]  Line 139, /home/builds/sourcemod/linux-1.7/build/plugins/nextmap.sp::FindAndSetNextMap()
+L 04/02/2016 - 18:08:42: [SM]   [1]  Line 109, /home/builds/sourcemod/linux-1.7/build/plugins/nextmap.sp::OnConfigsExecuted()
+L 04/02/2016 - 18:08:42: [tf2_modelmanager.smx] [TF2] Model Manager: File "models/selena/fempyro.mdl" not found. Excluding from list.
+L 04/02/2016 - 18:08:42: [tf2_modelmanager.smx] [TF2] Model Manager: File "models\selena\scout.mdl" not found. Excluding from list.
+L 04/02/2016 - 18:08:42: [tf2_modelmanager.smx] [TF2] Model Manager: File "models/selena/dashscout.mdl" not found. Excluding from list.
+L 04/02/2016 - 18:08:42: [tf2_modelmanager.smx] [TF2] Model Manager: File "models/freak_fortress_2/hitler/hitler.mdl" not found. Excluding from list.
+L 04/02/2016 - 18:08:42: [tf2_modelmanager.smx] [TF2] Model Manager: File "models/freak_fortress_2/gordon/gordon_classic_crow.mdl" not found. Excluding from list.
+L 04/02/2016 - 18:08:42: [tf2_modelmanager.smx] [TF2] Model Manager: File "models/freak_fortress_2/shadow93/dmedic/d_soldier.mdl" not found. Excluding from list.
+L 04/02/2016 - 18:08:42: [serverhop.smx] Server 5.9.25.6:27031 is down: socket error 6 (errno 111)
+L 04/02/2016 - 18:08:42: [SM] Plugin encountered error 25: Call was aborted
+L 04/02/2016 - 18:08:42: [SM] Native "SetFailState" reported: ConErr: [2002]: Can't connect to local MySQL server through socket '/tmp/mysql.sock' (2)
+L 04/02/2016 - 18:08:42: [SM] Displaying call stack trace for plugin "calladmin_mysql.smx":
+L 04/02/2016 - 18:08:42: [SM]   [0]  Line 362, C:\Users\David\Desktop\gameserver\calladmin_mysql.sp::SQLT_ConnectCallback()
+L 04/02/2016 - 18:08:42: [SM] Plugin encountered error 25: Call was aborted
+L 04/02/2016 - 18:08:42: [SM] Native "SetFailState" reported: Database failure: [2002]: Can't connect to local MySQL server through socket '/tmp/mysql.sock' (2)
+L 04/02/2016 - 18:08:42: [SM] Displaying call stack trace for plugin "chatlogex.smx":
+L 04/02/2016 - 18:08:42: [SM]   [0]  Line 746, /home/forums/content/files/5/2/0/8/2/47687.attach::sql_Connect()
+L 04/02/2016 - 18:08:48: [SM] Native "GetEntPropVector" reported: Entity 632 (632) is invalid
+L 04/02/2016 - 18:08:48: [SM] Displaying call stack trace for plugin "SourceBot.smx":
+L 04/02/2016 - 18:08:48: [SM]   [0]  Line 2067, F:\TF\vg-trade\tf\addons\sourcemod\scripting\SourceBot.sp::LifeTick()
+L 04/02/2016 - 18:08:51: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 18:09:41: [serverhop.smx] Server 5.9.25.6:27031 is down: socket error 6 (errno 111)
+L 04/02/2016 - 18:09:52: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 18:10:09: SourceMod error session started
+L 04/02/2016 - 18:10:09: Info (map "tf_tornadohighway_final2") (file "errors_20160402.log")
+L 04/02/2016 - 18:10:09: [SM] Plugin encountered error 25: Call was aborted
+L 04/02/2016 - 18:10:09: [SM] Native "SetFailState" reported: Database failure: could not find database conf  sourcebans
+L 04/02/2016 - 18:10:09: [SM] Displaying call stack trace for plugin "sourcecomms.smx":
+L 04/02/2016 - 18:10:09: [SM]   [0]  Line 221, sourcecomms.sp::OnPluginStart()
+L 04/02/2016 - 18:10:09: [SM] Plugin encountered error 25: Call was aborted
+L 04/02/2016 - 18:10:09: [SM] Native "SetFailState" reported: Database failure: Could not find Database conf "sourcebans"
+L 04/02/2016 - 18:10:09: [SM] Displaying call stack trace for plugin "sourcebans.smx":
+L 04/02/2016 - 18:10:09: [SM]   [0]  Line 209, sourcebans.sp::OnPluginStart()
+L 04/02/2016 - 18:10:09: [SM] Plugin encountered error 25: Call was aborted
+L 04/02/2016 - 18:10:09: [SM] Native "SetFailState" reported: Failed to connect to SourceBans DB, Could not find database conf "sourcebans"
+L 04/02/2016 - 18:10:09: [SM] Displaying call stack trace for plugin "sbchecker.smx":
+L 04/02/2016 - 18:10:09: [SM]   [0]  Line 70, sbchecker.sp::OnDatabaseConnected()
+L 04/02/2016 - 18:10:09: [SourceSleuth.smx] SourceSleuth: Database connection error: Could not find database conf "sourcebans"
+L 04/02/2016 - 18:10:09: [sb_admcfg.smx] Error(s) detected parsing addons/sourcemod/configs/sourcebans/sb_admins.cfg
+L 04/02/2016 - 18:10:09: [sb_admcfg.smx]  (line 8) Unknown group "Owner"
+L 04/02/2016 - 18:10:09: [sb_admcfg.smx]  (line 29) Unknown group "Admin"
+L 04/02/2016 - 18:10:09: [sb_admcfg.smx]  (line 41) Unknown group "Owner"
+L 04/02/2016 - 18:10:09: [sb_admcfg.smx]  (line 53) Unknown group "Admin"
+L 04/02/2016 - 18:10:09: [sb_admcfg.smx]  (line 65) Unknown group "Owner"
+L 04/02/2016 - 18:10:09: [sb_admcfg.smx]  (line 71) Unknown group "Admin"
+L 04/02/2016 - 18:10:09: [sb_admcfg.smx]  (line 77) Unknown group "Owner"
+L 04/02/2016 - 18:10:52: [serverhop.smx] Server 5.9.25.6:27031 is down: no timely reply received
+L 04/02/2016 - 18:10:52: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 18:11:52: [serverhop.smx] Server 5.9.25.6:27031 is down: no timely reply received
+L 04/02/2016 - 18:11:52: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 18:12:41: [serverhop.smx] Server 5.9.25.6:27031 is down: socket error 6 (errno 111)
+L 04/02/2016 - 18:12:52: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 18:13:52: [serverhop.smx] Server 5.9.25.6:27031 is down: no timely reply received
+L 04/02/2016 - 18:13:52: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 18:14:52: [serverhop.smx] Server 5.9.25.6:27031 is down: no timely reply received
+L 04/02/2016 - 18:14:52: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 18:15:41: [serverhop.smx] Server 5.9.25.6:27031 is down: socket error 6 (errno 111)
+L 04/02/2016 - 18:15:52: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 18:16:41: [serverhop.smx] Server 5.9.25.6:27031 is down: socket error 6 (errno 111)
+L 04/02/2016 - 18:16:52: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 18:17:52: [serverhop.smx] Server 5.9.25.6:27031 is down: no timely reply received
+L 04/02/2016 - 18:17:52: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 18:18:52: [serverhop.smx] Server 5.9.25.6:27031 is down: no timely reply received
+L 04/02/2016 - 18:18:52: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 18:19:41: [serverhop.smx] Server 5.9.25.6:27031 is down: socket error 6 (errno 111)
+L 04/02/2016 - 18:19:52: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 18:20:52: [serverhop.smx] Server 5.9.25.6:27031 is down: no timely reply received
+L 04/02/2016 - 18:20:52: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 18:21:52: [serverhop.smx] Server 5.9.25.6:27031 is down: no timely reply received
+L 04/02/2016 - 18:21:52: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 18:22:52: [serverhop.smx] Server 5.9.25.6:27031 is down: no timely reply received
+L 04/02/2016 - 18:22:52: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 18:23:41: [serverhop.smx] Server 5.9.25.6:27031 is down: socket error 6 (errno 111)
+L 04/02/2016 - 18:23:52: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 18:24:52: [serverhop.smx] Server 5.9.25.6:27031 is down: no timely reply received
+L 04/02/2016 - 18:24:52: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 18:25:52: [serverhop.smx] Server 5.9.25.6:27031 is down: no timely reply received
+L 04/02/2016 - 18:25:52: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 18:26:41: [serverhop.smx] Server 5.9.25.6:27031 is down: socket error 6 (errno 111)
+L 04/02/2016 - 18:26:52: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 18:27:41: [serverhop.smx] Server 5.9.25.6:27031 is down: socket error 6 (errno 111)
+L 04/02/2016 - 18:27:52: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 18:28:52: [serverhop.smx] Server 5.9.25.6:27031 is down: no timely reply received
+L 04/02/2016 - 18:28:52: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 18:29:52: [serverhop.smx] Server 5.9.25.6:27031 is down: no timely reply received
+L 04/02/2016 - 18:29:52: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 18:30:41: [serverhop.smx] Server 5.9.25.6:27031 is down: socket error 6 (errno 111)
+L 04/02/2016 - 18:30:52: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 18:31:41: [serverhop.smx] Server 5.9.25.6:27031 is down: socket error 6 (errno 111)
+L 04/02/2016 - 18:31:52: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 18:32:52: [serverhop.smx] Server 5.9.25.6:27031 is down: no timely reply received
+L 04/02/2016 - 18:32:52: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 18:33:52: [serverhop.smx] Server 5.9.25.6:27031 is down: no timely reply received
+L 04/02/2016 - 18:33:52: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 18:34:41: [serverhop.smx] Server 5.9.25.6:27031 is down: socket error 6 (errno 111)
+L 04/02/2016 - 18:34:52: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 18:35:52: [serverhop.smx] Server 5.9.25.6:27031 is down: no timely reply received
+L 04/02/2016 - 18:35:52: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 18:36:52: [serverhop.smx] Server 5.9.25.6:27031 is down: no timely reply received
+L 04/02/2016 - 18:36:52: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 18:37:52: [serverhop.smx] Server 5.9.25.6:27031 is down: no timely reply received
+L 04/02/2016 - 18:37:52: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 18:38:41: [serverhop.smx] Server 5.9.25.6:27031 is down: socket error 6 (errno 111)
+L 04/02/2016 - 18:38:52: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 18:39:52: [serverhop.smx] Server 5.9.25.6:27031 is down: no timely reply received
+L 04/02/2016 - 18:39:52: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 18:40:52: [serverhop.smx] Server 5.9.25.6:27031 is down: no timely reply received
+L 04/02/2016 - 18:40:52: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 18:41:41: [serverhop.smx] Server 5.9.25.6:27031 is down: socket error 6 (errno 111)
+L 04/02/2016 - 18:41:52: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 18:42:41: [serverhop.smx] Server 5.9.25.6:27031 is down: socket error 6 (errno 111)
+L 04/02/2016 - 18:42:52: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 18:43:41: [serverhop.smx] Server 5.9.25.6:27031 is down: socket error 6 (errno 111)
+L 04/02/2016 - 18:43:52: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 18:44:41: [serverhop.smx] Server 5.9.25.6:27031 is down: socket error 6 (errno 111)
+L 04/02/2016 - 18:44:52: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 18:45:41: [serverhop.smx] Server 5.9.25.6:27031 is down: socket error 6 (errno 111)
+L 04/02/2016 - 18:45:52: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 18:46:52: [serverhop.smx] Server 5.9.25.6:27031 is down: no timely reply received
+L 04/02/2016 - 18:46:52: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 18:47:52: [serverhop.smx] Server 5.9.25.6:27031 is down: no timely reply received
+L 04/02/2016 - 18:47:52: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 18:48:52: [serverhop.smx] Server 5.9.25.6:27031 is down: no timely reply received
+L 04/02/2016 - 18:48:52: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 18:49:41: [serverhop.smx] Server 5.9.25.6:27031 is down: socket error 6 (errno 111)
+L 04/02/2016 - 18:49:52: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 18:50:41: [serverhop.smx] Server 5.9.25.6:27031 is down: socket error 6 (errno 111)
+L 04/02/2016 - 18:50:52: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 18:51:52: [serverhop.smx] Server 5.9.25.6:27031 is down: no timely reply received
+L 04/02/2016 - 18:51:52: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 18:52:52: [serverhop.smx] Server 5.9.25.6:27031 is down: no timely reply received
+L 04/02/2016 - 18:52:52: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 18:53:41: [serverhop.smx] Server 5.9.25.6:27031 is down: socket error 6 (errno 111)
+L 04/02/2016 - 18:53:52: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 18:54:52: [serverhop.smx] Server 5.9.25.6:27031 is down: no timely reply received
+L 04/02/2016 - 18:54:52: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 18:55:41: [serverhop.smx] Server 5.9.25.6:27031 is down: socket error 6 (errno 111)
+L 04/02/2016 - 18:55:52: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 18:56:41: [serverhop.smx] Server 5.9.25.6:27031 is down: socket error 6 (errno 111)
+L 04/02/2016 - 18:56:52: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 18:57:41: [serverhop.smx] Server 5.9.25.6:27031 is down: socket error 6 (errno 111)
+L 04/02/2016 - 18:57:52: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 18:58:41: [serverhop.smx] Server 5.9.25.6:27031 is down: socket error 6 (errno 111)
+L 04/02/2016 - 18:58:52: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 18:59:41: [serverhop.smx] Server 5.9.25.6:27031 is down: socket error 6 (errno 111)
+L 04/02/2016 - 18:59:52: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 19:00:41: [serverhop.smx] Server 5.9.25.6:27031 is down: socket error 6 (errno 111)
+L 04/02/2016 - 19:00:52: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 19:01:41: [serverhop.smx] Server 5.9.25.6:27031 is down: socket error 6 (errno 111)
+L 04/02/2016 - 19:01:52: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 19:02:41: [serverhop.smx] Server 5.9.25.6:27031 is down: socket error 6 (errno 111)
+L 04/02/2016 - 19:02:52: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 19:03:17: Error log file session closed.
+L 04/02/2016 - 23:18:27: SourceMod error session started
+L 04/02/2016 - 23:18:27: Info (map "tf_tornadohighway_final2") (file "errors_20160402.log")
+L 04/02/2016 - 23:18:27: [SM] Plugin encountered error 25: Call was aborted
+L 04/02/2016 - 23:18:27: [SM] Native "SetFailState" reported: Database failure: could not find database conf  sourcebans
+L 04/02/2016 - 23:18:27: [SM] Displaying call stack trace for plugin "sourcecomms.smx":
+L 04/02/2016 - 23:18:27: [SM]   [0]  Line 221, sourcecomms.sp::OnPluginStart()
+L 04/02/2016 - 23:18:27: [SM] Plugin encountered error 25: Call was aborted
+L 04/02/2016 - 23:18:27: [SM] Native "SetFailState" reported: Database failure: Could not find Database conf "sourcebans"
+L 04/02/2016 - 23:18:27: [SM] Displaying call stack trace for plugin "sourcebans.smx":
+L 04/02/2016 - 23:18:27: [SM]   [0]  Line 209, sourcebans.sp::OnPluginStart()
+L 04/02/2016 - 23:18:27: [SM] Plugin encountered error 25: Call was aborted
+L 04/02/2016 - 23:18:27: [SM] Native "SetFailState" reported: Failed to connect to SourceBans DB, Could not find database conf "sourcebans"
+L 04/02/2016 - 23:18:27: [SM] Displaying call stack trace for plugin "sbchecker.smx":
+L 04/02/2016 - 23:18:27: [SM]   [0]  Line 70, sbchecker.sp::OnDatabaseConnected()
+L 04/02/2016 - 23:18:27: [SourceSleuth.smx] SourceSleuth: Database connection error: Could not find database conf "sourcebans"
+L 04/02/2016 - 23:18:27: [sb_admcfg.smx] Error(s) detected parsing addons/sourcemod/configs/sourcebans/sb_admins.cfg
+L 04/02/2016 - 23:18:27: [sb_admcfg.smx]  (line 8) Unknown group "Owner"
+L 04/02/2016 - 23:18:27: [sb_admcfg.smx]  (line 29) Unknown group "Admin"
+L 04/02/2016 - 23:18:27: [sb_admcfg.smx]  (line 41) Unknown group "Owner"
+L 04/02/2016 - 23:18:27: [sb_admcfg.smx]  (line 53) Unknown group "Admin"
+L 04/02/2016 - 23:18:27: [sb_admcfg.smx]  (line 65) Unknown group "Owner"
+L 04/02/2016 - 23:18:27: [sb_admcfg.smx]  (line 71) Unknown group "Admin"
+L 04/02/2016 - 23:18:27: [sb_admcfg.smx]  (line 77) Unknown group "Owner"
+L 04/02/2016 - 23:18:33: [STEAMTOOLS] Server Gameplay Stats received with an unexpected eResult. (eResult = 2)
+L 04/02/2016 - 23:18:33: [nextmap.smx] FATAL: Cannot load map cycle. Nextmap not loaded.
+L 04/02/2016 - 23:18:33: [SM] Plugin encountered error 25: Call was aborted
+L 04/02/2016 - 23:18:33: [SM] Native "SetFailState" reported: Mapcycle Not Found
+L 04/02/2016 - 23:18:33: [SM] Displaying call stack trace for plugin "nextmap.smx":
+L 04/02/2016 - 23:18:33: [SM]   [0]  Line 139, /home/builds/sourcemod/linux-1.7/build/plugins/nextmap.sp::FindAndSetNextMap()
+L 04/02/2016 - 23:18:33: [SM]   [1]  Line 109, /home/builds/sourcemod/linux-1.7/build/plugins/nextmap.sp::OnConfigsExecuted()
+L 04/02/2016 - 23:18:33: [tf2_modelmanager.smx] [TF2] Model Manager: File "models/selena/fempyro.mdl" not found. Excluding from list.
+L 04/02/2016 - 23:18:33: [tf2_modelmanager.smx] [TF2] Model Manager: File "models\selena\scout.mdl" not found. Excluding from list.
+L 04/02/2016 - 23:18:33: [tf2_modelmanager.smx] [TF2] Model Manager: File "models/selena/dashscout.mdl" not found. Excluding from list.
+L 04/02/2016 - 23:18:33: [tf2_modelmanager.smx] [TF2] Model Manager: File "models/freak_fortress_2/hitler/hitler.mdl" not found. Excluding from list.
+L 04/02/2016 - 23:18:33: [tf2_modelmanager.smx] [TF2] Model Manager: File "models/freak_fortress_2/gordon/gordon_classic_crow.mdl" not found. Excluding from list.
+L 04/02/2016 - 23:18:33: [tf2_modelmanager.smx] [TF2] Model Manager: File "models/freak_fortress_2/shadow93/dmedic/d_soldier.mdl" not found. Excluding from list.
+L 04/02/2016 - 23:18:33: [serverhop.smx] Server 5.9.25.6:27031 is down: socket error 6 (errno 111)
+L 04/02/2016 - 23:18:33: [STEAMTOOLS] Server Gameplay Stats received with an unexpected eResult. (eResult = 20)
+L 04/02/2016 - 23:18:33: [SM] Plugin encountered error 25: Call was aborted
+L 04/02/2016 - 23:18:33: [SM] Native "SetFailState" reported: ConErr: [2002]: Can't connect to local MySQL server through socket '/tmp/mysql.sock' (2)
+L 04/02/2016 - 23:18:33: [SM] Displaying call stack trace for plugin "calladmin_mysql.smx":
+L 04/02/2016 - 23:18:33: [SM]   [0]  Line 362, C:\Users\David\Desktop\gameserver\calladmin_mysql.sp::SQLT_ConnectCallback()
+L 04/02/2016 - 23:18:33: [SM] Plugin encountered error 25: Call was aborted
+L 04/02/2016 - 23:18:33: [SM] Native "SetFailState" reported: Database failure: [2002]: Can't connect to local MySQL server through socket '/tmp/mysql.sock' (2)
+L 04/02/2016 - 23:18:33: [SM] Displaying call stack trace for plugin "chatlogex.smx":
+L 04/02/2016 - 23:18:33: [SM]   [0]  Line 746, /home/forums/content/files/5/2/0/8/2/47687.attach::sql_Connect()
+L 04/02/2016 - 23:18:39: [SM] Native "GetEntPropVector" reported: Entity 632 (632) is invalid
+L 04/02/2016 - 23:18:39: [SM] Displaying call stack trace for plugin "SourceBot.smx":
+L 04/02/2016 - 23:18:39: [SM]   [0]  Line 2067, F:\TF\vg-trade\tf\addons\sourcemod\scripting\SourceBot.sp::LifeTick()
+L 04/02/2016 - 23:18:43: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 23:19:30: Error log file session closed.
+L 04/02/2016 - 23:19:30: SourceMod error session started
+L 04/02/2016 - 23:19:30: Info (map "koth_wubwubwub_remix_vip") (file "errors_20160402.log")
+L 04/02/2016 - 23:19:30: [SM] Plugin encountered error 25: Call was aborted
+L 04/02/2016 - 23:19:30: [SM] Native "SetFailState" reported: Database failure: could not find database conf  sourcebans
+L 04/02/2016 - 23:19:30: [SM] Displaying call stack trace for plugin "sourcecomms.smx":
+L 04/02/2016 - 23:19:30: [SM]   [0]  Line 221, sourcecomms.sp::OnPluginStart()
+L 04/02/2016 - 23:19:30: [SM] Plugin encountered error 25: Call was aborted
+L 04/02/2016 - 23:19:30: [SM] Native "SetFailState" reported: Database failure: Could not find Database conf "sourcebans"
+L 04/02/2016 - 23:19:30: [SM] Displaying call stack trace for plugin "sourcebans.smx":
+L 04/02/2016 - 23:19:30: [SM]   [0]  Line 209, sourcebans.sp::OnPluginStart()
+L 04/02/2016 - 23:19:30: [SM] Plugin encountered error 25: Call was aborted
+L 04/02/2016 - 23:19:30: [SM] Native "SetFailState" reported: Failed to connect to SourceBans DB, Could not find database conf "sourcebans"
+L 04/02/2016 - 23:19:30: [SM] Displaying call stack trace for plugin "sbchecker.smx":
+L 04/02/2016 - 23:19:30: [SM]   [0]  Line 70, sbchecker.sp::OnDatabaseConnected()
+L 04/02/2016 - 23:19:30: [sb_admcfg.smx] Error(s) detected parsing addons/sourcemod/configs/sourcebans/sb_admins.cfg
+L 04/02/2016 - 23:19:30: [sb_admcfg.smx]  (line 8) Unknown group "Owner"
+L 04/02/2016 - 23:19:30: [sb_admcfg.smx]  (line 29) Unknown group "Admin"
+L 04/02/2016 - 23:19:30: [sb_admcfg.smx]  (line 41) Unknown group "Owner"
+L 04/02/2016 - 23:19:30: [sb_admcfg.smx]  (line 53) Unknown group "Admin"
+L 04/02/2016 - 23:19:30: [sb_admcfg.smx]  (line 65) Unknown group "Owner"
+L 04/02/2016 - 23:19:30: [sb_admcfg.smx]  (line 71) Unknown group "Admin"
+L 04/02/2016 - 23:19:30: [sb_admcfg.smx]  (line 77) Unknown group "Owner"
+L 04/02/2016 - 23:19:35: [tf2_modelmanager.smx] [TF2] Model Manager: File "models/selena/fempyro.mdl" not found. Excluding from list.
+L 04/02/2016 - 23:19:35: [tf2_modelmanager.smx] [TF2] Model Manager: File "models\selena\scout.mdl" not found. Excluding from list.
+L 04/02/2016 - 23:19:35: [tf2_modelmanager.smx] [TF2] Model Manager: File "models/selena/dashscout.mdl" not found. Excluding from list.
+L 04/02/2016 - 23:19:35: [tf2_modelmanager.smx] [TF2] Model Manager: File "models/freak_fortress_2/hitler/hitler.mdl" not found. Excluding from list.
+L 04/02/2016 - 23:19:35: [tf2_modelmanager.smx] [TF2] Model Manager: File "models/freak_fortress_2/gordon/gordon_classic_crow.mdl" not found. Excluding from list.
+L 04/02/2016 - 23:19:35: [tf2_modelmanager.smx] [TF2] Model Manager: File "models/freak_fortress_2/shadow93/dmedic/d_soldier.mdl" not found. Excluding from list.
+L 04/02/2016 - 23:19:35: [nextmap.smx] FATAL: Cannot load map cycle. Nextmap not loaded.
+L 04/02/2016 - 23:19:35: [SM] Plugin encountered error 25: Call was aborted
+L 04/02/2016 - 23:19:35: [SM] Native "SetFailState" reported: Mapcycle Not Found
+L 04/02/2016 - 23:19:35: [SM] Displaying call stack trace for plugin "nextmap.smx":
+L 04/02/2016 - 23:19:35: [SM]   [0]  Line 139, /home/builds/sourcemod/linux-1.7/build/plugins/nextmap.sp::FindAndSetNextMap()
+L 04/02/2016 - 23:19:35: [SM]   [1]  Line 109, /home/builds/sourcemod/linux-1.7/build/plugins/nextmap.sp::OnConfigsExecuted()
+L 04/02/2016 - 23:19:35: [SM] Plugin encountered error 25: Call was aborted
+L 04/02/2016 - 23:19:35: [SM] Native "SetFailState" reported: ConErr: [2002]: Can't connect to local MySQL server through socket '/tmp/mysql.sock' (2)
+L 04/02/2016 - 23:19:35: [SM] Displaying call stack trace for plugin "calladmin_mysql.smx":
+L 04/02/2016 - 23:19:35: [SM]   [0]  Line 362, C:\Users\David\Desktop\gameserver\calladmin_mysql.sp::SQLT_ConnectCallback()
+L 04/02/2016 - 23:19:35: [SM] Plugin encountered error 25: Call was aborted
+L 04/02/2016 - 23:19:35: [SM] Native "SetFailState" reported: Database failure: [2002]: Can't connect to local MySQL server through socket '/tmp/mysql.sock' (2)
+L 04/02/2016 - 23:19:35: [SM] Displaying call stack trace for plugin "chatlogex.smx":
+L 04/02/2016 - 23:19:35: [SM]   [0]  Line 746, /home/forums/content/files/5/2/0/8/2/47687.attach::sql_Connect()
+L 04/02/2016 - 23:19:35: [STEAMTOOLS] Server Gameplay Stats received with an unexpected eResult. (eResult = 20)
+L 04/02/2016 - 23:19:40: [serverhop.smx] Server 5.9.25.6:27031 is down: socket error 6 (errno 111)
+L 04/02/2016 - 23:19:41: [SM] Native "GetEntPropVector" reported: Entity 639 (639) is invalid
+L 04/02/2016 - 23:19:41: [SM] Displaying call stack trace for plugin "SourceBot.smx":
+L 04/02/2016 - 23:19:41: [SM]   [0]  Line 2067, F:\TF\vg-trade\tf\addons\sourcemod\scripting\SourceBot.sp::LifeTick()
+L 04/02/2016 - 23:19:50: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 23:20:40: [serverhop.smx] Server 5.9.25.6:27031 is down: socket error 6 (errno 111)
+L 04/02/2016 - 23:20:50: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 23:21:40: [serverhop.smx] Server 5.9.25.6:27031 is down: socket error 6 (errno 111)
+L 04/02/2016 - 23:21:50: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 23:22:40: [serverhop.smx] Server 5.9.25.6:27031 is down: socket error 6 (errno 111)
+L 04/02/2016 - 23:22:50: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 23:23:40: [serverhop.smx] Server 5.9.25.6:27031 is down: socket error 6 (errno 111)
+L 04/02/2016 - 23:23:50: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 23:24:40: [serverhop.smx] Server 5.9.25.6:27031 is down: socket error 6 (errno 111)
+L 04/02/2016 - 23:24:50: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 23:25:40: [serverhop.smx] Server 5.9.25.6:27031 is down: socket error 6 (errno 111)
+L 04/02/2016 - 23:25:50: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 23:26:40: [serverhop.smx] Server 5.9.25.6:27031 is down: socket error 6 (errno 111)
+L 04/02/2016 - 23:26:50: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 23:27:40: [serverhop.smx] Server 5.9.25.6:27031 is down: socket error 6 (errno 111)
+L 04/02/2016 - 23:27:50: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 23:28:40: [serverhop.smx] Server 5.9.25.6:27031 is down: socket error 6 (errno 111)
+L 04/02/2016 - 23:28:50: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 23:29:40: [serverhop.smx] Server 5.9.25.6:27031 is down: socket error 6 (errno 111)
+L 04/02/2016 - 23:29:50: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 23:30:40: [serverhop.smx] Server 5.9.25.6:27031 is down: socket error 6 (errno 111)
+L 04/02/2016 - 23:30:50: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 23:31:40: [serverhop.smx] Server 5.9.25.6:27031 is down: socket error 6 (errno 111)
+L 04/02/2016 - 23:31:50: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 23:32:40: [serverhop.smx] Server 5.9.25.6:27031 is down: socket error 6 (errno 111)
+L 04/02/2016 - 23:32:50: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 23:33:40: [serverhop.smx] Server 5.9.25.6:27031 is down: socket error 6 (errno 111)
+L 04/02/2016 - 23:33:50: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 23:34:40: [serverhop.smx] Server 5.9.25.6:27031 is down: socket error 6 (errno 111)
+L 04/02/2016 - 23:34:50: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 23:35:40: [serverhop.smx] Server 5.9.25.6:27031 is down: socket error 6 (errno 111)
+L 04/02/2016 - 23:35:50: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 23:36:40: [serverhop.smx] Server 5.9.25.6:27031 is down: socket error 6 (errno 111)
+L 04/02/2016 - 23:36:50: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 23:37:40: [serverhop.smx] Server 5.9.25.6:27031 is down: socket error 6 (errno 111)
+L 04/02/2016 - 23:37:50: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 23:38:40: [serverhop.smx] Server 5.9.25.6:27031 is down: socket error 6 (errno 111)
+L 04/02/2016 - 23:38:50: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 23:39:40: [serverhop.smx] Server 5.9.25.6:27031 is down: socket error 6 (errno 111)
+L 04/02/2016 - 23:39:50: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 23:40:40: [serverhop.smx] Server 5.9.25.6:27031 is down: socket error 6 (errno 111)
+L 04/02/2016 - 23:40:50: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 23:41:40: [serverhop.smx] Server 5.9.25.6:27031 is down: socket error 6 (errno 111)
+L 04/02/2016 - 23:41:50: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 23:42:40: [serverhop.smx] Server 5.9.25.6:27031 is down: socket error 6 (errno 111)
+L 04/02/2016 - 23:42:50: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 23:43:40: [serverhop.smx] Server 5.9.25.6:27031 is down: socket error 6 (errno 111)
+L 04/02/2016 - 23:43:50: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 23:44:40: [serverhop.smx] Server 5.9.25.6:27031 is down: socket error 6 (errno 111)
+L 04/02/2016 - 23:44:50: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 23:45:40: [serverhop.smx] Server 5.9.25.6:27031 is down: socket error 6 (errno 111)
+L 04/02/2016 - 23:45:50: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 23:46:50: [serverhop.smx] Server 5.9.25.6:27031 is down: no timely reply received
+L 04/02/2016 - 23:46:50: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 23:47:50: [serverhop.smx] Server 5.9.25.6:27031 is down: no timely reply received
+L 04/02/2016 - 23:47:50: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 23:48:40: [serverhop.smx] Server 5.9.25.6:27031 is down: socket error 6 (errno 111)
+L 04/02/2016 - 23:48:50: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 23:49:40: [serverhop.smx] Server 5.9.25.6:27031 is down: socket error 6 (errno 111)
+L 04/02/2016 - 23:49:50: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 23:50:50: [serverhop.smx] Server 5.9.25.6:27031 is down: no timely reply received
+L 04/02/2016 - 23:50:50: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 23:51:50: [serverhop.smx] Server 5.9.25.6:27031 is down: no timely reply received
+L 04/02/2016 - 23:51:50: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 23:52:40: [serverhop.smx] Server 5.9.25.6:27031 is down: socket error 6 (errno 111)
+L 04/02/2016 - 23:52:50: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 23:53:40: [serverhop.smx] Server 5.9.25.6:27031 is down: socket error 6 (errno 111)
+L 04/02/2016 - 23:53:50: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 23:54:50: [serverhop.smx] Server 5.9.25.6:27031 is down: no timely reply received
+L 04/02/2016 - 23:54:50: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 23:55:50: [serverhop.smx] Server 5.9.25.6:27031 is down: no timely reply received
+L 04/02/2016 - 23:55:50: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 23:56:25: [SM] Native "SQL_TQuery" reported: Invalid database Handle 0 (error: 4)
+L 04/02/2016 - 23:56:25: [SM] Displaying call stack trace for plugin "SourceSleuth.smx":
+L 04/02/2016 - 23:56:25: [SM]   [0]  Line 166, SourceSleuth.sp::OnClientPostAdminCheck()
+L 04/02/2016 - 23:56:40: [serverhop.smx] Server 5.9.25.6:27031 is down: socket error 6 (errno 111)
+L 04/02/2016 - 23:56:50: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 23:57:50: [serverhop.smx] Server 5.9.25.6:27031 is down: no timely reply received
+L 04/02/2016 - 23:57:50: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 23:58:50: [serverhop.smx] Server 5.9.25.6:27031 is down: no timely reply received
+L 04/02/2016 - 23:58:50: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received
+L 04/02/2016 - 23:58:52: [SM] Native "SQL_TQuery" reported: Invalid database Handle 0 (error: 4)
+L 04/02/2016 - 23:58:52: [SM] Displaying call stack trace for plugin "SourceSleuth.smx":
+L 04/02/2016 - 23:58:52: [SM]   [0]  Line 166, SourceSleuth.sp::OnClientPostAdminCheck()
+L 04/02/2016 - 23:59:50: [serverhop.smx] Server 5.9.25.6:27031 is down: no timely reply received
+L 04/02/2016 - 23:59:50: [serverhop.smx] Server 70.174.186.150:27015 is down: no timely reply received

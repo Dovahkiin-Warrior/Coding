@@ -1,0 +1,47 @@
+L 12/03/2015 - 00:00:43: SourceMod error session started
+L 12/03/2015 - 00:00:43: Info (map "ctf_2fort") (file "errors_20151203.log")
+L 12/03/2015 - 00:00:43: Failed to auto generate config for funcommands.smx, make sure the directory has write permission.
+L 12/03/2015 - 00:00:43: [nextmap.smx] FATAL: Cannot load map cycle. Nextmap not loaded.
+L 12/03/2015 - 00:00:43: [SM] Plugin encountered error 25: Call was aborted
+L 12/03/2015 - 00:00:43: [SM] Native "SetFailState" reported: Mapcycle Not Found
+L 12/03/2015 - 00:00:43: [SM] Displaying call stack trace for plugin "nextmap.smx":
+L 12/03/2015 - 00:00:43: [SM]   [0]  Line 139, /home/builds/sourcemod/linux-1.7/build/plugins/nextmap.sp::FindAndSetNextMap()
+L 12/03/2015 - 00:00:43: [SM]   [1]  Line 109, /home/builds/sourcemod/linux-1.7/build/plugins/nextmap.sp::OnConfigsExecuted()
+L 12/03/2015 - 00:03:51: Error log file session closed.
+L 12/03/2015 - 00:06:44: SourceMod error session started
+L 12/03/2015 - 00:06:44: Info (map "ctf_2fort") (file "errors_20151203.log")
+L 12/03/2015 - 00:06:44: Failed to auto generate config for funcommands.smx, make sure the directory has write permission.
+L 12/03/2015 - 00:06:44: [nextmap.smx] FATAL: Cannot load map cycle. Nextmap not loaded.
+L 12/03/2015 - 00:06:44: [SM] Plugin encountered error 25: Call was aborted
+L 12/03/2015 - 00:06:44: [SM] Native "SetFailState" reported: Mapcycle Not Found
+L 12/03/2015 - 00:06:44: [SM] Displaying call stack trace for plugin "nextmap.smx":
+L 12/03/2015 - 00:06:44: [SM]   [0]  Line 139, /home/builds/sourcemod/linux-1.7/build/plugins/nextmap.sp::FindAndSetNextMap()
+L 12/03/2015 - 00:06:44: [SM]   [1]  Line 109, /home/builds/sourcemod/linux-1.7/build/plugins/nextmap.sp::OnConfigsExecuted()
+L 12/03/2015 - 00:11:58: Error log file session closed.
+L 12/03/2015 - 00:12:13: SourceMod error session started
+L 12/03/2015 - 00:12:13: Info (map "ctf_2fort") (file "errors_20151203.log")
+L 12/03/2015 - 00:12:13: Failed to auto generate config for funcommands.smx, make sure the directory has write permission.
+L 12/03/2015 - 00:12:14: [nextmap.smx] FATAL: Cannot load map cycle. Nextmap not loaded.
+L 12/03/2015 - 00:12:14: [SM] Plugin encountered error 25: Call was aborted
+L 12/03/2015 - 00:12:14: [SM] Native "SetFailState" reported: Mapcycle Not Found
+L 12/03/2015 - 00:12:14: [SM] Displaying call stack trace for plugin "nextmap.smx":
+L 12/03/2015 - 00:12:14: [SM]   [0]  Line 139, /home/builds/sourcemod/linux-1.7/build/plugins/nextmap.sp::FindAndSetNextMap()
+L 12/03/2015 - 00:12:14: [SM]   [1]  Line 109, /home/builds/sourcemod/linux-1.7/build/plugins/nextmap.sp::OnConfigsExecuted()
+L 12/03/2015 - 23:07:51: SourceMod error session started
+L 12/03/2015 - 23:07:51: Info (map "ctf_2fort") (file "errors_20151203.log")
+L 12/03/2015 - 23:07:51: Failed to auto generate config for funcommands.smx, make sure the directory has write permission.
+L 12/03/2015 - 23:07:51: [nextmap.smx] FATAL: Cannot load map cycle. Nextmap not loaded.
+L 12/03/2015 - 23:07:51: [SM] Plugin encountered error 25: Call was aborted
+L 12/03/2015 - 23:07:51: [SM] Native "SetFailState" reported: Mapcycle Not Found
+L 12/03/2015 - 23:07:51: [SM] Displaying call stack trace for plugin "nextmap.smx":
+L 12/03/2015 - 23:07:51: [SM]   [0]  Line 139, /home/builds/sourcemod/linux-1.7/build/plugins/nextmap.sp::FindAndSetNextMap()
+L 12/03/2015 - 23:07:51: [SM]   [1]  Line 109, /home/builds/sourcemod/linux-1.7/build/plugins/nextmap.sp::OnConfigsExecuted()
+L 12/03/2015 - 23:58:18: Error log file session closed.
+L 12/03/2015 - 23:58:31: SourceMod error session started
+L 12/03/2015 - 23:58:31: Info (map "ctf_2fort") (file "errors_20151203.log")
+L 12/03/2015 - 23:58:31: [nextmap.smx] FATAL: Cannot load map cycle. Nextmap not loaded.
+L 12/03/2015 - 23:58:31: [SM] Plugin encountered error 25: Call was aborted
+L 12/03/2015 - 23:58:31: [SM] Native "SetFailState" reported: Mapcycle Not Found
+L 12/03/2015 - 23:58:31: [SM] Displaying call stack trace for plugin "nextmap.smx":
+L 12/03/2015 - 23:58:31: [SM]   [0]  Line 139, /home/builds/sourcemod/linux-1.7/build/plugins/nextmap.sp::FindAndSetNextMap()
+L 12/03/2015 - 23:58:31: [SM]   [1]  Line 109, /home/builds/sourcemod/linux-1.7/build/plugins/nextmap.sp::OnConfigsExecuted()

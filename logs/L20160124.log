@@ -1,0 +1,48 @@
+L 01/24/2016 - 04:32:45: SourceMod log file session started (file "L20160124.log") (Version "1.7.3-dev+5290")
+L 01/24/2016 - 04:32:45: -------- Mapchange to sb_masterleague_v4 --------
+L 01/24/2016 - 04:32:46: [TF2ITEMS] "GiveNamedItem" offset = 472
+L 01/24/2016 - 04:32:55: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 01/24/2016 - 04:32:55: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 01/24/2016 - 04:33:06: [custom-chatcolors-menu.smx] Loaded 156 colors from configuration file addons\sourcemod\configs\custom-chatcolors-menu.cfg.
+L 01/24/2016 - 04:33:11: [custom-chatcolors-menu.smx] MySQL server configured. Variable saving enabled.
+L 01/24/2016 - 04:35:55: [basecommands.smx] "﴾AG﴿ ÐJ Dovahkiin #Khyber<2><[U:1:255245948]><>" console command (cmdline "tf_bot_add 2")
+L 01/24/2016 - 04:41:27: [basecommands.smx] "﴾AG﴿ ÐJ Dovahkiin #Khyber<2><[U:1:255245948]><>" console command (cmdline "sm plugins load character")
+L 01/24/2016 - 04:49:18: [basecommands.smx] "﴾AG﴿ ÐJ Dovahkiin #Khyber<2><[U:1:255245948]><>" console command (cmdline "tf_bot_kick")
+L 01/24/2016 - 04:49:24: [basecommands.smx] "﴾AG﴿ ÐJ Dovahkiin #Khyber<2><[U:1:255245948]><>" console command (cmdline "tf_bot_kick all")
+L 01/24/2016 - 04:49:27: [basecommands.smx] "﴾AG﴿ ÐJ Dovahkiin #Khyber<2><[U:1:255245948]><>" console command (cmdline "tf_bot_add 1")
+L 01/24/2016 - 12:38:55: SourceMod log file session started (file "L20160124.log") (Version "1.7.3-dev+5290")
+L 01/24/2016 - 12:38:55: -------- Mapchange to sb_masterleague_v4 --------
+L 01/24/2016 - 12:38:56: [TF2ITEMS] "GiveNamedItem" offset = 472
+L 01/24/2016 - 12:39:02: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 01/24/2016 - 12:39:02: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 01/24/2016 - 12:39:26: [custom-chatcolors-menu.smx] Loaded 156 colors from configuration file addons\sourcemod\configs\custom-chatcolors-menu.cfg.
+L 01/24/2016 - 12:39:30: [custom-chatcolors-menu.smx] MySQL server configured. Variable saving enabled.
+L 01/24/2016 - 12:54:21: [basecommands.smx] "﴾AG﴿ ÐJ Dovahkiin #Khyber<2><[U:1:255245948]><>" console command (cmdline "sm plugins load thirdperson")
+L 01/24/2016 - 13:18:38: [basecommands.smx] "﴾AG﴿ ÐJ Dovahkiin #Khyber<2><[U:1:255245948]><>" console command (cmdline "tf_models_reload")
+L 01/24/2016 - 13:18:46: [basecommands.smx] "﴾AG﴿ ÐJ Dovahkiin #Khyber<2><[U:1:255245948]><>" console command (cmdline "tf_bot_add 1")
+L 01/24/2016 - 13:20:25: [basecommands.smx] "﴾AG﴿ ÐJ Dovahkiin #Khyber<2><[U:1:255245948]><>" console command (cmdline "tf_models_reload")
+L 01/24/2016 - 15:15:42: -------- Mapchange to sb_finaldestination_vg --------
+L 01/24/2016 - 15:15:51: [huntsman.smx] Failed to load: Failed to find Offset_HuntsmanPatch.
+L 01/24/2016 - 15:16:04: [custom-chatcolors-menu.smx] Loaded 156 colors from configuration file addons\sourcemod\configs\custom-chatcolors-menu.cfg.
+L 01/24/2016 - 15:40:37: [basecommands.smx] "﴾AG﴿ ÐJ Dovahkiin #Khyber<16><[U:1:255245948]><>" changed cvar (cvar "sv_alltalk") (value "1")
+L 01/24/2016 - 15:42:07: [basecommands.smx] "﴾AG﴿ ÐJ Dovahkiin #Khyber<16><[U:1:255245948]><>" console command (cmdline "tf_bot_kick all")
+L 01/24/2016 - 15:45:21: [basecommands.smx] "﴾AG﴿ ÐJ Dovahkiin #Khyber<16><[U:1:255245948]><>" changed cvar (cvar "mp_friendlyfire") (value "1")
+L 01/24/2016 - 15:46:14: [basechat.smx] "﴾AG﴿ ÐJ Dovahkiin #Khyber<16><[U:1:255245948]><>" triggered sm_csay (text Choose your character by typing !character)
+L 01/24/2016 - 16:02:11: [basecommands.smx] "﴾AG﴿ ÐJ Dovahkiin #Khyber<16><[U:1:255245948]><>" console command (cmdline "sm plugins refresh")
+L 01/24/2016 - 16:20:37: [playercommands.smx] "﴾AG﴿ ÐJ Dovahkiin #Khyber<16><[U:1:255245948]><>" slayed "TCLG6x6<21><[U:1:82685988]><>"
+L 01/24/2016 - 16:44:25: [basecommands.smx] "Console<0><Console><Console>" kicked "RECORD<26><[U:1:100524577]><>" (reason "Excess Ping")
+L 01/24/2016 - 17:05:14: [basecommands.smx] "﴾AG﴿ ÐJ Dovahkiin #Khyber<28><[U:1:255245948]><>" kicked "RECORD<27><[U:1:100524577]><>" (reason "Excess Ping")
+L 01/24/2016 - 17:10:23: [basecommands.smx] "﴾AG﴿ ÐJ Dovahkiin #Khyber<28><[U:1:255245948]><>" kicked "TCLG6x6<21><[U:1:82685988]><>" (reason "Excess Ping")
+L 01/24/2016 - 17:39:27: [basecommands.smx] "﴾AG﴿ ÐJ Dovahkiin #Khyber<29><[U:1:255245948]><>" console command (cmdline "sm plugins load rtd")
+L 01/24/2016 - 17:39:27: [rtd.smx] File test for rtd.phrases.txt: PASSED!
+L 01/24/2016 - 17:39:27: [rtd.smx] File test for rtd_effects.cfg: PASSED!
+L 01/24/2016 - 17:39:27: [rtd.smx] Loaded 35 effects: (19 good) (16 bad).
+L 01/24/2016 - 17:39:27: [rtd.smx] Added chat trigger: rollthedice
+L 01/24/2016 - 17:39:27: [rtd.smx] Added chat trigger: roll
+L 01/24/2016 - 17:39:46: [basecommands.smx] "﴾AG﴿ ÐJ Dovahkiin #Khyber<29><[U:1:255245948]><>" console command (cmdline "sm_rtd_timeout")
+L 01/24/2016 - 17:39:48: [basecommands.smx] "﴾AG﴿ ÐJ Dovahkiin #Khyber<29><[U:1:255245948]><>" console command (cmdline "sm_rtd_time")
+L 01/24/2016 - 17:39:54: [basecommands.smx] "﴾AG﴿ ÐJ Dovahkiin #Khyber<29><[U:1:255245948]><>" console command (cmdline "sm_rtd_timelimit")
+L 01/24/2016 - 17:39:57: [basecommands.smx] "﴾AG﴿ ÐJ Dovahkiin #Khyber<29><[U:1:255245948]><>" console command (cmdline "sm_rtd_timelimit 30")
+L 01/24/2016 - 21:01:23: [basecommands.smx] "﴾AG﴿ ÐJ Dovahkiin #Khyber<35><[U:1:255245948]><>" console command (cmdline "sv_password Wolfie")
+L 01/24/2016 - 21:21:11: [basecommands.smx] "﴾AG﴿ ÐJ Dovahkiin #Khyber<35><[U:1:255245948]><>" kicked "the but muncher<44><[U:1:192962814]><>" (reason "#TF_IDLE_KICKED\")
+L 01/24/2016 - 21:45:41: [basecommands.smx] "﴾AG﴿ ÐJ Dovahkiin #Khyber<53><[U:1:255245948]><>" console command (cmdline "tf_models_reload")

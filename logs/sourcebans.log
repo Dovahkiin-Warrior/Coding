@@ -1,0 +1,13 @@
+L 03/29/2016 - 03:47:10: [sourcebans.smx] plugins/basebans.smx was unloaded and moved to plugins/disabled/basebans.smx
+L 04/02/2016 - 17:55:20: [sourcebans.smx] Database failure: Could not find Database conf "sourcebans". See FAQ: https://sarabveer.github.io/SourceBans-Fork/faq/
+L 04/02/2016 - 18:08:30: [sourcebans.smx] Database failure: Could not find Database conf "sourcebans". See FAQ: https://sarabveer.github.io/SourceBans-Fork/faq/
+L 04/02/2016 - 18:10:09: [sourcebans.smx] Database failure: Could not find Database conf "sourcebans". See FAQ: https://sarabveer.github.io/SourceBans-Fork/faq/
+L 04/02/2016 - 23:18:27: [sourcebans.smx] Database failure: Could not find Database conf "sourcebans". See FAQ: https://sarabveer.github.io/SourceBans-Fork/faq/
+L 04/02/2016 - 23:19:30: [sourcebans.smx] Database failure: Could not find Database conf "sourcebans". See FAQ: https://sarabveer.github.io/SourceBans-Fork/faq/
+L 04/03/2016 - 00:51:53: [sourcebans.smx] plugins/basebans.smx was unloaded and moved to plugins/disabled/basebans.smx
+L 04/10/2016 - 06:15:03: [sourcebans.smx] Database failure: [2013]: Lost connection to MySQL server at 'reading initial communication packet', system error: 113. See FAQ: https://sarabveer.github.io/SourceBans-Fork/faq/
+L 04/10/2016 - 09:21:28: [sourcebans.smx] Database failure: [2013]: Lost connection to MySQL server at 'reading initial communication packet', system error: 113. See FAQ: https://sarabveer.github.io/SourceBans-Fork/faq/
+L 04/10/2016 - 09:28:52: [sourcebans.smx] Database failure: [2013]: Lost connection to MySQL server at 'reading initial communication packet', system error: 113. See FAQ: https://sarabveer.github.io/SourceBans-Fork/faq/
+L 04/12/2016 - 19:23:58: [sourcebans.smx] Database failure: [2013]: Lost connection to MySQL server at 'reading initial communication packet', system error: 113. See FAQ: https://sarabveer.github.io/SourceBans-Fork/faq/
+L 04/12/2016 - 19:24:00: [sourcebans.smx] plugins/basebans.smx was unloaded and moved to plugins/disabled/basebans.smx
+L 04/19/2016 - 01:20:31: [sourcebans.smx] Database failure: [2013]: Lost connection to MySQL server at 'reading initial communication packet', system error: 113. See FAQ: https://sarabveer.github.io/SourceBans-Fork/faq/
