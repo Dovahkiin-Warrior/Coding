@@ -2,7 +2,7 @@
 {
 	"Vote Nextmap"
 	{
-		"en"	"Selena's Sounds"
+		"en"	"Selena's Music"
 	}
 	"Choice 4"
 	{

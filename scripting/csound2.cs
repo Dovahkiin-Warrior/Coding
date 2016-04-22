@@ -20,7 +20,7 @@ public Plugin:myinfo =
 };
 public OnPluginStart()
 {
-	RegConsoleCmd("sm_selena", Command_Sound3, "Sound Menu for Selena's Content");
+	RegConsoleCmd("sm_selena2", Command_Sound3, "Sound Menu for Selena's Content");
 	LoadTranslations("selena2.phrases");
 }
 public MenuHandler1(Handle:menu, MenuAction:action, client, param2)
@@ -47,31 +47,19 @@ public MenuHandler1(Handle:menu, MenuAction:action, client, param2)
 			GetMenuItem(menu, param2, info, sizeof(info));
 			if (StrEqual(info, CHOICE1))
 			{
-				FakeClientCommand(client,"sm_play @all selena/music/drsniper.mp3");
+				FakeClientCommand(client,"sm_play @all selena/spy.mp3");
 			}
 			if (StrEqual(info, CHOICE2))
 			{
-				FakeClientCommand(client,"sm_play @all selena/music/heffe_bgm.mp3");
+				FakeClientCommand(client,"sm_play @all selena/the_best.mp3");
 			}
 			if (StrEqual(info, CHOICE3))
 			{
-				FakeClientCommand(client,"sm_play @all selena/music/mlg_cancan.mp3");
+				FakeClientCommand(client,"sm_selena3");
 			}
-			if (StrEqual(info, CHOICE4))
+			if (StrEqual (info,CHOICE4))
 			{
-				FakeClientCommand(client,"sm_play @all selena/music/pdhardtime.mp3");
-			}
-			if (StrEqual(info, CHOICE5))
-			{
-				FakeClientCommand(client,"sm_play @all selena/music/thomas.mp3");
-			}
-			if (StrEqual(info,CHOICE6))
-			{
-				FakeClientCommand(client,"sm_play @all selena/music/worlds_end.mp3");
-			}
-			if (StrEqual(info,CHOICE7))
-			{
-				FakeClientCommand(client,"sm_selena");
+				FakeClientCommand(client, "sm_selena");
 			}
 	}
  
@@ -121,13 +109,10 @@ public Action:Command_Sound3(client, args)
 {
 	new Handle:menu = CreateMenu(MenuHandler1, MENU_ACTIONS_ALL);
 	SetMenuTitle(menu, "%T", "Menu Title", LANG_SERVER);
-	AddMenuItem(menu, CHOICE1, "Dr. Sniper");
-	AddMenuItem(menu, CHOICE2, "St. Heffe's Theme");
-	AddMenuItem(menu, CHOICE3, "MLG Sniper's Theme");
-	AddMenuItem(menu, CHOICE4, "PAYDAY 2 - Hard Time");
-	AddMenuItem(menu, CHOICE5, "Thomas in da Club");
-	AddMenuItem(menu, CHOICE6, "[Demetori] 感情の魔天楼 ～ World's End");
-	AddMenuItem(menu, CHOICE7, "Back");
+	AddMenuItem(menu, CHOICE1, "Meep Meep to You!");
+	AddMenuItem(menu, CHOICE2, "I'm the best!");
+	AddMenuItem(menu, CHOICE3, "Music");
+	AddMenuItem(menu, CHOICE4, "Back");
 	SetMenuExitButton(menu, true);
 	DisplayMenu(menu, client, 60);
  

@@ -7,6 +7,8 @@
 #define CHOICE5 "#choice5"
 #define CHOICE6 "#choice6"
 #define CHOICE7 "#choice7"
+#define CHOICE8 "#choice8"
+#define CHOICE9 "#choice9"
 
 public Plugin:myinfo =
 {
@@ -18,8 +20,8 @@ public Plugin:myinfo =
 };
 public OnPluginStart()
 {
-	RegConsoleCmd("sm_selena", Command_Sound2, "Sound Menu for Selena's Content");
-	LoadTranslations("selena.phrases");
+	RegConsoleCmd("sm_selena3", Command_Sound, "Sound Menu for Selena's Content");
+	LoadTranslations("selena3.phrases");
 }
 public MenuHandler1(Handle:menu, MenuAction:action, client, param2)
 {
@@ -45,31 +47,32 @@ public MenuHandler1(Handle:menu, MenuAction:action, client, param2)
 			GetMenuItem(menu, param2, info, sizeof(info));
 			if (StrEqual(info, CHOICE1))
 			{
-				FakeClientCommand(client,"sm_play @all selena/aprage.mp3");
+				FakeClientCommand(client,"sm_play @all selena/music/drsniper.mp3");
 			}
 			if (StrEqual(info, CHOICE2))
 			{
-				FakeClientCommand(client,"sm_play @all selena/blitz1.mp3");
+				FakeClientCommand(client,"sm_play @all selena/music/heffe_bgm.mp3");
 			}
 			if (StrEqual(info, CHOICE3))
 			{
-				FakeClientCommand(client,"sm_play @all selena/blitz2.mp3");
+				FakeClientCommand(client,"sm_play @all selena/music/mlg_cancan.mp3");
 			}
 			if (StrEqual(info, CHOICE4))
 			{
-				FakeClientCommand(client,"sm_play @all selena/lets_go.mp3");
+				FakeClientCommand(client,"sm_play @all selena/music/pdhardtime.mp3");
 			}
 			if (StrEqual(info, CHOICE5))
 			{
-				FakeClientCommand(client,"sm_play @all selena/mineralwater.mp3");
+				FakeClientCommand(client,"sm_play @all selena/music/thomas.mp3");
 			}
 			if (StrEqual(info,CHOICE6))
 			{
-				FakeClientCommand(client,"sm_play @all selena/one_on_one.mp3");
+				FakeClientCommand(client,"sm_play @all selena/music/worlds_end.mp3");
 			}
 			if (StrEqual(info,CHOICE7))
 			{
-				FakeClientCommand(client,"sm_selena2");
+				FakeClientCommand(client,"sm_selena");
+				
 			}
 	}
  
@@ -115,17 +118,17 @@ public MenuHandler1(Handle:menu, MenuAction:action, client, param2)
 	return 0;
 }
  
-public Action:Command_Sound2(client, args)
+public Action:Command_Sound(client, args)
 {
 	new Handle:menu = CreateMenu(MenuHandler1, MENU_ACTIONS_ALL);
 	SetMenuTitle(menu, "%T", "Menu Title", LANG_SERVER);
-	AddMenuItem(menu, CHOICE1, "Ass Pancakes Rage");
-	AddMenuItem(menu, CHOICE2, "Blitzkrieg 1");
-	AddMenuItem(menu, CHOICE3, "Blitzkrieg 2");
-	AddMenuItem(menu, CHOICE4, "Let's Go Ya Little Bitch!");
-	AddMenuItem(menu, CHOICE5, "Mineral Water!");
-	AddMenuItem(menu, CHOICE6, "One on One!");
-	AddMenuItem(menu, CHOICE7, "More");
+	AddMenuItem(menu, CHOICE1, "Dr. Sniper");
+	AddMenuItem(menu, CHOICE2, "St. Heffe's Theme");
+	AddMenuItem(menu, CHOICE3, "MLG Sniper's Theme");
+	AddMenuItem(menu, CHOICE4, "PAYDAY 2 - Hard Time");
+	AddMenuItem(menu, CHOICE5, "Thomas in da Club");
+	AddMenuItem(menu, CHOICE6, "[Demetori] 感情の魔天楼 ～ World's End");
+	AddMenuItem(menu, CHOICE7, "Back to Main");
 	SetMenuExitButton(menu, true);
 	DisplayMenu(menu, client, 60);
  
